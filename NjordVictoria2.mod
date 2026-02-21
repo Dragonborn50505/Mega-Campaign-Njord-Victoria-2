@@ -1,4 +1,4 @@
-name = "Converted - NjordVictoria2"
+name = "NjordVictoria2"
 path = "mod/NjordVictoria2"
 user_dir = "NjordVictoria2"
 replace = "history/provinces"
