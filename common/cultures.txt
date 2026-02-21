@@ -198,7 +198,7 @@ arab = {
 		
 	}
 	iberian_andes_superregion_culture = {
-		color = { 35 20 201 }
+		color = { 125 25 142 }
 		radicalism = 10
 		
 		first_names = { "Muhammad" "Yûsuf" "'Alî" "Sa'd" "Isma'îl" "Nasr" "'Abd" "al-Karim" "Ayman" "Barakat" "Basir" "Dawud" "Fahd" "Faris" "Faruq" "Haidar" "Hashim" "Husam" "Iqbal" "Jabbar" "Ja'far" "Jamal" "Junayd" "Khaliq" "Malik" "Mansur" "Mustafa" "Najib" "Qasim" "Qusay" "Rashîd" "Safi" "Sakhr" "Samir" "Tariq" "Umar" "Wahid" "Zahir" "Firdaus" "Fuad" "Rahim" "Abbad" "Abbas" "Abbas" "Abdallah" "Abdullah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abdul" "Abdul" "Abu" "Abu-Bakr" "Abu-Bakr" "Adfuns" "Alphonse" "Ahmad" "Ahmad" "Ali" "Ali" "Amr" "Ayyub" "Balashk" "Vasco" "Bilal" "Fadl" "Fath" "Galind" "Galindo" "Garsiya" "Garcia" "Hakam" "Hakam" "Hilal" "Ibrahim" "Abraham" "Isma'il" "Ismail" "Jyad" "Lubb" "Lupo" "Ma'n" "Mubashir" "Muhammad" "Muhammad" "Mundir" "Musa" "Moses" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" "Sancho" "Siddray" "Suleyman" "Solomon" "Tariq" "Tifilwit" "Umar" "Umar" "Utman" "Wannaqo" "Inigo" "Ya'far" "Yahaff" "Yahya" "John" "Yusuf" "Joseph" }
@@ -207,7 +207,7 @@ arab = {
 		
 	}
 	iberian_south_america_superregion_culture = {
-		color = { 110 171 189 }
+		color = { 181 198 28 }
 		radicalism = 10
 		
 		first_names = { "Muhammad" "Yûsuf" "'Alî" "Sa'd" "Isma'îl" "Nasr" "'Abd" "al-Karim" "Ayman" "Barakat" "Basir" "Dawud" "Fahd" "Faris" "Faruq" "Haidar" "Hashim" "Husam" "Iqbal" "Jabbar" "Ja'far" "Jamal" "Junayd" "Khaliq" "Malik" "Mansur" "Mustafa" "Najib" "Qasim" "Qusay" "Rashîd" "Safi" "Sakhr" "Samir" "Tariq" "Umar" "Wahid" "Zahir" "Firdaus" "Fuad" "Rahim" "Abbad" "Abbas" "Abbas" "Abdallah" "Abdullah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abdul" "Abdul" "Abu" "Abu-Bakr" "Abu-Bakr" "Adfuns" "Alphonse" "Ahmad" "Ahmad" "Ali" "Ali" "Amr" "Ayyub" "Balashk" "Vasco" "Bilal" "Fadl" "Fath" "Galind" "Galindo" "Garsiya" "Garcia" "Hakam" "Hakam" "Hilal" "Ibrahim" "Abraham" "Isma'il" "Ismail" "Jyad" "Lubb" "Lupo" "Ma'n" "Mubashir" "Muhammad" "Muhammad" "Mundir" "Musa" "Moses" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" "Sancho" "Siddray" "Suleyman" "Solomon" "Tariq" "Tifilwit" "Umar" "Umar" "Utman" "Wannaqo" "Inigo" "Ya'far" "Yahaff" "Yahya" "John" "Yusuf" "Joseph" }
@@ -393,7 +393,7 @@ baltic = {
 		
 	}
 	dynamic-sapmi-culture-num1 = {
-		color = { 82 127 66 }
+		color = { 180 213 22 }
 		
 		first_names = { "Baeivvet" "Biejan" "Bijás" "Bilzi" "Dávgon" "Duttá" "Gáivvas" "Elmar" "Hain" "Haljas" "Igapäiv" "Ihalemb" "Kahar" "Eeri" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" "Hüvatõiv" "Tõnn" "Uku" "Vootele" "Väino" "Värvo" "Õigemeel" "Ülo" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" "Lible" "Vambola" "Vandemeel" "Varjelemb" "Veli" "Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Andyamo" "Nuyaksha" "Nuyanza" "Nuyat" "Nydog" "Nylog" "Odeg" "Onika" "Osh" "Oshmar" "Oshypel" "Ovtay" "Ozheg" "Ozhmeg" "Arnaz" "Arti" "Artis" "Arvo" "Aymort" "Azeg" "Biur" "Biyar" "Burmort" "Chichayka" "Chuga" "Dergun" "Deryab" "Pakstyan" "Paksyay" "Paksyut" "Parush" "Pivtsay" "Pokshayka" "Putyayka" "Pyera" "Rateg" "Rayda" "Sarin" "Sektev" "Dobrinya" "Erziya" "Inzhay" "Kezhapa" "Kezhay" "Kezhedey" "Kezhevat" "Kichay" "Kubrat" "Malyaka" "Malyy" "Koshel" "Murunza" "Naruchad" "Nishkepaz" "Orunza" "Puresh" "Purysho" "Saksa" "Shkay" "Surt" "Tul" "Tunya" "Tutyra" }
 		
@@ -693,7 +693,7 @@ british = {
 		
 	}
 	british_north_america_superregion_culture = {
-		color = { 52 133 131 }
+		color = { 122 235 97 }
 		radicalism = 10
 		
 		first_names = { "James" "Robert" "Henry" "Alexander" "Arthur" "Walter" "John" "Charles" "Malcolm" "Donald" "David" "Duncan" "Andrea" "Alan" "Ailpein" "Archibald" "Barclay" "Beathan" "Bruce" "Cameron" "Cináed" "Conall" "Douglas" "Duff" "Edan" "Evander" "Fraser" "Garry" "Glen" "Ian" "Keir" "Kennedy" "Lennox" "Logan" "Micheil" "Mungo" "Munroe" "Scott" "Wallace" "Adam" "Alpin" "Alwin" "Alastair" "Andrew" "Angus" "Arran" "Aulay" "Olaf" "Brian" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "Kolbein" "Colin" "Nicholas" "Conan" "Constantine" "Dermid" "Dugald" "Edgar" "Edward" "Edwin" "Eric" "Ivar" "Ewan" "Eugene" "Farquhar" "Fergus" "Fingal" "Finn" "Findlay" "Frang" "Francis" "Gavin" "Gilbride" "Gilbert" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Gregory" "Hamish" "Hector" "Hugh" "Iain" "Indulf" "Jacob" "Kenneth" "Kentigern" "Lachlan" "Roland" "Laurence" "Lennon" "Lulach" "Macbeth" "Magnus" "Maldoven" "Maldred" "Malise" "Malmure" "Maoilios" "Marcas" "Marcus" "Matad" "Matthew" "Michael" "Morgan" "Muir" "Mungo" "Murdoch" "Murray" "Neil" "Nigel" "Ninian" "Oscar" "Patrick" "Paul" "Peter" "Philip" "Radulf" "Ralph" "Ranald" "Reginald" "Richard" "Ronald" "Ragnvald" "Rory" "Roderick" "Ross" "Roy" "Shaw" "Simon" "Somerled" "Stephan" "Stephen" "Sweeny" "Tadhg" "Tadg" "Talore" "Thomas" "Torquil" "Torkel" "Uhtred" "Uisdean" "Eysteinn" "Walan" "Valentin" "Waldeve" "Waltheof" "William" }
@@ -702,7 +702,7 @@ british = {
 		
 	}
 	british_south_america_superregion_culture = {
-		color = { 2 182 158 }
+		color = { 178 197 87 }
 		radicalism = 10
 		
 		first_names = { "James" "Robert" "Henry" "Alexander" "Arthur" "Walter" "John" "Charles" "Malcolm" "Donald" "David" "Duncan" "Andrea" "Alan" "Ailpein" "Archibald" "Barclay" "Beathan" "Bruce" "Cameron" "Cináed" "Conall" "Douglas" "Duff" "Edan" "Evander" "Fraser" "Garry" "Glen" "Ian" "Keir" "Kennedy" "Lennox" "Logan" "Micheil" "Mungo" "Munroe" "Scott" "Wallace" "Adam" "Alpin" "Alwin" "Alastair" "Andrew" "Angus" "Arran" "Aulay" "Olaf" "Brian" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "Kolbein" "Colin" "Nicholas" "Conan" "Constantine" "Dermid" "Dugald" "Edgar" "Edward" "Edwin" "Eric" "Ivar" "Ewan" "Eugene" "Farquhar" "Fergus" "Fingal" "Finn" "Findlay" "Frang" "Francis" "Gavin" "Gilbride" "Gilbert" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Gregory" "Hamish" "Hector" "Hugh" "Iain" "Indulf" "Jacob" "Kenneth" "Kentigern" "Lachlan" "Roland" "Laurence" "Lennon" "Lulach" "Macbeth" "Magnus" "Maldoven" "Maldred" "Malise" "Malmure" "Maoilios" "Marcas" "Marcus" "Matad" "Matthew" "Michael" "Morgan" "Muir" "Mungo" "Murdoch" "Murray" "Neil" "Nigel" "Ninian" "Oscar" "Patrick" "Paul" "Peter" "Philip" "Radulf" "Ralph" "Ranald" "Reginald" "Richard" "Ronald" "Ragnvald" "Rory" "Roderick" "Ross" "Roy" "Shaw" "Simon" "Somerled" "Stephan" "Stephen" "Sweeny" "Tadhg" "Tadg" "Talore" "Thomas" "Torquil" "Torkel" "Uhtred" "Uisdean" "Eysteinn" "Walan" "Valentin" "Waldeve" "Waltheof" "William" }
@@ -719,7 +719,7 @@ british = {
 		
 	}
 	dynamic-scottish-culture-num1 = {
-		color = { 175 128 173 }
+		color = { 216 136 147 }
 		
 		first_names = { "James" "Robert" "Henry" "Alexander" "Arthur" "Walter" "John" "Charles" "Malcolm" "Donald" "David" "Duncan" "Andrea" "Alan" "Ailpein" "Archibald" "Barclay" "Beathan" "Bruce" "Cameron" "Cináed" "Conall" "Douglas" "Duff" "Edan" "Evander" "Fraser" "Garry" "Glen" "Ian" "Keir" "Kennedy" "Lennox" "Logan" "Micheil" "Mungo" "Munroe" "Scott" "Wallace" "Adam" "Alpin" "Alwin" "Alastair" "Andrew" "Angus" "Arran" "Aulay" "Olaf" "Brian" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "Kolbein" "Colin" "Nicholas" "Conan" "Constantine" "Dermid" "Dugald" "Edgar" "Edward" "Edwin" "Eric" "Ivar" "Ewan" "Eugene" "Farquhar" "Fergus" "Fingal" "Finn" "Findlay" "Frang" "Francis" "Gavin" "Gilbride" "Gilbert" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Gregory" "Hamish" "Hector" "Hugh" "Iain" "Indulf" "Jacob" "Kenneth" "Kentigern" "Lachlan" "Roland" "Laurence" "Lennon" "Lulach" "Macbeth" "Magnus" "Maldoven" "Maldred" "Malise" "Malmure" "Maoilios" "Marcas" "Marcus" "Matad" "Matthew" "Michael" "Morgan" "Muir" "Mungo" "Murdoch" "Murray" "Neil" "Nigel" "Ninian" "Oscar" "Patrick" "Paul" "Peter" "Philip" "Radulf" "Ralph" "Ranald" "Reginald" "Richard" "Ronald" "Ragnvald" "Rory" "Roderick" "Ross" "Roy" "Shaw" "Simon" "Somerled" "Stephan" "Stephen" "Sweeny" "Tadhg" "Tadg" "Talore" "Thomas" "Torquil" "Torkel" "Uhtred" "Uisdean" "Eysteinn" "Walan" "Valentin" "Waldeve" "Waltheof" "William" }
 		
@@ -743,7 +743,7 @@ british = {
 		
 	}
 	gaelic_andes_superregion_culture = {
-		color = { 57 115 220 }
+		color = { 119 131 19 }
 		radicalism = 10
 		
 		first_names = { "Turlough" "Donal" "Muireadhach" "Conchobhar" "Feidlimidh" "Cathaoir" "Muchadh" "Áed" "Fonnchadh" "Brian" "Criomhthann" "Art" "Cathal" "Gearóid" "Muiris" "Tadhg" "Seán" "Niall" "Einrí" "Conn" "Eoghan" "Aonghus" "Comhghall" "Maeleachlain" "Diarmaid" "Flann" "Aerdghal" "Bearach" "Caoímhin" "Donnabhain" "Eíhmhín" "Fearghal" "Iarfhlaith" "Lorccán" "Mathúin" "Naomhán" "Oisín" "Pádraig" "Ríagáin" "Somhairle" "Aaron" "Aaron" "Abbán" "Abner" "Abner" "Abél" "Abel" "Adomnán" "Áed" "Hugh" "Áedgen" "Áeducán" "Áedán" "Hugh" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" "Alwin" "Ainbchellach" "Áindle" "Ainftech" "Enfidaig" "Ainmere" "Airechtach" "Airfhindán" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" "Amalgaid" "Amlaíb" "Olaf" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" "Ardgal" "Ardgar" "Art" "Arthur" "Angus" "Artbran" "Artgal" "Artgus" "Artucán" "Artúr" "Arthur" "Assiucc" "Augaire" "Augustín" "Augustine" "Aurthuile" "Báethgalach" "Báethíne" "Báetán" "Béoáed" "Barrfhind" "Beccán" "Berrach" "Bhátair" "Walter" "Blathmacc" "Bran" "Brandub" "Brangen" "Bressal" "Brian" "Brian" "Briccéne" "Briccíne" "Broccán" "Bruatur" "Bruide" "Bride" "Brénaind" "Brénainn" "Bróen" "Búaidbéo" "Caicher" "Cailech" "Cailte" "Cairbre" "Carbrey" "Cairell" "Caisséne" "Caissín" "Canann" "Canannán" "Carlus" "Charles" "Cathal" "Cathalán" "Cathassach" "Cathbad" "Cathmáel" "Cathmál" "Cathnio" "Cathub" "Causantín" "Constantine" "Caílte" "Caínchomrac" "Caíndelbán" "Ceithernach" "Cellach" "Cellachán" "Cennétig" "Kentigern" "Cenn-Fáelad" "Cennlachán" "Cerball" "Cernach" "Cernachán" "Cian" "Ciarán" "Cilléne" "Cináed" "Kenneth" "Clemens" "Clement" "Cobthach" "Coirpre" "Colcu" "Colmán" "Nicholas" "Columb" "Nicholas" "Comgán" "Conaing" "Conall" "Conall" "Conallán" "Conamail" "Conán" "Conan" "Conchenn" "Conchobar" "Condla" "Condla" "Congal" "Congalach" "Congus" "Conlang" "Conmac" "Conmacc" "Conmáel" "Conmál" "Conn" "Conn" "Connla" "Conrí" "Constans" "Constantius" "Constantín" "Constantine" "Corbb" "Corbán" "Corccán" "Corcrán" "Cormac" "Coscrach" "Coílboth" "Crimthann" "Crundmáel" "Crundmáel" "Cruinnmáel" "Crundmáel" "Críchán" "Crónán" "Cuilén" "Cuindles" "Cuircthe" "Cummascach" "Cáemán" "Cóelbad" "Cóelub" "Cóemán" "Cú-Allaid" "Cú-Bretan" "Cú-Caech" "Cú-Cen" "Cú-Cen-Máthair" "Cú-Cúaráin" "Cú-Gamna" "Cú-Roí" "Cúanu" "Cúldub" "Cúán" "Cúánán" "Dabíd" "David" "Daigre" "Dalbach" "Dallán" "Daniél" "Daniel" "Dathal" "Dathgus" "Demmán" "Diarmait" "Dermid" "Doedgus" "Domangart" "Domnall" "Donald" "Donn" "Donnchad" "Duncan" "Donncuan" "Duncan" "Donndubán" "Donngal" "Donnucán" "Duncan" "Doélgus" "Drost" "Drust" "Dub-dá-Lethe" "Dubcenn" "Dubgenn" "Dubh" "Duff" "Dubhghall" "Dugald" "Dubhglais" "Douglas" "Dubthach" "Dubáed" "Dubán" "Duiblesc" "Duibne" "Dunáed" "Dálach" "Dícuill" "Díglach" "Dímmae" "Dímmasach" "Dímmán" "Dínertach" "Dúnacán" "Dúnadach" "Duncan" "Dúngal" "Dúngalach" "Dúnlang" "Éamonn" "Edmund" "Echmarcach" "Échtgal" "Échtgus" "Echthigern" "Echuid" "Éicnech" "Éicnechán" "Eláir" "Énna" "Énri" "Henry" "Éochad" "Eochaid" "Eochaid" "Eochu" "Eochucán" "Éogan" "Eugene" "Eric" "Ercaid" "Ercáed" "Ercán" "Éremón" "Érennach" "Ernán" "Eterscél" "Eógan" "Eugene" "Eóganán" "Eugene" "Fachtna" "Fairchellach" "Fallaman" "Farannán" "Faílbe" "Fearghus" "Fergus" "Fechtnach" "Fedach" "Fearchar" "Farquhar" "Fedelmid" "Feirgil" "Felic" "Fer-Fugaill" "Feradach" "Feradach" "Ferdomnach" "Fergal" "Fergus" "Fergus" "Fianchú" "Findbarr" "Fingen" "Finguine" "Finn" "Finn" "Finnacán" "Finnbarr" "Finnchú" "Finnlagh" "Findlay" "Finnsnechtae" "Fintan" "Flaithbertach" "Flaithem" "Flaithemán" "Flaithgus" "Flaithrí" "Flann" "Flannacán" "Flannchad" "Flannán" "Fogartach" "Folachtach" "Forannán" "Forbassach" "Fothad" "Fothud" "Fuacarta" "Fubthad" "Fuirechtach" "Fursu" "Fáelcar" "Fáelchad" "Fáelchú" "Fáeldobur" "Fáelgus" "Fáelán" "Fáelbe" "Fíachnae" "Fíadchú" "Fíngin" "Fínsnechta" "Fócarta" "Gabrán" "Garalt" "Garbith" "Gilla-Íosa" "Gilla-Brígte" "Gilbert" "Gilla-Coluim" "Gilla-Comgáin" "Gilla-Críst" "Gilchrist" "Gilla-na-Náem" "Gilla-Pátraic" "Gilpatrick" "Gilla-Ruad" "Gilroy" "Glaisiuc" "Glaschu" "Glún-Iairn" "Gofraid" "Godfrey" "Gormacán" "Gormgus" "Gormán" "Guaire" "Gáethán" "Gáethíne" "Gósacht" "Iacob" "Jacob" "Iarlaithe" "Imchad" "Indrechtach" "Ioseph" "Joseph" "Íomhar" "Ivar" "Labraid" "Lachtnae" "Lachtnán" "Lachtnéne" "Laidcenn" "Laidgenn" "Laidíne" "Laisrén" "Lennán" "Lennon" "Lethlobur" "Liam" "William" "Lochlann" "Loingsech" "Lonán" "Lorcán" "Lugh" "Leon" "Lugaid" "Lugáed" "Láegaire" "Lóchéne" "Lóchíne" "Lóeguire" "Mac-Laisre" "Mainchíne" "Maine" "Manchán" "Martan" "Mathgamain" "Matudán" "Minchán" "Mo-Chonna" "Mo-Lua" "Móenach" "Máel-Anfaid" "Liber" "Fiachnae" "Erc" "Dúnchad" "Cillíne" "Caissíne" "Bran" "Morand" "Morann" "Mugrón" "Muirchertach" "Muirecán" "Muiredach" "Murdoch" "Muirgius" "Murchad" "Murchú" "Máel-Bresail" "Máel-Brígte" "Máel-Cein" "Máel-Cianáin" "Máel-Ciaráin" "Máel-Coluim" "Malcolm" "Máel-Corgis" "Máel-Dubh" "Maldoven" "Máel-Dúin" "Máel-Fothartaig" "Máel-Fábaill" "Máel-Íosa" "Malise" "Máel-Máedóc" "Máel-Martain" "Máel-Mórda" "Máel-Muire" "Malmure" "Máel-Míchíl" "Máel-Petair" "Máel-Pátraic" "Máel-Ruanaid" "Máel-Sechnaill" "Máel-Tólai" "Máelán" "Máenach" "Máthair" "Múadán" "Nadarchu" "Nannid" "Natfraech" "Natfraich" "Natsluaig" "Nechtan" "Nathan" "Niall" "Nigel" "Niallgus" "Niallán" "Nuadu" "Odrán" "Óengus" "Angus" "Óenucán" "Oissíne" "Olcán" "Ólchobar" "Onchú" "Orthanach" "Oscar" "Oscar" "Pátraic" "Patrick" "Petair" "Peter" "Pilib" "Pól" "Paul" "Proinsias" "Francis" "Rechtabra" "Riacán" "Riaguil" "Robartach" "Rogallach" "Rogellach" "Ruah" "Roy" "Roderick" "Ruarcc" "Rumann" "Ráthach" "Rígán" "Ríán" "Ródán" "Rónchú" "Rónán" "Ronan" "Rúadacán" "Rúadán" "Scandal" "Scandlán" "Scellán" "Scolaige" "Séaghdha" "Shaw" "Séafra" "Godfrey" "Séamas" "Jacob" "Seán" "John" "Sechnassach" "Selbach" "Senchán" "Seoán" "John" "Sinach" "Siothrún" "Godfrey" "Slébíne" "Snedgus" "Sogan" "Somhairle" "Somerled" "Suibne" "Sweeny" "Sáerbrethach" "Sárán" "Séigíne" "Sétna" "Sétnae" "Tadg" "Tadg" "Taithlech" "Talorc" "Talore" "Talorcán" "Temnén" "Tigernach" "Tigernán" "Tipraite" "Tomaltach" "Tomás" "Thomas" "Torccán" "Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Taran" "Tálán" "Tóla" "Túathal" "Tuathal" "Ualgarg" "Ualan" "Valentin" "Ualtar" "Walter" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "William" "Ultán" "Ruaidrí" "Philip" "Oisséne" }
@@ -752,7 +752,7 @@ british = {
 		
 	}
 	gaelic_central_america_superregion_culture = {
-		color = { 168 108 175 }
+		color = { 84 205 63 }
 		radicalism = 10
 		
 		first_names = { "Turlough" "Donal" "Muireadhach" "Conchobhar" "Feidlimidh" "Cathaoir" "Muchadh" "Áed" "Fonnchadh" "Brian" "Criomhthann" "Art" "Cathal" "Gearóid" "Muiris" "Tadhg" "Seán" "Niall" "Einrí" "Conn" "Eoghan" "Aonghus" "Comhghall" "Maeleachlain" "Diarmaid" "Flann" "Aerdghal" "Bearach" "Caoímhin" "Donnabhain" "Eíhmhín" "Fearghal" "Iarfhlaith" "Lorccán" "Mathúin" "Naomhán" "Oisín" "Pádraig" "Ríagáin" "Somhairle" "Aaron" "Aaron" "Abbán" "Abner" "Abner" "Abél" "Abel" "Adomnán" "Áed" "Hugh" "Áedgen" "Áeducán" "Áedán" "Hugh" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" "Alwin" "Ainbchellach" "Áindle" "Ainftech" "Enfidaig" "Ainmere" "Airechtach" "Airfhindán" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" "Amalgaid" "Amlaíb" "Olaf" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" "Ardgal" "Ardgar" "Art" "Arthur" "Angus" "Artbran" "Artgal" "Artgus" "Artucán" "Artúr" "Arthur" "Assiucc" "Augaire" "Augustín" "Augustine" "Aurthuile" "Báethgalach" "Báethíne" "Báetán" "Béoáed" "Barrfhind" "Beccán" "Berrach" "Bhátair" "Walter" "Blathmacc" "Bran" "Brandub" "Brangen" "Bressal" "Brian" "Brian" "Briccéne" "Briccíne" "Broccán" "Bruatur" "Bruide" "Bride" "Brénaind" "Brénainn" "Bróen" "Búaidbéo" "Caicher" "Cailech" "Cailte" "Cairbre" "Carbrey" "Cairell" "Caisséne" "Caissín" "Canann" "Canannán" "Carlus" "Charles" "Cathal" "Cathalán" "Cathassach" "Cathbad" "Cathmáel" "Cathmál" "Cathnio" "Cathub" "Causantín" "Constantine" "Caílte" "Caínchomrac" "Caíndelbán" "Ceithernach" "Cellach" "Cellachán" "Cennétig" "Kentigern" "Cenn-Fáelad" "Cennlachán" "Cerball" "Cernach" "Cernachán" "Cian" "Ciarán" "Cilléne" "Cináed" "Kenneth" "Clemens" "Clement" "Cobthach" "Coirpre" "Colcu" "Colmán" "Nicholas" "Columb" "Nicholas" "Comgán" "Conaing" "Conall" "Conall" "Conallán" "Conamail" "Conán" "Conan" "Conchenn" "Conchobar" "Condla" "Condla" "Congal" "Congalach" "Congus" "Conlang" "Conmac" "Conmacc" "Conmáel" "Conmál" "Conn" "Conn" "Connla" "Conrí" "Constans" "Constantius" "Constantín" "Constantine" "Corbb" "Corbán" "Corccán" "Corcrán" "Cormac" "Coscrach" "Coílboth" "Crimthann" "Crundmáel" "Crundmáel" "Cruinnmáel" "Crundmáel" "Críchán" "Crónán" "Cuilén" "Cuindles" "Cuircthe" "Cummascach" "Cáemán" "Cóelbad" "Cóelub" "Cóemán" "Cú-Allaid" "Cú-Bretan" "Cú-Caech" "Cú-Cen" "Cú-Cen-Máthair" "Cú-Cúaráin" "Cú-Gamna" "Cú-Roí" "Cúanu" "Cúldub" "Cúán" "Cúánán" "Dabíd" "David" "Daigre" "Dalbach" "Dallán" "Daniél" "Daniel" "Dathal" "Dathgus" "Demmán" "Diarmait" "Dermid" "Doedgus" "Domangart" "Domnall" "Donald" "Donn" "Donnchad" "Duncan" "Donncuan" "Duncan" "Donndubán" "Donngal" "Donnucán" "Duncan" "Doélgus" "Drost" "Drust" "Dub-dá-Lethe" "Dubcenn" "Dubgenn" "Dubh" "Duff" "Dubhghall" "Dugald" "Dubhglais" "Douglas" "Dubthach" "Dubáed" "Dubán" "Duiblesc" "Duibne" "Dunáed" "Dálach" "Dícuill" "Díglach" "Dímmae" "Dímmasach" "Dímmán" "Dínertach" "Dúnacán" "Dúnadach" "Duncan" "Dúngal" "Dúngalach" "Dúnlang" "Éamonn" "Edmund" "Echmarcach" "Échtgal" "Échtgus" "Echthigern" "Echuid" "Éicnech" "Éicnechán" "Eláir" "Énna" "Énri" "Henry" "Éochad" "Eochaid" "Eochaid" "Eochu" "Eochucán" "Éogan" "Eugene" "Eric" "Ercaid" "Ercáed" "Ercán" "Éremón" "Érennach" "Ernán" "Eterscél" "Eógan" "Eugene" "Eóganán" "Eugene" "Fachtna" "Fairchellach" "Fallaman" "Farannán" "Faílbe" "Fearghus" "Fergus" "Fechtnach" "Fedach" "Fearchar" "Farquhar" "Fedelmid" "Feirgil" "Felic" "Fer-Fugaill" "Feradach" "Feradach" "Ferdomnach" "Fergal" "Fergus" "Fergus" "Fianchú" "Findbarr" "Fingen" "Finguine" "Finn" "Finn" "Finnacán" "Finnbarr" "Finnchú" "Finnlagh" "Findlay" "Finnsnechtae" "Fintan" "Flaithbertach" "Flaithem" "Flaithemán" "Flaithgus" "Flaithrí" "Flann" "Flannacán" "Flannchad" "Flannán" "Fogartach" "Folachtach" "Forannán" "Forbassach" "Fothad" "Fothud" "Fuacarta" "Fubthad" "Fuirechtach" "Fursu" "Fáelcar" "Fáelchad" "Fáelchú" "Fáeldobur" "Fáelgus" "Fáelán" "Fáelbe" "Fíachnae" "Fíadchú" "Fíngin" "Fínsnechta" "Fócarta" "Gabrán" "Garalt" "Garbith" "Gilla-Íosa" "Gilla-Brígte" "Gilbert" "Gilla-Coluim" "Gilla-Comgáin" "Gilla-Críst" "Gilchrist" "Gilla-na-Náem" "Gilla-Pátraic" "Gilpatrick" "Gilla-Ruad" "Gilroy" "Glaisiuc" "Glaschu" "Glún-Iairn" "Gofraid" "Godfrey" "Gormacán" "Gormgus" "Gormán" "Guaire" "Gáethán" "Gáethíne" "Gósacht" "Iacob" "Jacob" "Iarlaithe" "Imchad" "Indrechtach" "Ioseph" "Joseph" "Íomhar" "Ivar" "Labraid" "Lachtnae" "Lachtnán" "Lachtnéne" "Laidcenn" "Laidgenn" "Laidíne" "Laisrén" "Lennán" "Lennon" "Lethlobur" "Liam" "William" "Lochlann" "Loingsech" "Lonán" "Lorcán" "Lugh" "Leon" "Lugaid" "Lugáed" "Láegaire" "Lóchéne" "Lóchíne" "Lóeguire" "Mac-Laisre" "Mainchíne" "Maine" "Manchán" "Martan" "Mathgamain" "Matudán" "Minchán" "Mo-Chonna" "Mo-Lua" "Móenach" "Máel-Anfaid" "Liber" "Fiachnae" "Erc" "Dúnchad" "Cillíne" "Caissíne" "Bran" "Morand" "Morann" "Mugrón" "Muirchertach" "Muirecán" "Muiredach" "Murdoch" "Muirgius" "Murchad" "Murchú" "Máel-Bresail" "Máel-Brígte" "Máel-Cein" "Máel-Cianáin" "Máel-Ciaráin" "Máel-Coluim" "Malcolm" "Máel-Corgis" "Máel-Dubh" "Maldoven" "Máel-Dúin" "Máel-Fothartaig" "Máel-Fábaill" "Máel-Íosa" "Malise" "Máel-Máedóc" "Máel-Martain" "Máel-Mórda" "Máel-Muire" "Malmure" "Máel-Míchíl" "Máel-Petair" "Máel-Pátraic" "Máel-Ruanaid" "Máel-Sechnaill" "Máel-Tólai" "Máelán" "Máenach" "Máthair" "Múadán" "Nadarchu" "Nannid" "Natfraech" "Natfraich" "Natsluaig" "Nechtan" "Nathan" "Niall" "Nigel" "Niallgus" "Niallán" "Nuadu" "Odrán" "Óengus" "Angus" "Óenucán" "Oissíne" "Olcán" "Ólchobar" "Onchú" "Orthanach" "Oscar" "Oscar" "Pátraic" "Patrick" "Petair" "Peter" "Pilib" "Pól" "Paul" "Proinsias" "Francis" "Rechtabra" "Riacán" "Riaguil" "Robartach" "Rogallach" "Rogellach" "Ruah" "Roy" "Roderick" "Ruarcc" "Rumann" "Ráthach" "Rígán" "Ríán" "Ródán" "Rónchú" "Rónán" "Ronan" "Rúadacán" "Rúadán" "Scandal" "Scandlán" "Scellán" "Scolaige" "Séaghdha" "Shaw" "Séafra" "Godfrey" "Séamas" "Jacob" "Seán" "John" "Sechnassach" "Selbach" "Senchán" "Seoán" "John" "Sinach" "Siothrún" "Godfrey" "Slébíne" "Snedgus" "Sogan" "Somhairle" "Somerled" "Suibne" "Sweeny" "Sáerbrethach" "Sárán" "Séigíne" "Sétna" "Sétnae" "Tadg" "Tadg" "Taithlech" "Talorc" "Talore" "Talorcán" "Temnén" "Tigernach" "Tigernán" "Tipraite" "Tomaltach" "Tomás" "Thomas" "Torccán" "Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Taran" "Tálán" "Tóla" "Túathal" "Tuathal" "Ualgarg" "Ualan" "Valentin" "Ualtar" "Walter" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "William" "Ultán" "Ruaidrí" "Philip" "Oisséne" }
@@ -761,7 +761,7 @@ british = {
 		
 	}
 	gaelic_north_america_superregion_culture = {
-		color = { 204 53 113 }
+		color = { 47 186 183 }
 		radicalism = 10
 		
 		first_names = { "Turlough" "Donal" "Muireadhach" "Conchobhar" "Feidlimidh" "Cathaoir" "Muchadh" "Áed" "Fonnchadh" "Brian" "Criomhthann" "Art" "Cathal" "Gearóid" "Muiris" "Tadhg" "Seán" "Niall" "Einrí" "Conn" "Eoghan" "Aonghus" "Comhghall" "Maeleachlain" "Diarmaid" "Flann" "Aerdghal" "Bearach" "Caoímhin" "Donnabhain" "Eíhmhín" "Fearghal" "Iarfhlaith" "Lorccán" "Mathúin" "Naomhán" "Oisín" "Pádraig" "Ríagáin" "Somhairle" "Aaron" "Aaron" "Abbán" "Abner" "Abner" "Abél" "Abel" "Adomnán" "Áed" "Hugh" "Áedgen" "Áeducán" "Áedán" "Hugh" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" "Alwin" "Ainbchellach" "Áindle" "Ainftech" "Enfidaig" "Ainmere" "Airechtach" "Airfhindán" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" "Amalgaid" "Amlaíb" "Olaf" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" "Ardgal" "Ardgar" "Art" "Arthur" "Angus" "Artbran" "Artgal" "Artgus" "Artucán" "Artúr" "Arthur" "Assiucc" "Augaire" "Augustín" "Augustine" "Aurthuile" "Báethgalach" "Báethíne" "Báetán" "Béoáed" "Barrfhind" "Beccán" "Berrach" "Bhátair" "Walter" "Blathmacc" "Bran" "Brandub" "Brangen" "Bressal" "Brian" "Brian" "Briccéne" "Briccíne" "Broccán" "Bruatur" "Bruide" "Bride" "Brénaind" "Brénainn" "Bróen" "Búaidbéo" "Caicher" "Cailech" "Cailte" "Cairbre" "Carbrey" "Cairell" "Caisséne" "Caissín" "Canann" "Canannán" "Carlus" "Charles" "Cathal" "Cathalán" "Cathassach" "Cathbad" "Cathmáel" "Cathmál" "Cathnio" "Cathub" "Causantín" "Constantine" "Caílte" "Caínchomrac" "Caíndelbán" "Ceithernach" "Cellach" "Cellachán" "Cennétig" "Kentigern" "Cenn-Fáelad" "Cennlachán" "Cerball" "Cernach" "Cernachán" "Cian" "Ciarán" "Cilléne" "Cináed" "Kenneth" "Clemens" "Clement" "Cobthach" "Coirpre" "Colcu" "Colmán" "Nicholas" "Columb" "Nicholas" "Comgán" "Conaing" "Conall" "Conall" "Conallán" "Conamail" "Conán" "Conan" "Conchenn" "Conchobar" "Condla" "Condla" "Congal" "Congalach" "Congus" "Conlang" "Conmac" "Conmacc" "Conmáel" "Conmál" "Conn" "Conn" "Connla" "Conrí" "Constans" "Constantius" "Constantín" "Constantine" "Corbb" "Corbán" "Corccán" "Corcrán" "Cormac" "Coscrach" "Coílboth" "Crimthann" "Crundmáel" "Crundmáel" "Cruinnmáel" "Crundmáel" "Críchán" "Crónán" "Cuilén" "Cuindles" "Cuircthe" "Cummascach" "Cáemán" "Cóelbad" "Cóelub" "Cóemán" "Cú-Allaid" "Cú-Bretan" "Cú-Caech" "Cú-Cen" "Cú-Cen-Máthair" "Cú-Cúaráin" "Cú-Gamna" "Cú-Roí" "Cúanu" "Cúldub" "Cúán" "Cúánán" "Dabíd" "David" "Daigre" "Dalbach" "Dallán" "Daniél" "Daniel" "Dathal" "Dathgus" "Demmán" "Diarmait" "Dermid" "Doedgus" "Domangart" "Domnall" "Donald" "Donn" "Donnchad" "Duncan" "Donncuan" "Duncan" "Donndubán" "Donngal" "Donnucán" "Duncan" "Doélgus" "Drost" "Drust" "Dub-dá-Lethe" "Dubcenn" "Dubgenn" "Dubh" "Duff" "Dubhghall" "Dugald" "Dubhglais" "Douglas" "Dubthach" "Dubáed" "Dubán" "Duiblesc" "Duibne" "Dunáed" "Dálach" "Dícuill" "Díglach" "Dímmae" "Dímmasach" "Dímmán" "Dínertach" "Dúnacán" "Dúnadach" "Duncan" "Dúngal" "Dúngalach" "Dúnlang" "Éamonn" "Edmund" "Echmarcach" "Échtgal" "Échtgus" "Echthigern" "Echuid" "Éicnech" "Éicnechán" "Eláir" "Énna" "Énri" "Henry" "Éochad" "Eochaid" "Eochaid" "Eochu" "Eochucán" "Éogan" "Eugene" "Eric" "Ercaid" "Ercáed" "Ercán" "Éremón" "Érennach" "Ernán" "Eterscél" "Eógan" "Eugene" "Eóganán" "Eugene" "Fachtna" "Fairchellach" "Fallaman" "Farannán" "Faílbe" "Fearghus" "Fergus" "Fechtnach" "Fedach" "Fearchar" "Farquhar" "Fedelmid" "Feirgil" "Felic" "Fer-Fugaill" "Feradach" "Feradach" "Ferdomnach" "Fergal" "Fergus" "Fergus" "Fianchú" "Findbarr" "Fingen" "Finguine" "Finn" "Finn" "Finnacán" "Finnbarr" "Finnchú" "Finnlagh" "Findlay" "Finnsnechtae" "Fintan" "Flaithbertach" "Flaithem" "Flaithemán" "Flaithgus" "Flaithrí" "Flann" "Flannacán" "Flannchad" "Flannán" "Fogartach" "Folachtach" "Forannán" "Forbassach" "Fothad" "Fothud" "Fuacarta" "Fubthad" "Fuirechtach" "Fursu" "Fáelcar" "Fáelchad" "Fáelchú" "Fáeldobur" "Fáelgus" "Fáelán" "Fáelbe" "Fíachnae" "Fíadchú" "Fíngin" "Fínsnechta" "Fócarta" "Gabrán" "Garalt" "Garbith" "Gilla-Íosa" "Gilla-Brígte" "Gilbert" "Gilla-Coluim" "Gilla-Comgáin" "Gilla-Críst" "Gilchrist" "Gilla-na-Náem" "Gilla-Pátraic" "Gilpatrick" "Gilla-Ruad" "Gilroy" "Glaisiuc" "Glaschu" "Glún-Iairn" "Gofraid" "Godfrey" "Gormacán" "Gormgus" "Gormán" "Guaire" "Gáethán" "Gáethíne" "Gósacht" "Iacob" "Jacob" "Iarlaithe" "Imchad" "Indrechtach" "Ioseph" "Joseph" "Íomhar" "Ivar" "Labraid" "Lachtnae" "Lachtnán" "Lachtnéne" "Laidcenn" "Laidgenn" "Laidíne" "Laisrén" "Lennán" "Lennon" "Lethlobur" "Liam" "William" "Lochlann" "Loingsech" "Lonán" "Lorcán" "Lugh" "Leon" "Lugaid" "Lugáed" "Láegaire" "Lóchéne" "Lóchíne" "Lóeguire" "Mac-Laisre" "Mainchíne" "Maine" "Manchán" "Martan" "Mathgamain" "Matudán" "Minchán" "Mo-Chonna" "Mo-Lua" "Móenach" "Máel-Anfaid" "Liber" "Fiachnae" "Erc" "Dúnchad" "Cillíne" "Caissíne" "Bran" "Morand" "Morann" "Mugrón" "Muirchertach" "Muirecán" "Muiredach" "Murdoch" "Muirgius" "Murchad" "Murchú" "Máel-Bresail" "Máel-Brígte" "Máel-Cein" "Máel-Cianáin" "Máel-Ciaráin" "Máel-Coluim" "Malcolm" "Máel-Corgis" "Máel-Dubh" "Maldoven" "Máel-Dúin" "Máel-Fothartaig" "Máel-Fábaill" "Máel-Íosa" "Malise" "Máel-Máedóc" "Máel-Martain" "Máel-Mórda" "Máel-Muire" "Malmure" "Máel-Míchíl" "Máel-Petair" "Máel-Pátraic" "Máel-Ruanaid" "Máel-Sechnaill" "Máel-Tólai" "Máelán" "Máenach" "Máthair" "Múadán" "Nadarchu" "Nannid" "Natfraech" "Natfraich" "Natsluaig" "Nechtan" "Nathan" "Niall" "Nigel" "Niallgus" "Niallán" "Nuadu" "Odrán" "Óengus" "Angus" "Óenucán" "Oissíne" "Olcán" "Ólchobar" "Onchú" "Orthanach" "Oscar" "Oscar" "Pátraic" "Patrick" "Petair" "Peter" "Pilib" "Pól" "Paul" "Proinsias" "Francis" "Rechtabra" "Riacán" "Riaguil" "Robartach" "Rogallach" "Rogellach" "Ruah" "Roy" "Roderick" "Ruarcc" "Rumann" "Ráthach" "Rígán" "Ríán" "Ródán" "Rónchú" "Rónán" "Ronan" "Rúadacán" "Rúadán" "Scandal" "Scandlán" "Scellán" "Scolaige" "Séaghdha" "Shaw" "Séafra" "Godfrey" "Séamas" "Jacob" "Seán" "John" "Sechnassach" "Selbach" "Senchán" "Seoán" "John" "Sinach" "Siothrún" "Godfrey" "Slébíne" "Snedgus" "Sogan" "Somhairle" "Somerled" "Suibne" "Sweeny" "Sáerbrethach" "Sárán" "Séigíne" "Sétna" "Sétnae" "Tadg" "Tadg" "Taithlech" "Talorc" "Talore" "Talorcán" "Temnén" "Tigernach" "Tigernán" "Tipraite" "Tomaltach" "Tomás" "Thomas" "Torccán" "Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Taran" "Tálán" "Tóla" "Túathal" "Tuathal" "Ualgarg" "Ualan" "Valentin" "Ualtar" "Walter" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "William" "Ultán" "Ruaidrí" "Philip" "Oisséne" }
@@ -1136,7 +1136,7 @@ central_asian = {
 	unit = MiddleEasternGC
 	
 	dynamic-armenian-oghuz-culture-num1 = {
-		color = { 103 176 17 }
+		color = { 25 173 69 }
 		
 		first_names = { "David" "Mkhitar" "Ashot" "Gagik" "Smbat" "Abbas" "Hovhannes" "Smbat" "Vagram" "Musegh" "Sahak" "Tachar" "Arakel" "Ari" "Armen" "Arshavir" "Avedis" "Badouagan" "Bedros" "Berjouhi" "Boghos" "Ghoukas" "Hagop" "Haig" "Hovhannes" "Hovsep" "Jirair" "Kapriel" "Kevork" "Khajag" "Krikor" "Levon" "Movses" "Nairi" "Sevan" "Taniel" "Vahan" "Zadig" "Zoravan" "Abas" "Abirad" "Aboughamr" "Aboulgharib" "Aleksandr" "Alexander" "Artashes" "Artashir" "Ardeshir" "Artavazd" "Arsen" "Arshak" "Ashot" "Ashot" "Athom" "Atrnerseh" "Atrnerseh" "Avag" "Avedis" "Bagour" "Bagour" "Bagrat" "Bedros" "Peter" "Boghos" "Paul" "Davit" "David" "Eshkhan" "Gagik" "Gagik" "Gevorg" "George" "Karayan" "Gosdantin" "Constantine" "Grigor" "Gregory" "Gurgen" "Lupo" "Hagop" "Hamazasp" "Hethum" "Hovhannes" "John" "Hovsep" "Joseph" "Ishkhan" "Ishkhan" "Ivane" "Kapriel" "Gabriel" "Khachik" "Khosrov" "Khosrau" "Levon" "Leo" "Malkhas" "Malkhas" "Mamigon" "Manuel" "Manuel" "Margos" "Marcus" "Melek" "Mihrdat" "Mithridates" "Mikayel" "Michael" "Mleh" "Mushegh" "Mushel" "Mzhezh" "Nerseh" "Narses" "Oshin" "Roupen" "Reuben" "Sahag" "Isaac" "Sarkis" "Sergius" "Sevag" "Shahanshah" "Kozar" "Karadach" "Ziebel" "Bï¿½ri Shad" "Irbis" "Khalga" "Kaban" "Busir" "Barjik" "Bihar" "Prisbit" "Baghatur" "Dyggvi" "Tarkhan" "Zachariah" "Yazir Bulash" "Chorpan" "Tarkhan" "Alp Tarkhan" "Tar'mach" "Hazer" "Bulan" "Sabriel" "Obadiah" "Hezekiah" "Manasseh" "Chanukkah" "Isaac" "Zebulun" "Manasseh" "Nisi" "Aaron" "Menahem" "Benjamin" "Joseph" "David" "Georgius" "Tzul" "Tzitzak" }
 		
@@ -1144,7 +1144,7 @@ central_asian = {
 		
 	}
 	dynamic-bedouin_arabic-mongol-culture-num1 = {
-		color = { 164 77 78 }
+		color = { 234 27 252 }
 		
 		first_names = { "Mani" "Rabi'a" "Musa" "Ibrahim" "Markhan" "Watban" "Nasir" "Idris" "'Abd-Allah" "Sa'ud" "Zayid" "Abdullah" "Muhammad" "'Abdullah" "Turki" "Faisal" "Al-Rahman" "Khalid" "Fahd" "Aziz" "Abu-Bakr" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdul" "Abdullah" "Abdullah" "Aghlab" "Akin" "Ali" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Hasan" "Husam" "Hussayn" "Hussayn" "Ibrahim" "Abraham" "Idris" "Is'mail" "Ismail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" "Muhammad" "Mukhtar" "Murad" "Musa" "Moses" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Solomon" "Talib" "Ubayd" "Uways" "Yahya" "Yahya" "Ya'qub" "Jacob" "Youkhanna" "John" "Yusuf" "Joseph" "Zeyd" "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -1152,7 +1152,7 @@ central_asian = {
 		
 	}
 	dynamic-gujarati-mongol-culture-num1 = {
-		color = { 199 177 232 }
+		color = { 123 237 185 }
 		
 		first_names = { "Zafar" "Muhammad" "Mubarak" "Ahmad" "Dawud" "Mahmud" "Muzaffar" "Bahadur" "Sardar" "Tatar" "Fath" "Khalil" "Sikandar" "Nasir" "Amarji" "Bhenji" "Hamirji" "Bhav" "Natwar" "Sidhraj" "Rajsinhji" "Fulad" "Abdul" "Abhayapala" "Acharya" "Ahila" "Ajairaja" "Jayaraja" "Ajayapala" "Ajay-Singh" "Alhana" "Allat" "Amarangeya" "Ambra-Prasad" "Amritapala" "Anahilla" "Ari-Singh" "Arjunavarman" "Arnoraja" "Asaraja" "Asvapala" "Balaprasada" "Baliraja" "Bhatarka" "Bhert-Patt" "Bhima" "Bhima" "Bhimadeva" "Bhima" "Bhim-Singh" "Bhuvan-Singh" "Bhoja" "Bhoo-Chand" "Chachiga" "Chamundaraja" "Chandanaraja" "Chandraraja" "Chaud-Singh" "Dadda" "Dambarisimha" "Deopali-Deo" "Devapala" "Dharapatta" "Dharasena" "Dharmapala" "Dhruvasena" "Dinakarn" "Dronasinha" "Dungar-Singh" "Durlabharaja" "Gajasimha" "Gopala" "Gopendraka" "Gopendraraja" "Gopendraraja" "Gopendraraja" "Govinda" "Govindaraja" "Govindapala" "Govindaraja" "Govindaraja" "Govindaraja" "Guhasena" "Guvaka" "Govindaraja" "Hammira" "Hammir-Singh" "Hanspal" "Hariraja" "Harischandra" "Hemachandra" "Jagadeva" "Jaitrasimha" "Jaitrasimha" "Jaitra-Singh" "Jaitrasimha" "Jaitugideva" "Jasapala" "Jaskarn" "Jayapala" "Jayaraja" "Jayaraja" "Jayasimha" "Jayasimha" "Jay-Singh" "Jayasimha" "Jay-Singh-Deo" "Jayat-Singh" "Jayasimha" "Jayavarman" "Jayshikari" "Jendraraja" "Jojalla" "Kalbhoj" "Kanhadadeva" "Karandeva" "Karnadeva" "Karan-Singh" "Karnadeva" "Karnadeva" "Katudeva" "Katukaraja" "Keerti-Verma" "Kirtivarman" "Kelhana" "Kharagraha" "Khuman" "Kirtipala" "Kirtivarman" "Kirtivarman" "Kumarapala" "Kshemraja" "Xemraja" "Kshem-Singh" "Kshetra-Singh" "Kumar-Singh" "Lakhanapala" "Lakhshaman-Singh" "Lakshmana" "Lakshmanadeva" "Lakshmanadeva" "Lakshmanadeva" "Lakshmivarman" "Lavanyakarna" "Lunavarman" "Luntiga" "Madanapala" "Mahap" "Mahayak" "Mahendra" "Mahendrapala" "Mahendrapala" "Mahendra" "Mahipala" "Mahlakadeva" "Maladeva" "Manavasimha" "Mathan-Singh" "Mattat" "Mihira" "Mulraja" "Nagabhata" "Nagarjuna" "Nagraja" "Naradeva" "Narapati" "Naravarman" "Naravarman" "Naravarmandeva" "Naravarman" "Narayanapala" "Nar-Verma" "Naravarman" "Narwahan" "Nayapala" "Padam-Singh" "Prahladana" "Pratapa" "Prithvipal" "Prithviraja" "Prithivipala" "Prithviraja" "Prithviraja" "Prithviraja" "Purnpala" "Rahap" "Rajapala" "Rajyapala" "Ramabhadra" "Ramapala" "Ratan-Singh" "Ratnapala" "Rayapala" "Rudrapala" "Sahajapala" "Sahanapala" "Samanta" "Samanta" "Samant-Singh" "Samanta" "Samantasimha" "Samanta" "Samarasimha" "Samarasimha" "Samar-Singh" "Samarasimha" "Shakti-Kumar" "Shaliwahan" "Shuchi-Verma" "Shurapala" "Siladitya" "Sindhuraja" "Singhraja" "Sinha" "Sinhad-Deo" "Siyaka" "Sohiya" "Someshwara" "Subhatavarman" "Suratrana" "Tejasimha" "Tejasimha" "Tej-Singh" "Tejasimha" "Trailokyavarman" "Tribhuvanapala" "Trilochanpala" "Udayaditya" "Udayasimha" "Udayavarman" "Upendra" "Vagbhata" "Vahadiasimha" "Vairisimha" "Vairisimha" "Vairsingh" "Vairisimha" "Vajradeva" "Vakapati" "Vakpati" "Vakpati" "Vakpati" "Vakpatiraja" "Vakpati" "Valhana" "Valhanadeva" "Valhanadeva" "Valhanadeva" "Vallabharaja" "Vanraja" "Vapyata" "Vasudeva" "Vatsaraja" "Vigrahapala" "Vigraharaja" "Vigraharaja" "Vigrharaja" "Vigraharaja" "Vijada-Dasasyandana" "Vijai-Singh" "Vikramaditya" "Vinaykpala" "Vindhyavarman" "Virama" "Viradeva" "Viranarayana" "Virsinh-Deo" "Viryarama" "Xemraja" "Xemraja" "Yasovarman" "Yograj" "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -1160,7 +1160,7 @@ central_asian = {
 		
 	}
 	dynamic-gujarati-mongol-culture-num2 = {
-		color = { 165 197 176 }
+		color = { 37 190 22 }
 		
 		first_names = { "Zafar" "Muhammad" "Mubarak" "Ahmad" "Dawud" "Mahmud" "Muzaffar" "Bahadur" "Sardar" "Tatar" "Fath" "Khalil" "Sikandar" "Nasir" "Amarji" "Bhenji" "Hamirji" "Bhav" "Natwar" "Sidhraj" "Rajsinhji" "Fulad" "Abdul" "Abhayapala" "Acharya" "Ahila" "Ajairaja" "Jayaraja" "Ajayapala" "Ajay-Singh" "Alhana" "Allat" "Amarangeya" "Ambra-Prasad" "Amritapala" "Anahilla" "Ari-Singh" "Arjunavarman" "Arnoraja" "Asaraja" "Asvapala" "Balaprasada" "Baliraja" "Bhatarka" "Bhert-Patt" "Bhima" "Bhima" "Bhimadeva" "Bhima" "Bhim-Singh" "Bhuvan-Singh" "Bhoja" "Bhoo-Chand" "Chachiga" "Chamundaraja" "Chandanaraja" "Chandraraja" "Chaud-Singh" "Dadda" "Dambarisimha" "Deopali-Deo" "Devapala" "Dharapatta" "Dharasena" "Dharmapala" "Dhruvasena" "Dinakarn" "Dronasinha" "Dungar-Singh" "Durlabharaja" "Gajasimha" "Gopala" "Gopendraka" "Gopendraraja" "Gopendraraja" "Gopendraraja" "Govinda" "Govindaraja" "Govindapala" "Govindaraja" "Govindaraja" "Govindaraja" "Guhasena" "Guvaka" "Govindaraja" "Hammira" "Hammir-Singh" "Hanspal" "Hariraja" "Harischandra" "Hemachandra" "Jagadeva" "Jaitrasimha" "Jaitrasimha" "Jaitra-Singh" "Jaitrasimha" "Jaitugideva" "Jasapala" "Jaskarn" "Jayapala" "Jayaraja" "Jayaraja" "Jayasimha" "Jayasimha" "Jay-Singh" "Jayasimha" "Jay-Singh-Deo" "Jayat-Singh" "Jayasimha" "Jayavarman" "Jayshikari" "Jendraraja" "Jojalla" "Kalbhoj" "Kanhadadeva" "Karandeva" "Karnadeva" "Karan-Singh" "Karnadeva" "Karnadeva" "Katudeva" "Katukaraja" "Keerti-Verma" "Kirtivarman" "Kelhana" "Kharagraha" "Khuman" "Kirtipala" "Kirtivarman" "Kirtivarman" "Kumarapala" "Kshemraja" "Xemraja" "Kshem-Singh" "Kshetra-Singh" "Kumar-Singh" "Lakhanapala" "Lakhshaman-Singh" "Lakshmana" "Lakshmanadeva" "Lakshmanadeva" "Lakshmanadeva" "Lakshmivarman" "Lavanyakarna" "Lunavarman" "Luntiga" "Madanapala" "Mahap" "Mahayak" "Mahendra" "Mahendrapala" "Mahendrapala" "Mahendra" "Mahipala" "Mahlakadeva" "Maladeva" "Manavasimha" "Mathan-Singh" "Mattat" "Mihira" "Mulraja" "Nagabhata" "Nagarjuna" "Nagraja" "Naradeva" "Narapati" "Naravarman" "Naravarman" "Naravarmandeva" "Naravarman" "Narayanapala" "Nar-Verma" "Naravarman" "Narwahan" "Nayapala" "Padam-Singh" "Prahladana" "Pratapa" "Prithvipal" "Prithviraja" "Prithivipala" "Prithviraja" "Prithviraja" "Prithviraja" "Purnpala" "Rahap" "Rajapala" "Rajyapala" "Ramabhadra" "Ramapala" "Ratan-Singh" "Ratnapala" "Rayapala" "Rudrapala" "Sahajapala" "Sahanapala" "Samanta" "Samanta" "Samant-Singh" "Samanta" "Samantasimha" "Samanta" "Samarasimha" "Samarasimha" "Samar-Singh" "Samarasimha" "Shakti-Kumar" "Shaliwahan" "Shuchi-Verma" "Shurapala" "Siladitya" "Sindhuraja" "Singhraja" "Sinha" "Sinhad-Deo" "Siyaka" "Sohiya" "Someshwara" "Subhatavarman" "Suratrana" "Tejasimha" "Tejasimha" "Tej-Singh" "Tejasimha" "Trailokyavarman" "Tribhuvanapala" "Trilochanpala" "Udayaditya" "Udayasimha" "Udayavarman" "Upendra" "Vagbhata" "Vahadiasimha" "Vairisimha" "Vairisimha" "Vairsingh" "Vairisimha" "Vajradeva" "Vakapati" "Vakpati" "Vakpati" "Vakpati" "Vakpatiraja" "Vakpati" "Valhana" "Valhanadeva" "Valhanadeva" "Valhanadeva" "Vallabharaja" "Vanraja" "Vapyata" "Vasudeva" "Vatsaraja" "Vigrahapala" "Vigraharaja" "Vigraharaja" "Vigrharaja" "Vigraharaja" "Vijada-Dasasyandana" "Vijai-Singh" "Vikramaditya" "Vinaykpala" "Vindhyavarman" "Virama" "Viradeva" "Viranarayana" "Virsinh-Deo" "Viryarama" "Xemraja" "Xemraja" "Yasovarman" "Yograj" "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -1168,7 +1168,7 @@ central_asian = {
 		
 	}
 	dynamic-kirgiz-culture-num1 = {
-		color = { 230 117 82 }
+		color = { 36 32 214 }
 		
 		first_names = { "Abdul-Karim" "Abdul-Latif" "Abdul-Rashîd" "Abdullah" "Ahmad" "Alghu" "Ali" "Baraq" "Bayan" "Quli" "Buqa" "Temür" "Buzan" "Changshi" "Danishmendji" "Dost" "Muhammad" "Dughlat" "Duwa" "Duwa" "Temür" "Eljigidey" "Esen" "Buqa" "Ilbars" "Ilyas" "Ismail" "Khabul" "Khizr" "Könchek" "Mahmud" "Mansur" "Mubarak" "Muhammad" "Muhammad" "Amin" "Muhammad" "Mumin" "Naqsh-i-Jahan" "Hulagu" "Qazaghan" "Qazan" "Quraysh" "Sa'id" "Satuq" "Shams-i-Jahan" "Sher" "Muhammad" "Soyurghatmish" "Taliqu" "Temür" "Tughlugh" "Temür" "Uwais" "Yasa'ur" "Yesu" "Mongke" "Yesun" "Temür" "Yunus" "Tarmashirin" "Negübei" "Qara" "Kebek" "Chagatay" }
 		
@@ -1176,7 +1176,7 @@ central_asian = {
 		
 	}
 	dynamic-kirgiz-culture-num2 = {
-		color = { 185 121 109 }
+		color = { 183 240 199 }
 		
 		first_names = { "Abdul-Karim" "Abdul-Latif" "Abdul-Rashîd" "Abdullah" "Ahmad" "Alghu" "Ali" "Baraq" "Bayan" "Quli" "Buqa" "Temür" "Buzan" "Changshi" "Danishmendji" "Dost" "Muhammad" "Dughlat" "Duwa" "Duwa" "Temür" "Eljigidey" "Esen" "Buqa" "Ilbars" "Ilyas" "Ismail" "Khabul" "Khizr" "Könchek" "Mahmud" "Mansur" "Mubarak" "Muhammad" "Muhammad" "Amin" "Muhammad" "Mumin" "Naqsh-i-Jahan" "Hulagu" "Qazaghan" "Qazan" "Quraysh" "Sa'id" "Satuq" "Shams-i-Jahan" "Sher" "Muhammad" "Soyurghatmish" "Taliqu" "Temür" "Tughlugh" "Temür" "Uwais" "Yasa'ur" "Yesu" "Mongke" "Yesun" "Temür" "Yunus" "Tarmashirin" "Negübei" "Qara" "Kebek" "Chagatay" }
 		
@@ -1184,7 +1184,7 @@ central_asian = {
 		
 	}
 	dynamic-mongol-culture-num1 = {
-		color = { 248 207 201 }
+		color = { 237 80 126 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -1192,7 +1192,7 @@ central_asian = {
 		
 	}
 	dynamic-mongol-culture-num2 = {
-		color = { 79 57 184 }
+		color = { 105 1 139 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -1200,7 +1200,7 @@ central_asian = {
 		
 	}
 	dynamic-mongol-culture-num3 = {
-		color = { 181 164 222 }
+		color = { 52 131 227 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -1208,7 +1208,7 @@ central_asian = {
 		
 	}
 	dynamic-mongol-culture-num4 = {
-		color = { 30 142 235 }
+		color = { 92 125 31 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -1216,7 +1216,7 @@ central_asian = {
 		
 	}
 	dynamic-mongol-peristani-culture-num1 = {
-		color = { 186 54 112 }
+		color = { 16 74 223 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" "Aaditya" "Abhimanyu" "Abhinanda" "Aditya" "Amit" "Anandhavardana" "Ananta" "Anil" "Arun" "Avantivarman" "Bansi" "Bharat" "Bhaskar" "Bhimagupta" "Birbal" "Braj" "Brij" "Chakravarman" "Chandrakanta" "Chandrapida" "Charanpal" "Damodara" "Dinanath" "Dipak" "Durlabhaka" "Durlabhvardhana" "Eshin" "Ganga" "Gangaram" "Gautam" "Giridhari" "Kisan" "Kishan" "Krishan" "Ksemagupta" "Kshemendra" "Kuldip" "Kuvalayapida" "SLakshman" "Laksmandadeva" "Lalit" "Lalitaditya" "Madan" "Manohar" "Maruti" "Mohan" "Moti" "Motilal" "Muktapida" "Mustafa" "Nanda" "Nandigupta" "Narain" "Naraindas" "Nidhi" "Niraj" "Omprakash" "Pamposh" "Paramanuka" "Pawan" "Phalunga" "Pran" "Pratapaditya" "Purushottam" "Pushkar" "Radda" "Rahim" "Rahul" "Rajadeva" "Rajinder" "Rajiv" "Ramadeva" "Ramchandra" "Rameshwar" "Ratnakara" "Ravinder" "Rohit" "Salhana" "Samgramadeva" "Samgramaraja" "Sandip" "Sankaravarman" "Satish" "Satyen" "Shakti" "Shambhu" "Shuhul" "Siddharth" "Sidhesh" "Simhadeva" "Simharaja" "Somnath" "Srivar" "Subhash" "Sudhir" "Suhadeva" "Sussala" "Suresh" "Swaroop" "Tejbahadur" "Tribhuvanagupta" "Triloki" "Trilokanath" "Trilokinath" "Tunga" "Uccala" "Udayaraja" "Upendra" "Utkarsa" "Utpal" "Vajraditya" "Vamana" "Vantideva" "Vasudev" "Vasudeva" "Vigraharaja" "Vijayapal" "Vir" "Vuppadeva" }
 		
@@ -1224,7 +1224,7 @@ central_asian = {
 		
 	}
 	dynamic-mongol-persian-culture-num1 = {
-		color = { 219 63 125 }
+		color = { 158 31 83 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" "Abbas" "Abolhassan" "Afshar" "Afshar" "Ahmad" "Ahmad" "Akbar" "Akbar" "Allahyar" "Amin" "Anushirvan" "Anushirvan" "Aram" "Ardahan" "Ardahan" "Ardavan" "Ardavan" "Ardeshir" "Ardeshir" "Assad" "Aurang" "Ayeshah" "Babak" "Babak" "Bahman" "Bahram" "Bahram" "Bakhtiar" "Bakhtiar" "Behrad" "Behrouz" "Bozorg" "Danush" "Danush" "Darab" "Dariush" "Darius" "Davud" "David" "Djamasp" "Ebrahim" "Abraham" "Ehsan" "Esfandiar" "Esfandiar" "Eskander" "Alexander" "Esma'il" "Ismail" "Faramarz" "Faramarz" "Faraz" "Faraz" "Fareed" "Farid" "Farhad" "Farhad" "Fariborz" "Fariborz" "Farroukh" "Farroukh" "Farrukhzad" "Farrukhzad" "Farzad" "Farzad" "Fath" "Ferdows" "Ferdows" "Fereedun" "Feridun" "Ghobad" "Gholam" "Godarz" "Goshtasb" "Goshtasb" "Hafez" "Hassan" "Hasan" "Hazarasp" "Hazarasp" "Hedayat" "Hooshyar" "Hooshyar" "Hormazd" "Hormazd" "Hormoz" "Hossein" "Hossein" "Humayun" "Jahandar" "Jahandar" "Jahangir" "Jahangir" "Jahanshah" "Jahanshah" "Jamshid" "Jamshid" "Javeed" "Javeed" "Kambiz" "Kamran" "Kavoos" "Kavoos" "Keyghobad" "Keykhosrau" "Keykhosrau" "Kharmandar" "Kharmandar" "Khashayar" "Khashayar" "Kavadh" "Khodadad" "Khodadad" "Khosrau" "Khosrau" "Khudayar" "Khudayar" "Khurshid" "Khurshid" "Kurush" "Cyrus" "Mahmud" "Manuchihr" "Manuchihr" "Manushihr" "Manushihr" "Marzuban" "Marzuban" "Mashad" "Mashad" "Maziar" "Mehrab" "Mehrzad" "Mohammed" "Muhammad" "Morad" "Morad" "Morteza" "Mozaffar" "Nard" "Naveed" "Nawid" "Nezam" "Parviz" "Pashang" "Pashang" "Peroz" "Peroz" "Pujman" "Reza" "Rostam" "Rostam" "Ruhollah" "Sadri" "Salman" "Shahab" "Shahab" "Shahbaz" "Shahbaz" "Shahin" "Shahin" "Shahram" "Shahram" "Shahrokh" "Sharokh" "Shahruz" "Shahruz" "Shahryar" "Shahryar" "Shapur" "Shapur" "Shayan" "Shayan" "Sina" "Tahmasb" "Tahmasb" "Vahhab" "Vahhab" "Vahid" "Vali" "Vandad" "Varshasb" "Varshasb" "Vishtasb" "Vishtasb" "Yazdegerd" "Yousef" "Joseph" "Zahak" "Zakaria" "Zand" "Zartosht" "Zartosht" "Zia" "Joneid" "Haidar" "Ismâ'îl" "Tamâshp" "Mohammad" "Kodabânda" "'Abbâs" "Safi" "Hosayn" "Nâder" "Shâh" "'Âdel" "Shâh" "Ebrâhim" "Shâh" "Rukh" "Nâder" "Mirza" "Karim" "Khân" "Abu'l" "Fath" "Sâdiq" "Morâd" "Ja'far" "Loft" "Ali" "Aga" "Muhammad" "Fath" "Alî" "Solaymân" }
 		
@@ -1232,7 +1232,7 @@ central_asian = {
 		
 	}
 	dynamic-mongol-uyghur-culture-num1 = {
-		color = { 133 137 130 }
+		color = { 147 156 51 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" "Abdul-Karim" "Abdul-Latif" "Abdul-Rashîd" "Abdullah" "Ahmad" "Alghu" "Ali" "Baraq" "Bayan" "Quli" "Buqa" "Temür" "Buzan" "Changshi" "Danishmendji" "Dost" "Muhammad" "Dughlat" "Duwa" "Duwa" "Temür" "Eljigidey" "Esen" "Buqa" "Ilbars" "Ilyas" "Ismail" "Khabul" "Khizr" "Könchek" "Mahmud" "Mansur" "Mubarak" "Muhammad" "Muhammad" "Amin" "Muhammad" "Mumin" "Naqsh-i-Jahan" "Hulagu" "Qazaghan" "Qazan" "Quraysh" "Sa'id" "Satuq" "Shams-i-Jahan" "Sher" "Muhammad" "Soyurghatmish" "Taliqu" "Temür" "Tughlugh" "Temür" "Uwais" "Yasa'ur" "Yesu" "Mongke" "Yesun" "Temür" "Yunus" "Chagatay" "Tarmashirin" "Negübei" "Qara" "Kebek" "Yahballaha" }
 		
@@ -1240,7 +1240,7 @@ central_asian = {
 		
 	}
 	dynamic-nogaybak-culture-num1 = {
-		color = { 31 101 214 }
+		color = { 205 122 113 }
 		
 		first_names = { "Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi" "Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail" "Jan Qubad" "Kanay" "Khorezmi" "Kuchuk" "Mansur" "Muhammad" "Musa" "Qasim" "Sayid Ahmad" "Shay Tarak" "Sheykh Mamay" "Timur" "Uraz Muhammad" "Urus" "Vakkas" "Yamghurchi" "Yash Tarak" "Yusuf" }
 		
@@ -1248,7 +1248,7 @@ central_asian = {
 		
 	}
 	dynamic-nogaybak-mongol-culture-num1 = {
-		color = { 119 32 221 }
+		color = { 233 227 199 }
 		
 		first_names = { "Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi" "Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail" "Jan Qubad" "Kanay" "Khorezmi" "Kuchuk" "Mansur" "Muhammad" "Musa" "Qasim" "Sayid Ahmad" "Shay Tarak" "Sheykh Mamay" "Timur" "Uraz Muhammad" "Urus" "Vakkas" "Yamghurchi" "Yash Tarak" "Yusuf" "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -1256,7 +1256,7 @@ central_asian = {
 		
 	}
 	dynamic-russian_culture-culture-num2 = {
-		color = { 151 221 89 }
+		color = { 85 106 122 }
 		
 		first_names = { "Briachislav" "Bretislaus" "Demid" "Dobrynia" "Fedot" "Theodat" "Gleb" "Igor" "Iliya" "Iziaslav" "Lev" "Leo" "Mitrofan" "Mstislav" "Mstislav" "Svetozar" "Nikita" "Putiata" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Stanislav" "Stanislav" "Sudislav" "Sviatopolk" "Svatopluk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladimir" "Vladislav" "Voislav" "Volodar" "Vseslav" "Vladislav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Jaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" }
 		
@@ -1264,7 +1264,7 @@ central_asian = {
 		
 	}
 	dynamic-tuvan-culture-num1 = {
-		color = { 86 249 185 }
+		color = { 47 34 153 }
 		
 		first_names = { }
 		
@@ -1272,7 +1272,7 @@ central_asian = {
 		
 	}
 	dynamic-uyghur-culture-num1 = {
-		color = { 39 105 204 }
+		color = { 163 130 59 }
 		
 		first_names = { "Abdul-Karim" "Abdul-Latif" "Abdul-Rashîd" "Abdullah" "Ahmad" "Alghu" "Ali" "Baraq" "Bayan" "Quli" "Buqa" "Temür" "Buzan" "Changshi" "Danishmendji" "Dost" "Muhammad" "Dughlat" "Duwa" "Duwa" "Temür" "Eljigidey" "Esen" "Buqa" "Ilbars" "Ilyas" "Ismail" "Khabul" "Khizr" "Könchek" "Mahmud" "Mansur" "Mubarak" "Muhammad" "Muhammad" "Amin" "Muhammad" "Mumin" "Naqsh-i-Jahan" "Hulagu" "Qazaghan" "Qazan" "Quraysh" "Sa'id" "Satuq" "Shams-i-Jahan" "Sher" "Muhammad" "Soyurghatmish" "Taliqu" "Temür" "Tughlugh" "Temür" "Uwais" "Yasa'ur" "Yesu" "Mongke" "Yesun" "Temür" "Yunus" "Chagatay" "Tarmashirin" "Negübei" "Qara" "Kebek" "Yahballaha" }
 		
@@ -1280,7 +1280,7 @@ central_asian = {
 		
 	}
 	dynamic-uyghur-culture-num2 = {
-		color = { 15 196 227 }
+		color = { 120 60 171 }
 		
 		first_names = { "Abdul-Karim" "Abdul-Latif" "Abdul-Rashîd" "Abdullah" "Ahmad" "Alghu" "Ali" "Baraq" "Bayan" "Quli" "Buqa" "Temür" "Buzan" "Changshi" "Danishmendji" "Dost" "Muhammad" "Dughlat" "Duwa" "Duwa" "Temür" "Eljigidey" "Esen" "Buqa" "Ilbars" "Ilyas" "Ismail" "Khabul" "Khizr" "Könchek" "Mahmud" "Mansur" "Mubarak" "Muhammad" "Muhammad" "Amin" "Muhammad" "Mumin" "Naqsh-i-Jahan" "Hulagu" "Qazaghan" "Qazan" "Quraysh" "Sa'id" "Satuq" "Shams-i-Jahan" "Sher" "Muhammad" "Soyurghatmish" "Taliqu" "Temür" "Tughlugh" "Temür" "Uwais" "Yasa'ur" "Yesu" "Mongke" "Yesun" "Temür" "Yunus" "Chagatay" "Tarmashirin" "Negübei" "Qara" "Kebek" "Yahballaha" }
 		
@@ -1288,7 +1288,7 @@ central_asian = {
 		
 	}
 	dynamic-uzbehk-culture-num1 = {
-		color = { 189 230 142 }
+		color = { 47 113 109 }
 		
 		first_names = { "Abdul-Aziz" "Abdul-Karim" "Abdul-Mumin" "Abdul-Rahim" "Abdulla" "Abu" "Said" "Abu'l-Feiz" "Abu'l-Ghazi" "Abu'l-Khayr" "Abu'l-Mansur" "Agatay" "Alim" "Anusha" "Arab" "Muhammad" "Avanesh" "Bahadur" "Bakht" "Baqi" "Muhammad" "Budjuga" "Bureke" "Djuchi" "Dost" "Habash" "Hadji" "Hadji" "Muhammad" "Hassan" "Quli" "Haydar" "Imam" "Quli" "Ilbars" "Irdana" "Isfandiyar" "Isim" "Janibek" "Kal" "Khudayar" "Khudaydad" "Kochkunju" "Muhammad" "Muhammad" "Amin" "Muhammad" "Hakim" "Muhammad" "Rahim" "Nadir" "Muhammad" "Narbuta" "Navruz" "Ahmad" "Niyaz" "Pir" "Muhammad" "Sanjar" "Sevinch" "Shadi" "Shahmurad" "Shahrukh" "Shaykh" "Subhan" "Quli" "Sufyan" "Suleyman" "Tahir" "Timur" "Ubaydulla" "Umar" "Vali" "Vali" "Muhammad" "Yadgar" "Daniyal" "Haidar" "Iskandar" }
 		
@@ -1519,7 +1519,7 @@ east_african = {
 		
 	}
 	dynamic-al_misr_arabic-nubian_RICE-culture-num1 = {
-		color = { 53 69 195 }
+		color = { 251 198 133 }
 		
 		first_names = { "Muhammad" "Ahmad" "Qânsawh" "Tûmân" "Bay" "Inâl" "Khusqadam" "'Abd" "al-'Aziz" "al-Musta'in" "al-Nasr" "Faraj" "Barsbay" "Qâyit" "Bay" "Shaik" "al-Mahmudi" "Timurbughâ" "'Uthman" "Yalbay" "Jânbulât" "Yûsuf" "Barqûq" "'Alî" "Baybars" "Hâjjî" "Bakr" "al-Hasan" "Isma'îl" "Kûjûk" "Sâlih" "'Abd" "al-Malik" "Basir" "Fadl" "Ghayth" "Hatim" "Ilyas" "Jabir" "Nadim" "Nizar" "Sayyid" "Yunus" "Jaqmaq" "Qasim" "Sa'di" "Sha'bân" "Abû" }
 		
@@ -1726,7 +1726,7 @@ east_asian = {
 		
 	}
 	dynamic-tibetan-culture-num1 = {
-		color = { 26 146 206 }
+		color = { 75 112 139 }
 		
 		first_names = { "Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dön-yö Dorje" "Ngawang Namgyal" "Töndup Tseten" "Phüntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" "Lhabzang" "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" "Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso" "Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" "Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" "Rabtan" "Sengge" "Galdan" "Gushi" "Dorjee" "Dote" "Kalden" }
 		
@@ -1734,7 +1734,7 @@ east_asian = {
 		
 	}
 	dynamic-tibetan-culture-num2 = {
-		color = { 242 252 113 }
+		color = { 82 86 33 }
 		
 		first_names = { "Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dön-yö Dorje" "Ngawang Namgyal" "Töndup Tseten" "Phüntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" "Lhabzang" "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" "Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso" "Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" "Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" "Rabtan" "Sengge" "Galdan" "Gushi" "Dorjee" "Dote" "Kalden" }
 		
@@ -1742,7 +1742,7 @@ east_asian = {
 		
 	}
 	dynamic-tibetan-culture-num3 = {
-		color = { 130 195 217 }
+		color = { 172 162 75 }
 		
 		first_names = { "Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dön-yö Dorje" "Ngawang Namgyal" "Töndup Tseten" "Phüntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" "Lhabzang" "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" "Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso" "Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" "Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" "Rabtan" "Sengge" "Galdan" "Gushi" "Dorjee" "Dote" "Kalden" }
 		
@@ -1750,7 +1750,7 @@ east_asian = {
 		
 	}
 	dynamic-tibetan-culture-num4 = {
-		color = { 67 237 136 }
+		color = { 157 251 67 }
 		
 		first_names = { "Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dön-yö Dorje" "Ngawang Namgyal" "Töndup Tseten" "Phüntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" "Lhabzang" "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" "Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso" "Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" "Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" "Rabtan" "Sengge" "Galdan" "Gushi" "Dorjee" "Dote" "Kalden" }
 		
@@ -1888,7 +1888,7 @@ east_slavic = {
 		
 	}
 	dynamic-mongol-russian_culture-culture-num1 = {
-		color = { 175 94 62 }
+		color = { 186 139 40 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" "Briachislav" "Bretislaus" "Demid" "Dobrynia" "Fedot" "Theodat" "Gleb" "Igor" "Iliya" "Iziaslav" "Lev" "Leo" "Mitrofan" "Mstislav" "Mstislav" "Svetozar" "Nikita" "Putiata" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Stanislav" "Stanislav" "Sudislav" "Sviatopolk" "Svatopluk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladimir" "Vladislav" "Voislav" "Volodar" "Vseslav" "Vladislav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Jaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" }
 		
@@ -1896,7 +1896,7 @@ east_slavic = {
 		
 	}
 	dynamic-russian_culture-culture-num1 = {
-		color = { 201 198 154 }
+		color = { 162 246 175 }
 		
 		first_names = { "Briachislav" "Bretislaus" "Demid" "Dobrynia" "Fedot" "Theodat" "Gleb" "Igor" "Iliya" "Iziaslav" "Lev" "Leo" "Mitrofan" "Mstislav" "Mstislav" "Svetozar" "Nikita" "Putiata" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Stanislav" "Stanislav" "Sudislav" "Sviatopolk" "Svatopluk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladimir" "Vladislav" "Voislav" "Volodar" "Vseslav" "Vladislav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Jaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" }
 		
@@ -1904,7 +1904,7 @@ east_slavic = {
 		
 	}
 	dynamic-samoyed-culture-num1 = {
-		color = { 28 209 8 }
+		color = { 70 33 74 }
 		
 		first_names = { "Alik" "Hasaba" "Kako" "Kharuchi" "Kolik" "Mandak" "Nabtiko" "Nenyts" "Nga" "Ngënoh" "Noumea" "Num" "Nyalku" "Panay" "Salinder" "Samatu" "Sarak" "Sirtya" "Somatu" "Syudbya" "Tatva" "Tolik" "Vesei" "Wayngachi" "Xëryuchi" "Yadne" "Yar" "Yavlad" "Yurak" "Pudak" "Yapti" }
 		
@@ -1912,7 +1912,7 @@ east_slavic = {
 		
 	}
 	east_slavic_north_america_superregion_culture = {
-		color = { 170 152 105 }
+		color = { 93 93 105 }
 		radicalism = 10
 		
 		first_names = { "Vasiliy" "Ivan" "Dmitriy" "Yuriy" "Andrei" "Semen" "Fyodor" "Afanasiy" "Akim" "Aleksandr" "Alexei" "Anatoliy" "Arkadiy" "Dorofey" "Feodosiy" "Feofilakt" "Gavriil" "Innokentiy" "Iosif" "Lavrentiy" "Makariy" "Matveiy" "Mikhail" "Nazariy" "Onisim" "Pavel" "Prokopiy" "Pyotr" "Radomir" "Saveliy" "Sergei" "Terentiy" "Valeriy" "Yakim" "Yevgeniy" "Afanasiy" "Athanasius" "Alexandr" "Alexander" "Alexei" "Alexis" "Andrei" "Andrew" "Boris" "Briachislav" "Bretislaus" "Nikifor" "Daniil" "Daniel" "Davyd" "David" "Demid" "Dmitriy" "Demetrius" "Dobrynia" "Fedot" "Theodat" "Feodor" "Theodore" "Gavriil" "Gabriel" "Gleb" "Grigoriy" "Gregory" "Iakov" "Jacob" "Igor" "Iliya" "Ingvar" "Ingvar" "Ivan" "John" "Iziaslav" "Kirill" "Cyril" "Konstantin" "Constantine" "Koz'ma" "Cosma" "Lev" "Leo" "Matfei" "Matthew" "Mikhail" "Michael" "Mitrofan" "Mstislav" "Nikita" "Oleg" "Helge" "Pavel" "Paul" "Putiata" "Radoslav" "Rodislav" "Rogvolod" "Roman" "Rostislav" "Rurik" "Rurik" "Ruslan" "Simeon" "Simon" "Stanislav" "Stanislav" "Stepan" "Stephen" "Sudislav" "Svetozar" "Sviatopolk" "Svatopluk" "Sviatoslav" "Sviatoslav" "Terentiy" "Trifon" "Vasiliy" "Basil" "Vasilko" "Viacheslav" "Vladimir" "Vladimir" "Vladislav" "Vladislav" "Voislav" "Volodar" "Vseslav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Jaroslav" "Yefimiy" "Yelisey" "Yemelyan" "Emil" "Yeremey" "Yevstafiy" "Yuriy" "George" }
@@ -2059,7 +2059,7 @@ french = {
 		
 	}
 	dynamic-normand-culture-num1 = {
-		color = { 43 39 41 }
+		color = { 179 54 55 }
 		
 		first_names = { "Édouard" "Érrard" "Étienne" "Adémar" "Adrien" "Aimery" "Alain" "Aldebert" "Aldéric" "Alphonse" "Amaury" "Amédée" "Ancel" "André" "Antoine" "Archambaud" "Arnaud" "Arnault" "Arnoul" "Aubry" "Aymar" "Barthélémi" "Baudouin" "Benoît" "Bérenger" "Bernard" "Bertrand" "Bohemond" "Boson" "Bouchard" "Centule" "Charles" "Clotaire" "Ebbon" "Enguerrand" "Eudes" "Eustache" "Evrard" "Foulques" "François" "Frédéric" "Gaucher" "Gaucelin" "Gauthier" "Geoffroi" "Géraud" "Gilbert" "Gilles" "Godefroi" "Guichard" "Guiges" "Guilhem" "Guillaume" "Guy" "Hélie" "Hamelin" "Henri" "Herbert" "Hildebert" "Hugues" "Humbert" "Jacques" "Jaufré" "Jaspert" "Jean" "Jourdain" "Julien" "Léon" "Léonard" "Lothaire" "Louis" "Loup" "Mathieu" "Maurice" "Nicolas" "Ogier" "Onfroi" "Orson" "Othon" "Payen" "Philippe" "Pierre" "Raimbaut" "Raoul" "Raymond" "Raynaud" "Renaud" "Richard" "Robert" "Robin" "Roger" "Rorgues" "Roubaud" "Savary" "Sigismond" "Simon" "Thibault" "Thiébaut" "Thierry" "Thomas" "Valeran" "Yves" }
 		
@@ -2156,7 +2156,7 @@ germanic = {
 		
 	}
 	dynamic-bavarian-culture-num1 = {
-		color = { 200 28 149 }
+		color = { 136 42 10 }
 		
 		first_names = { "Albrecht" "Wilhelm" "Johann" "Ernst" "Maximilian" "Emanuel" "Siegmund" "Ludwig" "Anton" "Christoph" "Ferdinand" "Leopold" "Philipp" "Theodor" "Adalbert" "Alois" "Johann" "Clemens" "August" "Friedrich" "Johann" "Theodor" "Joseph" "Luitpold" "Otto" "Philipp" "Moritz" "Wolfgang" "Engelbert" "Gottfried" "Hieronymus" "Ignatz" "Markus" "Meinhard" "Raphael" "Karl" "Kajetan" "Clemens" }
 		
@@ -2180,7 +2180,7 @@ germanic = {
 		
 	}
 	germanic_north_america_superregion_culture = {
-		color = { 65 244 250 }
+		color = { 192 186 88 }
 		radicalism = 10
 		
 		first_names = { "Friedrich" "Albrecht" "Christian" "Heinrich" "Rudolf" "August" "Ernst" "Georg" "Moritz" "Alexander" "Anton" "Hektor" "Johann" "Karl" "Clemens" "Wenzel" "Franz" "Xaver" "Joachim" "Joseph" "Magnus" "Maximilian" "Severinus" "Wolfgang" "Andreas" "Bruno" "Burkhard" "Günther" "HermannLukas" "Micharl" "Reimund" "Ulrich" "Wilfried" "Wolfram" "Konrad" "Edwin" "Marcus" "Osmund" "Peter" "Ralph" "Reginald" "Sigehelm" "Wulfhelm" "Wulfhere" "Alfred" "Alwin" "Adémar" "Alwin" "Adolf" "Albert" "Albrecht" "Arnold" "Baltasar" "Benedict" "Bernd" "Bernard" "Bernhard" "Bertold" "Bertram" "Bertrand" "Burchard" "Claus" "Nicholas" "Cobbo" "Cord" "Dietmar" "Diederik" "Ekkehard" "Ekbert" "Engelbert" "Engelhard" "Erik" "Albert" "Ewald" "Frederick" "Gerard" "Gebhard" "Giselmar" "Gottschalk" "Günther" "Hans" "Heideke" "Herbert" "Hermann" "Hinrik" "Jacob" "Jaspar" "Caspar" "Jochim" "Joakim" "Johann" "Kersten" "Christian" "Laurentz" "Lambert" "Liawizo" "Liemar" "Liudger" "Otto" "Ludolf" "Ludwig" "Louis" "Mathias" "Matthew" "Meinwerk" "Merten" "Martin" "Michael" "Norbert" "Ordulf" "Peter" "Philip" "Renard" "Reinmar" "Roger" "Rudolf" "Ralph" "Sigbert" "Sigisbert" "Sigfrid" "Siegfried" "Sigward" "Sigurd" "Simon" "Steffen" "Thomas" "Waldemar" "Werner" "Victor" "Werneke" "Weybrecht" "Wichbert" "Wichmann" "Wigebert" "Wolter" "Walter" "Wulff" "Ulf" "Ernst" "Adolf" "Alfred" "August" "Christian" "Eduard" "Friedrich" "Georg" "Karl" "Philipp" "Maximilian" "Octavius" "Wilhelm" "Alexander" "Alois" "Anton" "Bruno" "Clemens" "Denis" "Gerfried" "Gottfried" "Günther" "Helmut" "Herbert" "Ignatz" "Isidor" "Konstantin" "Kuno" "Markus" "Martin" "Oskar" "Reinhard" "Silvester" "Stefan" "Waldemar" "Jakob" "Boguslaw" "Barnim" "Ota" "Eryk" "Filip" "Franciszek" "Jan" "Fryderyk" "Georg" "Ernest" "Ludwik" "Albrecht" "Arnt" "August" "Bernhard" "Bodo" "Carl" "Emil" "Fritz" "Gerhard" "Gustav" "Harald" "Hendryk" "Herbert" "Hermann" "Jochem" "Maximiliam" "Reinhold" "Siegfried" "Walter" "Wilhelm" "Alexander" "Andrzej" "Antoni" "Antoninus" "Aron" "Bartosz" "Bartolomeus" "Bedrich" "Frederick" "Bezprzym" "Blazej" "Blaise" "Bogislaw" "Bohdan" "Bogdan" "Bohumir" "Boleslaw" "Boleslav" "Boriwoj" "Borijov" "Bozydar" "Theodat" "Branimir" "Branislav" "Bretislav" "Bretislaus" "Casimir" "Ctibor" "Ctibor" "Dobieslaw" "Dobromil" "Drosuk" "Dytryk" "Thierry" "Frantisek" "Francis" "Gawel" "Grzegorz" "Gregory" "Havel" "Gallus" "Jacenty" "Hyacinth" "Jakub" "Jakusz" "Jacob" "Janusz" "John" "Jaromar" "Jaromil" "Jaromir" "Jaroslav" "Jedrzej" "Jindrich" "Henry" "Jirí" "George" "Jozef" "Joseph" "Juliusz" "Julian" "Kajetan" "Kamil" "Camillus" "Karel" "Charles" "Kasper" "Kazimierz" "Kliment" "Clement" "Kolman" "Koloman" "Kornel" "Cornelius" "Kresimir" "Krzeslaw" "Krzysztof" "Christopher" "Lech" "Leszek" "Lubomir" "Lucjan" "Lucius" "Ludvik" "Louis" "Marek" "Marcus" "Marian" "Marius" "Martin" "Mateusz" "Matthew" "Mieszko" "Mikolás" "Nicholas" "Miloslaw" "Milosz" "Miroslaw" "Mscislaw" "Mstislav" "Msciwoj" "Oldrich" "Ulrich" "Ondrej" "Andrew" "Otokar" "Patryk" "Patrick" "Pawel" "Paul" "Piotr" "Peter" "Prendota" "Przemysl" "Premysl" "Przybyslaw" "Radomil" "Radomir" "Radoslav" "Rostislav" "Ryszard" "Richard" "Sambor" "Sobieslav" "Sobeslaus" "Stanislaw" "Strasz" "Swietopelk" "Svatopluk" "Swietoslaw" "Sviatoslav" "Szczepan" "Stephen" "Szczesny" "Szymon" "Tadeusz" "Theodore" "Tomasz" "Thomas" "Udalrich" "Urjasz" "Vojtech" "Albert" "Waclaw" "Walenty" "Valentin" "Wratislaw" "Vratislav" "Wawrzyniec" "Laurence" "Wenceslaw" "Vaclav" "Wincenty" "Vincent" "Wizlaw" "Wladyslaw" "Wlodek" "Wlodzimierz" "Wlodzislaw" "Wratislaw" "Zbigniew" "Zbynek" "Zdenek" "Zdislav" "Zygmunt" "Sigmund" }
@@ -2413,7 +2413,7 @@ hungarian_culture_group = {
 		
 	}
 	dynamic-romanian-culture-num1 = {
-		color = { 11 147 228 }
+		color = { 26 19 91 }
 		
 		first_names = { "Alexandru" "Radu" "Vlad" "Constantin" "Mihail" "Mircea" "George" "Grigore" "Mihnea" "Nicolae" "Besarab" "Vladislav" "Mattia" "Radu" "Ilias" "Scarlat" "Stefan" "Dan" "Alexandru" "Ilias" "Gabriel" "Ioan" "George" "Leon" "Moise" "Neagoie" "Besarab" "Leon" "Radu" "Mihnea" "Serban" "Simeon" "Teodosiu" "Vintila" "Vladut" "Milos" "Corneliu" "Flaviu" "Iuliu" "Octavian" "Sergiu" "Valeriu" "Petru" "Petrascu" "Radu" "Adrian" "Alexandru" "Alexander" "Anghel" "Angel" "Aron" "Bajan" "Balc" "Barbat" "Basarab" "Bogdan" "Bogdan" "Carol" "Ciprian" "Ciubar" "Claudiu" "Corneliu" "Cornelius" "Costin" "Damjan" "Dan" "Dragos" "Dumitru" "Emerik" "Florin" "Franjo" "Francis" "Gavril" "Gheorghe" "George" "Grigore" "Gregory" "Iacob" "Gabriel" "Iancu" "Ieremia" "Ilie" "Ioan" "John" "Iorghu" "Iosif" "Iuga" "Janos" "John" "Ladislau" "Latcu" "Laurentiu" "Laurence" "Litovoi" "Lucian" "Lucius" "Marin" "Marius" "Mihai" "Milos" "Milosz" "Mircea" "Moise" "Nicolaie" "Petre" "Pirvu" "Radovan" "Radu" "Roman" "Sas" "Seneslav" "Sergiu" "Simion" "Simon" "Stefan" "Stephen" "Stelian" "Teodor" "Theodore" "Tepes" "Tibor" "Tihomir" "Timotei" "Tudor" "Thierry" "Valentin" "Valentin" "Valeriu" "Vasile" "Basil" "Veaceslav" "Victor" "Vilhelm" "William" "Vintila" "Vlad" }
 		
@@ -2518,7 +2518,7 @@ iberian = {
 		
 	}
 	iberian_central_america_superregion_culture = {
-		color = { 123 250 41 }
+		color = { 69 233 142 }
 		radicalism = 10
 		
 		first_names = { "Enrique" "Fernando" "Juan" "Felipe" "Alfonso" "Carlos" "Sancho" "Ramiro" "Pedro" "Alonso" "Álvaro" "Baltasar" "Bernardo" "Bertrán" "Hernando" "Cristobal" "Diego" "Domingo" "Esteban" "Fadrique" "Francisco" "García" "Gómez" "Gonzalo" "Gutierre" "Hermenegildo" "Ignacio" "Laín" "Lope" "Miguel" "Nuño" "Odón" "Ramón" "Rodrigo" "Tomás" "Valeriano" "Alfonso" "Alphonse" "Alonso" "Alphonse" "Álvar" "Oliver" "Álvaro" "Oliver" "Bermudo" "Vermudo" "Diego" "Diaco" "Henry" "Fadrique" "Frederick" "Felipe" "Philip" "Fernando" "Ferdinand" "Fruela" "Froila" "García" "Garcia" "Gil" "Egidius" "Gómez" "Gomez" "Gonzalo" "Gonzalo" "Guillén" "William" "Guillermo" "William" "Gutierre" "Walter" "Juan" "Lope" "Lupo" "Luis" "Louis" "Manrique" "Amalric" "Martín" "Martin" "Munio" "Munio" "Nuño" "Nuno" "Ordoño" "Ordono" "Obeko" "Pedro" "Peter" "Pelayo" "Pelagius" "Ramiro" "Ramiro" "Rodrigo" "Roderick" "Salvador" "Sancho" "Sancho" "Suero" "Tello" "Vela" "Vela" "Suero" "Oveco" "John" "Enrique" "Muhammad" "Yûsuf" "'Alî" "Sa'd" "Isma'îl" "Nasr" "'Abd" "al-Karim" "Ayman" "Barakat" "Basir" "Dawud" "Fahd" "Faris" "Faruq" "Haidar" "Hashim" "Husam" "Iqbal" "Jabbar" "Ja'far" "Jamal" "Junayd" "Khaliq" "Malik" "Mansur" "Mustafa" "Najib" "Qasim" "Qusay" "Rashîd" "Safi" "Sakhr" "Samir" "Tariq" "Umar" "Wahid" "Zahir" "Firdaus" "Fuad" "Rahim" "Abbad" "Abbas" "Abbas" "Abdallah" "Abdullah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abdul" "Abdul" "Abu" "Abu-Bakr" "Abu-Bakr" "Adfuns" "Alphonse" "Ahmad" "Ahmad" "Ali" "Ali" "Amr" "Ayyub" "Balashk" "Vasco" "Bilal" "Fadl" "Fath" "Galind" "Galindo" "Garsiya" "Garcia" "Hakam" "Hakam" "Hilal" "Ibrahim" "Abraham" "Isma'il" "Ismail" "Jyad" "Lubb" "Lupo" "Ma'n" "Mubashir" "Muhammad" "Muhammad" "Mundir" "Musa" "Moses" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" "Sancho" "Siddray" "Suleyman" "Solomon" "Tariq" "Tifilwit" "Umar" "Umar" "Utman" "Wannaqo" "Inigo" "Ya'far" "Yahaff" "Yahya" "John" "Yusuf" "Joseph" }
@@ -2527,7 +2527,7 @@ iberian = {
 		
 	}
 	iberian_north_america_superregion_culture = {
-		color = { 51 17 222 }
+		color = { 161 93 128 }
 		radicalism = 10
 		
 		first_names = { "Enrique" "Fernando" "Juan" "Felipe" "Alfonso" "Carlos" "Sancho" "Ramiro" "Pedro" "Alonso" "Álvaro" "Baltasar" "Bernardo" "Bertrán" "Hernando" "Cristobal" "Diego" "Domingo" "Esteban" "Fadrique" "Francisco" "García" "Gómez" "Gonzalo" "Gutierre" "Hermenegildo" "Ignacio" "Laín" "Lope" "Miguel" "Nuño" "Odón" "Ramón" "Rodrigo" "Tomás" "Valeriano" "Alfonso" "Alphonse" "Alonso" "Alphonse" "Álvar" "Oliver" "Álvaro" "Oliver" "Bermudo" "Vermudo" "Diego" "Diaco" "Henry" "Fadrique" "Frederick" "Felipe" "Philip" "Fernando" "Ferdinand" "Fruela" "Froila" "García" "Garcia" "Gil" "Egidius" "Gómez" "Gomez" "Gonzalo" "Gonzalo" "Guillén" "William" "Guillermo" "William" "Gutierre" "Walter" "Juan" "Lope" "Lupo" "Luis" "Louis" "Manrique" "Amalric" "Martín" "Martin" "Munio" "Munio" "Nuño" "Nuno" "Ordoño" "Ordono" "Obeko" "Pedro" "Peter" "Pelayo" "Pelagius" "Ramiro" "Ramiro" "Rodrigo" "Roderick" "Salvador" "Sancho" "Sancho" "Suero" "Tello" "Vela" "Vela" "Suero" "Oveco" "John" "Enrique" }
@@ -2625,7 +2625,7 @@ iranian_turanian = {
 		
 	}
 	dynamic-afghani-culture-num1 = {
-		color = { 191 138 4 }
+		color = { 24 173 29 }
 		
 		first_names = { "Abbas" "Abolhassan" "Alah-Verdi" "Allahyar" "Amin" "Aram" "Assad" "Aurang" "Ayeshah" "Azad" "Babek" "Babak" "Bahman" "Behrad" "Behram" "Bahram" "Behrouz" "Bextîyar" "Bakhtiar" "Bozorg" "Cehandar" "Jahandar" "Cehangir" "Jahangir" "Cehanšah" "Jahanshah" "Cemšîd" "Jamshid" "Cevid" "Javeed" "Danûš" "Danush" "Darab" "Daryûš" "Darius" "Davud" "David" "Ebrahim" "Abraham" "Efrasiyab" "Afrasiyab" "Efšer" "Afshar" "Ehmed" "Ahmad" "Ehsan" "Zaman" "Ekber" "Akbar" "Elî" "Ali" "Enûširwan" "Anushirvan" "Erdehan" "Ardahan" "Erdewan" "Ardavan" "Erdešîr" "Ardeshir" "Esfendiyar" "Esfandiar" "Mir" "Ways" "Humayun" "Ahmad" "Timur" "Shoja" "al-Mulk" "Muhammad" "Shoja" "Fath" "Jang" "Shahpur" "Eskander" "Alexander" "Ešot" "Ashot" "Eyyub" "Ayyub" "Feramez" "Faramarz" "Feraz" "Faraz" "Fath" "Ferhad" "Farhad" "Ferhan" "Farhan" "Ferheng" "Farhang" "Feriburz" "Fariborz" "Ferîd" "Farid" "Ferîdun" "Feridun" "Ferux" "Farroukh" "Feruxzad" "Farrukhzad" "Ferzad" "Farzad" "Fezl" "Fadl" "Fezlun" "Fadlun" "Firdews" "Ferdows" "Ghobad" "Gholam" "Godarz" "Goštasp" "Goshtasb" "Hezarhesp" "Hazarasp" "Hafez" "Hedayat" "Hesen" "Hasan" "Hisên" "Hussein" "Hormoz" "Hosen" "Hossein" "Humayun" "Hurmiz" "Hormazd" "Îsmaîl" "Ismail" "Kambiz" "Kamran" "Keyghobad" "Keyxusrew" "Keykhosrau" "Kâvus" "Kavoos" "Kûrušê" "Cyrus" "Mamlan" "Muhammad" "Mashad" "Mehmûd" "Mahmud" "Mehrab" "Mehrzad" "Mensûr" "Mansur" "Menûçihr" "Manuchihr" "Menûšihr" "Manushihr" "Merwan" "Marwan" "Merzuban" "Marzuban" "Mesûd" "Masud" "Mihemed" "Muhammad" "Mîrza" "Mirza" "Mistefa" "Mustafa" "Murad" "Morad" "Morteza" "Mozaffar" "Nard" "Naveed" "Nawid" "Nesir" "Nazir" "Mahmud" "Ayub" "Nesr" "Nasr" "Nezam" "Nošîrwan" "Nawshirwan" "Nêçîrvan" "Nechirwan" "Parviz" "Pujman" "Pêšeng" "Pashang" "Pîroz" "Peroz" "Revend" "Rawwad" "Reza" "Ruhollah" "Rustam" "Rostam" "Sadri" "Salman" "Sina" "Surxap" "Surkhab" "Tahmasp" "Tahmasb" "Vahhab" "Vahid" "Vahusdan" "Wahustan" "Vali" "Varšasp" "Varshasb" "Vîštap" "Vishtasb" "Xarmandar" "Kharmandar" "Xašayar" "Khashayar" "Xuršîd" "Khurshid" "Xusrew" "Khosrau" "Xušyar" "Hooshyar" "Xwedadad" "Khodadad" "Xwedayar" "Khudayar" "Yezîd" "Yazid" "Yousef" "Zahak" "Zakaria" "Zand" "Zerdešt" "Zartosht" "Zia" "Šadî" "Shadhi" "Šahab" "Shahab" "Šahbaz" "Shahbaz" "Šahenšah" "Shahanshah" "Šahin" "Shahin" "Šahram" "Shahram" "Šahryar" "Shahryar" "Šahrux" "Shahrokh" "Šahruz" "Shahruz" "Šapur" "Shapur" "Šarvin" "Sharwin" "Šawur" "Shavur" "Šayan" "Shayan" "Šîrkûh" "Shirkuh" }
 		
@@ -2633,7 +2633,7 @@ iranian_turanian = {
 		
 	}
 	dynamic-mongol-culture-num5 = {
-		color = { 183 219 52 }
+		color = { 205 71 13 }
 		
 		first_names = { "Agbarjin" "Adai" "Altan" "Arigaba" "Arugtai" "Ayurparibhadra" "Bodi" "Bek" "Bahamu" "Bars" "Buyan" "Biligtü" "Dayan" "Delbeg" "Ejei" "Elbeg" "Engke" "Güyük" "Gün" "Gulichi" "Irinchibal" "Jorightu" "Kublai" "Köke" "Ligdan" "Markörgis" "Möngke" "Manduulun" "Öljei" "Örüg" "Oyiradai" "Ögödei" "Qayshan" "Qoshila" "Sayn" "Suddhipala" "Tayisung" "Temujin" "Temür" "Toghun" "Tolui" "Toq" "Uskhal" "Yesün" "Ariq" "Batu" "Eljigidei" "Joichi" "Darayisung" "Tümen" }
 		
@@ -2641,7 +2641,7 @@ iranian_turanian = {
 		
 	}
 	dynamic-panjabi-tajik-culture-num1 = {
-		color = { 173 39 109 }
+		color = { 225 113 193 }
 		
 		first_names = { "Jassa Ahuwalia" "Lahina" "Ranjit" "Bhag" "Kharak" "Duleep" "Fateh" "Maha" "Sobha" "Narnak" "Ram" "Arjan" "Gobind" "Rai" "Krishan" "Bahadur" "Sardar Badar" "Balbir" "Bhalla" "Daya" "Gahunia" "Gian" "Nihang " "Granth" "Bhai Bachittar" "Himmat" "Hoora" "Ishnar" "Jhol" "Jhotti" "Mokham" "Nand" "Parmanand" "Rajsingh" "Sanlib" "Sardul" "Shabeg" "Shergill" "Sodhi" "Sohal" "Tara" "Udasi" "Angad" "Amar" "Lohaar" "Dharem" "Fakir" "Ranjor" "Ajit" "Amar" "Amar Dasi" "Amir" "Angad" "Arjun" "Atar" "Basawa" "Bhagwant" "Bhaimani" "Budh" "Chand" "Charat" "Damodar" "Dasu" "Datu" "Dayaram" "Didar" "Farid" "Fateh" "Gobind" "Gurdita" "Hargobind" "Hari" "Har Krishan" "Har Rai" "Jai Ram" "Jetha" "Jujhar" "Kalyan" "Kapur" "Kehar" "Kharak" "Khushal" "Lahna" "Lakhmichand" "Laxman" "Mahadev" "Mohan" "Mohri" "Nanak" "Narayan" "Nodha" "Partap" "Pheru" "Prithichand" "Prithvi" "Ram Rai" "Ranjit" "Sahdev" "Shamsher" "Sher" "Srichand" "Tegh Bahadur" "Tej Bhan" "Thakur" "Zorawar" "Abdullo" "Abdullohi" "Alisher" "Aziz" "Bahrom" "Bakhtiyor" "Daler" "Davlat" "Dilshod" "Farrukh" "Firuz" "Jamshed" "Muhammad" "Rustam" "Sherali" "Sherzod" "Shuhrat" }
 		
@@ -3209,7 +3209,7 @@ levantine = {
 		
 	}
 	dynamic-greek-culture-num1 = {
-		color = { 30 20 87 }
+		color = { 177 14 122 }
 		
 		first_names = { "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" "Andronikos" "Anthemios" "Anthimos" "Antiokhos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" "Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Khristophoros" "Khrysanthos" "Khrysogonos" "Damianos" "Daniel" "David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" "Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" "Hektorios" "Helias" "Herakleios" "Hierotheos" "Himerios" "Konstantinos" "Pavlos" "Nikolaos" "Aineias" "Alexeios" "Ambrosios" "Dionysos" "Elpidios" "Hektor" "Kastor" "Manouel" "Matthaios" "Nestor" "Nikomedes" "Orestes" "Palaimon" "Pelagios" "Petros" "Philemon" "Philippos" "Skantarios" "Stefanos" "Theodoros" "Thomas" "Prokopios" "Ioannes" "Iason" }
 		
@@ -3217,7 +3217,7 @@ levantine = {
 		
 	}
 	dynamic-greek-culture-num2 = {
-		color = { 143 119 43 }
+		color = { 54 135 120 }
 		
 		first_names = { "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" "Andronikos" "Anthemios" "Anthimos" "Antiokhos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" "Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Khristophoros" "Khrysanthos" "Khrysogonos" "Damianos" "Daniel" "David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" "Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" "Hektorios" "Helias" "Herakleios" "Hierotheos" "Himerios" "Konstantinos" "Pavlos" "Nikolaos" "Aineias" "Alexeios" "Ambrosios" "Dionysos" "Elpidios" "Hektor" "Kastor" "Manouel" "Matthaios" "Nestor" "Nikomedes" "Orestes" "Palaimon" "Pelagios" "Petros" "Philemon" "Philippos" "Skantarios" "Stefanos" "Theodoros" "Thomas" "Prokopios" "Ioannes" "Iason" }
 		
@@ -3225,7 +3225,7 @@ levantine = {
 		
 	}
 	dynamic-greek-culture-num3 = {
-		color = { 140 79 222 }
+		color = { 55 205 144 }
 		
 		first_names = { "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" "Andronikos" "Anthemios" "Anthimos" "Antiokhos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" "Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Khristophoros" "Khrysanthos" "Khrysogonos" "Damianos" "Daniel" "David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" "Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" "Hektorios" "Helias" "Herakleios" "Hierotheos" "Himerios" "Konstantinos" "Pavlos" "Nikolaos" "Aineias" "Alexeios" "Ambrosios" "Dionysos" "Elpidios" "Hektor" "Kastor" "Manouel" "Matthaios" "Nestor" "Nikomedes" "Orestes" "Palaimon" "Pelagios" "Petros" "Philemon" "Philippos" "Skantarios" "Stefanos" "Theodoros" "Thomas" "Prokopios" "Ioannes" "Iason" }
 		
@@ -4148,7 +4148,7 @@ polish_culture_group = {
 		
 	}
 	dynamic-hungarian-culture-num1 = {
-		color = { 137 221 58 }
+		color = { 171 179 135 }
 		
 		first_names = { "Ulászló" "László" "Lajos" "Albert" "János" "Mátyás" "Zsigmond" "András" "Károly" "István" "Béla" "Anasztáz" "Barnabás" "Boldizsár" "Dávid" "Dömötör" "Edvárd" "Ernö" "Ferenc" "Gábor" "György" "Izsák" "Jenö" "József" "Kálmán" "Kázmér" "Lörinc" "Miklós" "Oszkár" "Ottó" "Patrik" "Péter" "Simon" "Tamás" "Vencel" "Ábel" "Ádárn" "Ágoston" "Álmos" "Árpád" "Õdön" "Otto" "Alajos" "Ambrus" "András" "Andrew" "Antal" "Attila" "Bálint" "Albert" "Balázs" "Benedek" "Benedict" "Bernát" "Bernard" "Bertók" "Bertalan" "Boldizsár" "Bonuslo" "Borisz" "Boris" "Csák" "Csaba" "Csongor" "Dénes" "Dömötör" "Dezsõ" "Domoszló" "Donát" "Elek" "Elemér" "Endre" "Ernõ" "Philip" "Ferenc" "Francis" "Frigyes" "Gábor" "Gábriel" "Gabriel" "Gáspár" "Caspar" "Géza" "Gazsi" "Gellért" "Gergely" "György" "George" "Gyula" "Imre" "István" "Stephen" "Izsák" "Jákob" "Jacob" "János" "John" "József" "Joseph" "Jenõ" "Kálmán" "Károly" "Charles" "Konrád" "Konrad" "Kornél" "Kristóf" "László" "Lázár" "Lõrinc" "Lajos" "Lampert" "Levente" "Lukács" "Márk" "Marcus" "Márton" "Martin" "Máté" "Mátyás" "Matthew" "Móric" "Mózes" "Mihály" "Michael" "Louis" "Fulöp" "Béla" "Miklós" "Nándor" "Orbán" "Oszkár" "Pál" "Paul" "Péter" "Peter" "Sámuel" "Samuel" "Sándor" "Alexander" "Salamon" "Szilveszter" "Silvester" "Tádor" "Tacsony" "Tamás" "Thomas" "Tibor" "Tivadar" "Vazul" "Vencel" "Vaclav" "Vilmos" "Zoltán" "Zsigmond" "Sigmund" "Zsolt" "Saul" "Soma" }
 		
@@ -4242,7 +4242,7 @@ polish_culture_group = {
 		
 	}
 	west_slavic_north_america_superregion_culture = {
-		color = { 172 51 255 }
+		color = { 128 22 15 }
 		radicalism = 10
 		
 		first_names = { "Abdï¿½n" "Abï¿½lk" "Adï¿½lf" "Adï¿½m" "Adriï¿½n" "Agapit" "Agï¿½st" "Agï¿½stin" "Aleksï¿½der" "Alfï¿½nks" "Amadeï¿½sz" "Andrzï¿½j" "Antï¿½n" "Antï¿½sz" "Anzï¿½lm" "Apï¿½lo" "Ark" "Arturk" "Augï¿½st" "Augï¿½stin" "Aï¿½reliï¿½n" "Barnim" "Bartlomiï¿½n" "Bazyl" "Bazylï¿½szk" "Bï¿½nk" "Beno" "Bink" "Blazï¿½j" "Bï¿½gdï¿½n" "Bï¿½gï¿½mil" "Bï¿½gï¿½slï¿½w" "Bï¿½gï¿½sz" "Bï¿½lesk" "Bï¿½leslï¿½w" "Bï¿½nawentura" "Bï¿½ris" "Bï¿½rzï¿½slï¿½w" "Bï¿½rzï¿½szk" "Cekestin" "Cï¿½lk" "Cemirk" "Cezari" "Chilk" "Chï¿½cemir" "Chï¿½ck" "Cyd" "Cyl" "Cypriï¿½n" "Czeslï¿½w" "Czï¿½rk" "Damiï¿½n" "Daniï¿½l" "Dï¿½mk" "Dï¿½ï¿½" "Dï¿½ï¿½szk" "Dobrogï¿½st" "Dï¿½nk" "Donï¿½ld" "ï¿½d" "ï¿½dmï¿½nd" "ï¿½dwin" "ï¿½dwï¿½rd" "Efrï¿½m" "Eliï¿½sz" "ï¿½lk" "ï¿½manuï¿½l" "ï¿½mil" "ï¿½razm" "ï¿½rik" "ï¿½rnest" "Eï¿½geniusz" "ï¿½wï¿½ld" "Ezechiï¿½l" "Faï¿½stin" "Felicjï¿½n" "Fï¿½liks" "Fï¿½lk" "Ferdinï¿½nd" "Florï¿½szk" "Floriï¿½n" "Flï¿½rk" "Frï¿½cï¿½szk" "Francï¿½szk" "Franik" "Franulk" "Franusz" "Frï¿½d" "Frï¿½mk" "Fridrï¿½szk" "Fridrich" "Gabriï¿½l" "Genk" "Gerat" "Grï¿½gï¿½r" "Grzegï¿½rz" "Grzï¿½mislï¿½w" "Grzenia" "Grzï¿½szk" "Gï¿½st" "Gï¿½stï¿½w" "Gwido" "Hadriï¿½n" "Hï¿½nk" "Herkï¿½les" "Hermiczk" "Hiacynt" "Hilari" "Hipï¿½lt" "Hï¿½norï¿½t" "Hï¿½bert" "Hï¿½gï¿½" "Jacï¿½ti" "Jack" "Jadï¿½m" "Jï¿½droch" "Jï¿½drzej" "Jakï¿½b" "Jakï¿½b" "Jark" "Jaroslï¿½w" "Jarosz" "Jasz" "Jeremiï¿½sz" "Jerzi" "Jignac" "Jignacy" "Jignacylk" "Jigï¿½r" "Jinocenti" "Jireneï¿½sz" "Jirk" "Jizydï¿½r" "Jï¿½fk" "Jï¿½nk" "Jop" "Jï¿½zk" "Juliï¿½n" "Jurk" "Kadzmiï¿½rz" "Kajetï¿½n" "Karï¿½l" "Kasjusz" "Klaï¿½diusz" "Klï¿½mï¿½s" "Klimk" "Kï¿½nrï¿½d" "Kï¿½rdiï¿½n" "Kï¿½rnï¿½l" "Kï¿½rnï¿½liusz" "Krï¿½szk" "Krï¿½sztof" "Kristiï¿½n" "Kristk" "Ksï¿½der" "Kaswer" "Lazï¿½rz" "Lï¿½ï¿½n" "Lï¿½ï¿½nï¿½rd" "Lï¿½szk" "Lï¿½tk" "Liï¿½szk" "Lizk" "Lojs" "Loszk" "Lubï¿½gï¿½st" "Lucjï¿½n" "Luck" "Lukï¿½sz" "Macï¿½j" "Mack" "Maksulk" "Maksymiliï¿½n" "Marï¿½czk" "Mariï¿½n" "Marusz" "Matï¿½ï¿½sz" "Matï¿½ï¿½szk" "Matis" "Melchiï¿½r" "Mestwin" "Metodi" "Michï¿½l" "Mieczï¿½slï¿½w" "Miï¿½tk" "Miklosz" "Mikï¿½lï¿½j" "Miloslï¿½w" "Mirk" "Mirï¿½n" "Miroslï¿½w" "Mojzesz" "Mï¿½rcï¿½n" "Mscï¿½wï¿½j" "Narck" "Natsk" "Nï¿½liuszk" "Nï¿½lk" "Nest" "Nikï¿½dï¿½m" "Nikï¿½sz" "Nï¿½rbert" "Nufri" "ï¿½brï¿½m" "ï¿½do" "ï¿½ktawiï¿½n" "ï¿½laf" "ï¿½lgerd" "ï¿½nufri" "ï¿½to" "ï¿½widiusz" "Pankrac" "Pelagiusz" "Pï¿½lk" "Petroniusz" "Pioch" "Pit" "Placyd" "Prokï¿½p" "Protï¿½z" "Przemï¿½slï¿½w" "Radoslï¿½w" "Rafï¿½l" "Rajmï¿½nd" "Redï¿½mir" "Redoslï¿½w" "Rï¿½mi" "Riszï¿½rd" "Rï¿½man" "Rï¿½mk" "Rï¿½mï¿½ï¿½ld" "Rudï¿½lf" "Sï¿½domir" "Salk" "Sambï¿½r" "Samsï¿½n" "Samï¿½ï¿½l" "Sebastiï¿½n" "Sï¿½kstus" "Sewerin" "Slawï¿½mir" "Sobieslï¿½w" "Stancjusz" "Stanislï¿½w" "Stazyjk" "Subislï¿½w" "Swiï¿½tobï¿½r" "Swiï¿½topï¿½lk" "Sylk" "Symï¿½ï¿½n" "Szczepï¿½n" "Szï¿½mï¿½n" "Szimk" "Szimï¿½n" "Sztefï¿½n" "Tadeï¿½sz" "Tï¿½dï¿½r" "Telesfï¿½r" "Tï¿½ï¿½bï¿½ld" "Tï¿½ï¿½dozjusz" "Tï¿½ï¿½fil" "Timï¿½n" "Timï¿½teï¿½sz" "Tobiï¿½sz" "Tï¿½mk" "Tomï¿½sz" "Tï¿½na" "ï¿½rbï¿½n" "Wack" "Waclï¿½w" "Walï¿½ti" "Waldï¿½mï¿½r" "Waleri" "Waleriï¿½n" "Walis" "Wartï¿½slï¿½w" "Wawrzinc" "Wenï¿½cjusz" "Wenk" "Wespazjï¿½n" "Wick" "Wieslï¿½w" "Wikï¿½" "Wiktï¿½r" "Wilem" "Wincï¿½t" "Wisk" "Wislï¿½w" "Witï¿½ld" "Witoslï¿½w" "Wladislï¿½w" "Wlodzmiï¿½rz" "Wï¿½jcech" "Wï¿½jk" "Wï¿½jtilk" "Zbigï¿½rz" "Zdzyslï¿½w" "Zemï¿½wit" "Zï¿½nk" "Zenobiusz" "Zenï¿½n" "Zydï¿½r" "Zygfrid" "Zygmï¿½nd" "Zygï¿½szk" }
@@ -4767,7 +4767,7 @@ scandinavian = {
 		
 	}
 	dynamic-norwegian-culture-num1 = {
-		color = { 175 200 36 }
+		color = { 198 255 193 }
 		
 		first_names = { "Ale" "Alfr" "Alf" "Alfgeir" "Anders" "Andrew" "Anlaufr" "Anundr" "Anund" "Arnbjörn" "Arngrimr" "Arni" "Arne" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Balder" "Barid" "Bengt" "Benedict" "Bersi" "Bertil" "Birger" "Björn" "Beorn" "Bo" "Borkvard" "Botulfr" "Bragi" "Brage" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" "Egil" "Emund" "Einarr" "Einar" "Eirikr" "Erik" "Eskild" "Falki" "Faste" "Filip" "Philip" "Fredrik" "Frederick" "Frirek" "Frode" "Freyr" "Frej" "Folki" "Folke" "Gandalfr" "Geirr" "Georg" "George" "Gnupa" "Gorm" "Greger" "Gregory" "Grimr" "Grim" "Godfrey" "Guðmundr" "Gudmund" "Gudröd" "Gunnarr" "Gunnar" "Hakon" "Halsten" "Haraldr" "Harold" "Haukr" "Helgi" "Helge" "Hemming" "Holmger" "Hrafn" "Hrolfr" "Rolf" "Hrane" "Hæsteinn" "Hjalmar" "Hysing" "Ingólfr" "Ingolf" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Edward" "Jon" "John" "Karl" "Charles" "Kettil" "Kettilmund" "Kjartan" "Klas" "Knut" "Kol" "Kolbjörn" "Magnus" "Markus" "Marcus" "Mats" "Matthew" "Nils" "Niklas" "Nicholas" "Oddr" "Odd" "Ofeig" "Olafr" "Olaf" "Ormr" "Orm" "Ottarr" "Ottar" "Refr" "Refil" "Ragnarr" "Ragnar" "Rikulfr" "Rögnvaldr" "Ragnvald" "Skuli" "Skule" "Snorri" "Sigbjörn" "Sigtrygg" "Sigurðr" "Sigurd" "Starkad" "Steinn" "Sten" "Sturla" "Styrbjörn" "Styrkar" "Somerled" "Suni" "Sune" "Sveinn" "Sven" "Sverker" "Sæmundr" "Sämund" "Sölvi" "Sölve" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Torbjörn" "Þorfinn" "Torfinn" "Þorbrandr" "Torbrand" "Þordr" "Tord" "Þorgil" "Torkel" "Þorsteinn" "Torsten" "Þorolfr" "Thorolf" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Ulf" "Vagn" "Valdemar" "Vladimir" "Åke" "Yngvar" "Ingvar" "Örvar" "Orvar" "Öysteinn" "Eysteinn" "Håkon" "Olav" "Christoffer" "Harald" "Inge" "Aksel" "Ansgard" "Arvid" "Bernt" "Bjørn" "Daniel" "Edvard" "Eilert" "Elias" "Esben" "Kasper" "Kennet" "Knut" "Ludvig" "Mikael" "Njåld" "Njord" "Oddmund" "Peder" "Rikard" "Simon" "Søren" "Tollak" }
 		
@@ -4847,7 +4847,7 @@ scandinavian = {
 		
 	}
 	scandinavian_north_america_superregion_culture = {
-		color = { 168 59 230 }
+		color = { 192 39 224 }
 		radicalism = 10
 		
 		first_names = { "Ale" "Alfr" "Alf" "Alfgeir" "Anders" "Andrew" "Anlaufr" "Anundr" "Anund" "Arnbjörn" "Arngrimr" "Arni" "Arne" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Balder" "Barid" "Bengt" "Benedict" "Bersi" "Bertil" "Birger" "Björn" "Beorn" "Bo" "Borkvard" "Botulfr" "Bragi" "Brage" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" "Egil" "Emund" "Einarr" "Einar" "Eirikr" "Erik" "Eskild" "Falki" "Faste" "Filip" "Philip" "Fredrik" "Frederick" "Frirek" "Frode" "Freyr" "Frej" "Folki" "Folke" "Gandalfr" "Geirr" "Georg" "George" "Gnupa" "Gorm" "Greger" "Gregory" "Grimr" "Grim" "Godfrey" "Guðmundr" "Gudmund" "Gudröd" "Gunnarr" "Gunnar" "Hakon" "Halsten" "Haraldr" "Harold" "Haukr" "Helgi" "Helge" "Hemming" "Holmger" "Hrafn" "Hrolfr" "Rolf" "Hrane" "Hæsteinn" "Hjalmar" "Hysing" "Ingólfr" "Ingolf" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Edward" "Jon" "John" "Karl" "Charles" "Kettil" "Kettilmund" "Kjartan" "Klas" "Knut" "Kol" "Kolbjörn" "Magnus" "Markus" "Marcus" "Mats" "Matthew" "Nils" "Niklas" "Nicholas" "Oddr" "Odd" "Ofeig" "Olafr" "Olaf" "Ormr" "Orm" "Ottarr" "Ottar" "Refr" "Refil" "Ragnarr" "Ragnar" "Rikulfr" "Rögnvaldr" "Ragnvald" "Skuli" "Skule" "Snorri" "Sigbjörn" "Sigtrygg" "Sigurðr" "Sigurd" "Starkad" "Steinn" "Sten" "Sturla" "Styrbjörn" "Styrkar" "Somerled" "Suni" "Sune" "Sveinn" "Sven" "Sverker" "Sæmundr" "Sämund" "Sölvi" "Sölve" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Torbjörn" "Þorfinn" "Torfinn" "Þorbrandr" "Torbrand" "Þordr" "Tord" "Þorgil" "Torkel" "Þorsteinn" "Torsten" "Þorolfr" "Thorolf" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Ulf" "Vagn" "Valdemar" "Vladimir" "Åke" "Yngvar" "Ingvar" "Örvar" "Orvar" "Öysteinn" "Eysteinn" "Håkon" "Olav" "Christoffer" "Harald" "Inge" "Aksel" "Ansgard" "Arvid" "Bernt" "Bjørn" "Daniel" "Edvard" "Eilert" "Elias" "Esben" "Kasper" "Kennet" "Knut" "Ludvig" "Mikael" "Njåld" "Njord" "Oddmund" "Peder" "Rikard" "Simon" "Søren" "Tollak" "Christian" "Christoph" "Oskar" "Adolf" "August" "Göran" "Sigismund" "Alfred" "Axel" "Edvard" "Gottfrid" "Jakob" "Ludvig" "Mikael" "Olof" "Patrik" "Rangvald" "Rettil" "Sigvard" "Simon" "Sture" "Svante" "Tomas" "Ulrik" "Albrikt" "Albert" "Alf" "Algot" "Anders" "Arne" "Arnfast" "Astrad" "Bengt" "Benedict" "Bertil" "Birger" "Björn" "Bo" "Borkvard" "Brage" "Bror" "Dag" "Dan" "Dyre" "Egil" "Einar" "Erik" "Eskild" "Faste" "Fredrik" "Frederick" "Filip" "Folke" "Georg" "Greger" "Gregory" "Gunnar" "Gustav" "Halsten" "Hans" "Harald" "Harold" "Helge" "Henrik" "Hjalmar" "Holmger" "Håkan" "Inge" "Ingemar" "Ingvar" "Edward" "Johan" "John" "Karl" "Klas" "Knut" "Lars" "Magnus" "Markus" "Marcus" "Mats" "Matthew" "Nils" "Nicholas" "Niklas" "Odd" "Olaf" "Peter" "Ragnar" "Rolf" "Ragnvald" "Sörkver" "Sigurd" "Starkad" "Sten" "Styrbjörn" "Sune" "Sven" "Sverker" "Sölve" "Thomas" "Tjudmund" "Toke" "Torbjörn" "Tord" "Torbrand" "Torkel" "Torolf" "Thorolf" "Torsten" "Toste" "Totil" "Tyke" "Ulf" "Valdemar" "Åke" "Östen" }
@@ -4945,7 +4945,7 @@ south_asian = {
 		
 	}
 	dynamic-avadhi-culture-num1 = {
-		color = { 68 37 149 }
+		color = { 88 229 89 }
 		
 		first_names = { "Muhammad Sa'adat Khan" "Muhammad Safdar Jang" "Shujah ad-Daula" "Asaf ad-Daula" "Wazir 'Ali" "Sa'adat 'Ali Khan" "Ghazi ud-Din Haidar" "Saadat" "Safdarjung" "Hyder" "Birjis Qadra" "Ali" "Alauddin" "Bhi" "Malik" "Narendra" "Bismillah" "Obaid" "Iqbal" }
 		
@@ -4953,7 +4953,7 @@ south_asian = {
 		
 	}
 	dynamic-avadhi-persian-culture-num1 = {
-		color = { 90 205 215 }
+		color = { 195 193 6 }
 		
 		first_names = { "Muhammad Sa'adat Khan" "Muhammad Safdar Jang" "Shujah ad-Daula" "Asaf ad-Daula" "Wazir 'Ali" "Sa'adat 'Ali Khan" "Ghazi ud-Din Haidar" "Saadat" "Safdarjung" "Hyder" "Birjis Qadra" "Ali" "Alauddin" "Bhi" "Malik" "Narendra" "Bismillah" "Obaid" "Iqbal" "Abbas" "Abolhassan" "Afshar" "Afshar" "Ahmad" "Ahmad" "Akbar" "Akbar" "Allahyar" "Amin" "Anushirvan" "Anushirvan" "Aram" "Ardahan" "Ardahan" "Ardavan" "Ardavan" "Ardeshir" "Ardeshir" "Assad" "Aurang" "Ayeshah" "Babak" "Babak" "Bahman" "Bahram" "Bahram" "Bakhtiar" "Bakhtiar" "Behrad" "Behrouz" "Bozorg" "Danush" "Danush" "Darab" "Dariush" "Darius" "Davud" "David" "Djamasp" "Ebrahim" "Abraham" "Ehsan" "Esfandiar" "Esfandiar" "Eskander" "Alexander" "Esma'il" "Ismail" "Faramarz" "Faramarz" "Faraz" "Faraz" "Fareed" "Farid" "Farhad" "Farhad" "Fariborz" "Fariborz" "Farroukh" "Farroukh" "Farrukhzad" "Farrukhzad" "Farzad" "Farzad" "Fath" "Ferdows" "Ferdows" "Fereedun" "Feridun" "Ghobad" "Gholam" "Godarz" "Goshtasb" "Goshtasb" "Hafez" "Hassan" "Hasan" "Hazarasp" "Hazarasp" "Hedayat" "Hooshyar" "Hooshyar" "Hormazd" "Hormazd" "Hormoz" "Hossein" "Hossein" "Humayun" "Jahandar" "Jahandar" "Jahangir" "Jahangir" "Jahanshah" "Jahanshah" "Jamshid" "Jamshid" "Javeed" "Javeed" "Kambiz" "Kamran" "Kavoos" "Kavoos" "Keyghobad" "Keykhosrau" "Keykhosrau" "Kharmandar" "Kharmandar" "Khashayar" "Khashayar" "Kavadh" "Khodadad" "Khodadad" "Khosrau" "Khosrau" "Khudayar" "Khudayar" "Khurshid" "Khurshid" "Kurush" "Cyrus" "Mahmud" "Manuchihr" "Manuchihr" "Manushihr" "Manushihr" "Marzuban" "Marzuban" "Mashad" "Mashad" "Maziar" "Mehrab" "Mehrzad" "Mohammed" "Muhammad" "Morad" "Morad" "Morteza" "Mozaffar" "Nard" "Naveed" "Nawid" "Nezam" "Parviz" "Pashang" "Pashang" "Peroz" "Peroz" "Pujman" "Reza" "Rostam" "Rostam" "Ruhollah" "Sadri" "Salman" "Shahab" "Shahab" "Shahbaz" "Shahbaz" "Shahin" "Shahin" "Shahram" "Shahram" "Shahrokh" "Sharokh" "Shahruz" "Shahruz" "Shahryar" "Shahryar" "Shapur" "Shapur" "Shayan" "Shayan" "Sina" "Tahmasb" "Tahmasb" "Vahhab" "Vahhab" "Vahid" "Vali" "Vandad" "Varshasb" "Varshasb" "Vishtasb" "Vishtasb" "Yazdegerd" "Yousef" "Joseph" "Zahak" "Zakaria" "Zand" "Zartosht" "Zartosht" "Zia" "Joneid" "Haidar" "Ismâ'îl" "Tamâshp" "Mohammad" "Kodabânda" "'Abbâs" "Safi" "Hosayn" "Nâder" "Shâh" "'Âdel" "Shâh" "Ebrâhim" "Shâh" "Rukh" "Nâder" "Mirza" "Karim" "Khân" "Abu'l" "Fath" "Sâdiq" "Morâd" "Ja'far" "Loft" "Ali" "Aga" "Muhammad" "Fath" "Alî" "Solaymân" }
 		
@@ -4961,7 +4961,7 @@ south_asian = {
 		
 	}
 	dynamic-marathi-culture-num1 = {
-		color = { 19 8 182 }
+		color = { 93 47 134 }
 		
 		first_names = { "Shivaji" "Shambaji" "Rajaram" "Sahuji" "Balaji" "Baji" "Rao" "Madhu" "Rao" "Narayan" "Rao" "Ragunath" "Rao" "Pratap" "Singh" "Firangoji" "Kanhoji" "Netaji" "Moropant" "Baji" "Prabhu" "Suryaji" "Tanaji" "Chimaji" "Ranoji" "Raghunathrao" "Malhar" "Tukojirao" "Haripant" "Yashwantrao" "Abaji" "Amutrao" "Bahadur" "Bahiroji" "Balaji" "Bajirao" "Chimnaji" "Dattaji" "Daulatrao" "Dhanaji" "Dhondu" "Ekoji" "Fatehsinh" "Gopalrao" "Hambirao" "Harirao" "Jayajirao" "Jayappa" "Janakappa" "Jivajirao" "Khanderao" "Krishnarao" "Madhavrao" "Mahadji" "Malerao" "Malharrao" "Mankoji" "Martandrao" "Moropant" "Murarirao" "Nanasaheb" "Narayanrao" "Pandurangrao" "Pratapsinh" "Raghunathrao" "Rajaram" "Ramaswami" "Ramchandrapant" "Ramshastri" "Ranojirao" "Sadashivrao" "Sambhaji" "Sayajirao" "Serfoji" "Shahuji" "Shivaji" "Shivajirao" "Tryambakrao" "Tukkoji" "Tukojirao" "Tulojirao" "Venkatrao" "Vishwanathpant" "Yashwantrao" "Adityavarman" "Aiyaparaja" "Anantadeva" "Aparaditya" "Aparajita" "Arikesarin" "Arthapathi" "Avasara" "Bhavadatta" "Bhima" "Bhoja" "Bijjala" "Chandra" "Chandraditya" "Chhadvaideva" "Chhittaraja" "Daharasena" "Dhammayira" "Gandaraditya" "Goggiraja" "Gonka" "Guhala" "Guhalladeva" "Haripaladeva" "Indradatta" "Indraraja" "Jatiga" "Jayakeshi" "Jhanjha" "Kamadeva" "Kapardin" "Keshideva" "Kirtiraja" "Mallikarjuna" "Marsimha" "Mummuniraja" "Nagarjuna" "Nagavarma" "Naivarman" "Pullashakti" "Rattaraja" "Sanaphulla" "Shashthadeva" "Shivachitta" "Skandavarman" "Soddhala" "Someshvara" "Sovideva" "Suketuvarman" "Taila" "Tejahkantha" "Vappuvanna" "Vijayaditya" "Viravarmadeva" "Vishnuchitta" "Vyaghrasena" }
 		
@@ -5509,7 +5509,7 @@ turko_semitic = {
 		
 	}
 	dynamic-al_suryah_arabic-culture-num1 = {
-		color = { 193 230 20 }
+		color = { 21 230 251 }
 		
 		first_names = { "al-Nasr" "al-Mu'azzam" "al-Salih" "al-'Adil" "al-Kamil" "al-Ashraf" "al-Afdal" "Tadj" "Mujir" "ud-Din" "Djamal" "ud-Din" "ud-Din" "Shams" "Saif" "'Abbas" "'Abd" "al-Rahman" "Anwar" "Atuf" "Bakr" "Fahd" "Hakim" "Harun" "Hikmat" "Hisham" "Husayn" "Jamaal" "Karim" "Malîk" "Mirza" "Muhammad" "Rashîd" "Rusul" "Shimun" "Tarîq" "Usama" "Yasir" "Yusuf" "Zaid" "Zîyad" "Isma'il" "Jafar" "Shihab" }
 		
@@ -5517,7 +5517,7 @@ turko_semitic = {
 		
 	}
 	dynamic-al_suryah_arabic-culture-num2 = {
-		color = { 219 160 30 }
+		color = { 154 133 59 }
 		
 		first_names = { "al-Nasr" "al-Mu'azzam" "al-Salih" "al-'Adil" "al-Kamil" "al-Ashraf" "al-Afdal" "Tadj" "Mujir" "ud-Din" "Djamal" "ud-Din" "ud-Din" "Shams" "Saif" "'Abbas" "'Abd" "al-Rahman" "Anwar" "Atuf" "Bakr" "Fahd" "Hakim" "Harun" "Hikmat" "Hisham" "Husayn" "Jamaal" "Karim" "Malîk" "Mirza" "Muhammad" "Rashîd" "Rusul" "Shimun" "Tarîq" "Usama" "Yasir" "Yusuf" "Zaid" "Zîyad" "Isma'il" "Jafar" "Shihab" }
 		
@@ -5525,7 +5525,7 @@ turko_semitic = {
 		
 	}
 	dynamic-al_suryah_arabic-culture-num3 = {
-		color = { 38 149 69 }
+		color = { 160 71 5 }
 		
 		first_names = { "al-Nasr" "al-Mu'azzam" "al-Salih" "al-'Adil" "al-Kamil" "al-Ashraf" "al-Afdal" "Tadj" "Mujir" "ud-Din" "Djamal" "ud-Din" "ud-Din" "Shams" "Saif" "'Abbas" "'Abd" "al-Rahman" "Anwar" "Atuf" "Bakr" "Fahd" "Hakim" "Harun" "Hikmat" "Hisham" "Husayn" "Jamaal" "Karim" "Malîk" "Mirza" "Muhammad" "Rashîd" "Rusul" "Shimun" "Tarîq" "Usama" "Yasir" "Yusuf" "Zaid" "Zîyad" "Isma'il" "Jafar" "Shihab" }
 		
@@ -5533,7 +5533,7 @@ turko_semitic = {
 		
 	}
 	dynamic-armenian-culture-num1 = {
-		color = { 173 18 103 }
+		color = { 67 61 46 }
 		
 		first_names = { "David" "Mkhitar" "Ashot" "Gagik" "Smbat" "Abbas" "Hovhannes" "Smbat" "Vagram" "Musegh" "Sahak" "Tachar" "Arakel" "Ari" "Armen" "Arshavir" "Avedis" "Badouagan" "Bedros" "Berjouhi" "Boghos" "Ghoukas" "Hagop" "Haig" "Hovhannes" "Hovsep" "Jirair" "Kapriel" "Kevork" "Khajag" "Krikor" "Levon" "Movses" "Nairi" "Sevan" "Taniel" "Vahan" "Zadig" "Zoravan" "Abas" "Abirad" "Aboughamr" "Aboulgharib" "Aleksandr" "Alexander" "Artashes" "Artashir" "Ardeshir" "Artavazd" "Arsen" "Arshak" "Ashot" "Ashot" "Athom" "Atrnerseh" "Atrnerseh" "Avag" "Avedis" "Bagour" "Bagour" "Bagrat" "Bedros" "Peter" "Boghos" "Paul" "Davit" "David" "Eshkhan" "Gagik" "Gagik" "Gevorg" "George" "Karayan" "Gosdantin" "Constantine" "Grigor" "Gregory" "Gurgen" "Lupo" "Hagop" "Hamazasp" "Hethum" "Hovhannes" "John" "Hovsep" "Joseph" "Ishkhan" "Ishkhan" "Ivane" "Kapriel" "Gabriel" "Khachik" "Khosrov" "Khosrau" "Levon" "Leo" "Malkhas" "Malkhas" "Mamigon" "Manuel" "Manuel" "Margos" "Marcus" "Melek" "Mihrdat" "Mithridates" "Mikayel" "Michael" "Mleh" "Mushegh" "Mushel" "Mzhezh" "Nerseh" "Narses" "Oshin" "Roupen" "Reuben" "Sahag" "Isaac" "Sarkis" "Sergius" "Sevag" "Shahanshah" }
 		
@@ -5541,7 +5541,7 @@ turko_semitic = {
 		
 	}
 	dynamic-bedouin_arabic-culture-num1 = {
-		color = { 111 122 30 }
+		color = { 105 99 141 }
 		
 		first_names = { "Mani" "Rabi'a" "Musa" "Ibrahim" "Markhan" "Watban" "Nasir" "Idris" "'Abd-Allah" "Sa'ud" "Zayid" "Abdullah" "Muhammad" "'Abdullah" "Turki" "Faisal" "Al-Rahman" "Khalid" "Fahd" "Aziz" "Abu-Bakr" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdul" "Abdullah" "Abdullah" "Aghlab" "Akin" "Ali" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Hasan" "Husam" "Hussayn" "Hussayn" "Ibrahim" "Abraham" "Idris" "Is'mail" "Ismail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" "Muhammad" "Mukhtar" "Murad" "Musa" "Moses" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Solomon" "Talib" "Ubayd" "Uways" "Yahya" "Yahya" "Ya'qub" "Jacob" "Youkhanna" "John" "Yusuf" "Joseph" "Zeyd" }
 		
@@ -5812,7 +5812,7 @@ west_african = {
 		
 	}
 	dynamic-mali-culture-num1 = {
-		color = { 242 97 56 }
+		color = { 72 214 157 }
 		
 		first_names = { "Mule" "Mamadu" "Al-Hajj" "'Ali Zalil" "Muhammad" "Da'ud" "Bakari" "'Abd al-Rahman" "Bakr" "Al-Mukhtar" "Mahmud" "Majan" "Birahim" "'Ali" "Amada Sire" "Nguia" "Bubu" "Ilo" "Kanta" "Al-Mansur" "'Ammar" "Sa'ud 'Arjud" "Haddu" "Sa'id" "Dhu al-Nun" "'Abd Allah" "Nasr" "Yahya" "Sanibar" "Hammadi" "'Abbas" "Benkano" "Zenka" "Mami" "Ba-Bakribin" "'Abd al-Qadir" "Yusuf" "Santa'a" "Al-Fa' Ibrahim" "Sandaki" }
 		
@@ -5820,7 +5820,7 @@ west_african = {
 		
 	}
 	dynamic-tunjur-culture-num1 = {
-		color = { 20 14 18 }
+		color = { 184 44 83 }
 		
 		first_names = { "Djil Essa Tubo" "Tshéroma" "Madgashé" "Mada Saxair" "Mat Kurtu" "Djourab el Kabir" "Mortcho" "Djourab el Mongo" "Dogo Arma" "Balkashé" "Djourab Saxair" "Moussa Mortcho" "Bayé Mortcho" "Hassan Baikouma" "Djili" "Gadai" "Hassan Absakin" "Tschéroma Abdallah" "Hassan Abba" "Oumar Abba" "Malik" "Haris" "Oumar" "Dikhoma" "Fanna" "Ariso" "Kader" "Waima" "Balwa" "Araki" "Beiso" "Al Djelil" "Dounouma" "Alio" "Idris Am Sami" "Brahim" "Dil Zei Nebi" "Maidakin Abami" "Chagrami" "Beyra" "Keda" "Djil Goumsoumi" "Al el Qatil" }
 		

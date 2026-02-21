@@ -433,19 +433,19 @@ army = {
 	name="2nd Army"
 	location=2215
 	regiment = {
+		name="1st La Vega Infantry"
+		type=infantry
+		home=2216
+	}
+	regiment = {
 		name="1st Santo Domingo Infantry"
 		type=infantry
 		home=2214
 	}
 	regiment = {
-		name="2nd Santo Domingo Infantry"
-		type=infantry
-		home=2214
-	}
-	regiment = {
-		name="1st Santo Domingo Cavalry"
+		name="1st La Vega Cavalry"
 		type=cavalry
-		home=2214
+		home=2216
 	}
 	regiment = {
 		name="1st Santo Domingo Artillery"
@@ -458,19 +458,19 @@ army = {
 		home=2214
 	}
 	regiment = {
+		name="1st La Vega Artillery"
+		type=artillery
+		home=2216
+	}
+	regiment = {
 		name="3rd Santo Domingo Artillery"
 		type=artillery
 		home=2214
 	}
 	regiment = {
-		name="4th Santo Domingo Artillery"
-		type=artillery
-		home=2214
-	}
-	regiment = {
-		name="1st La Vega Infantry"
+		name="2nd Santo Domingo Infantry"
 		type=infantry
-		home=2216
+		home=2214
 	}
 	regiment = {
 		name="3rd Santo Domingo Infantry"
@@ -478,12 +478,12 @@ army = {
 		home=2214
 	}
 	regiment = {
-		name="1st La Vega Cavalry"
+		name="1st Santo Domingo Cavalry"
 		type=cavalry
-		home=2216
+		home=2214
 	}
 	regiment = {
-		name="5th Santo Domingo Artillery"
+		name="4th Santo Domingo Artillery"
 		type=artillery
 		home=2214
 	}

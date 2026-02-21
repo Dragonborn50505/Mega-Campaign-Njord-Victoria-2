@@ -245,7 +245,7 @@
 	{
 		culture = dynamic-mongol-russian_culture-culture-num1
 		religion = catholic
-		size= 16533
+		size= 13433
 	}
 
 	craftsmen=
@@ -308,7 +308,7 @@
 	{
 		culture = dynamic-mongol-russian_culture-culture-num1
 		religion = catholic
-		size= 50454
+		size= 53554
 	}
 
 	soldiers=
@@ -536,7 +536,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 13433
+		size= 16533
 	}
 
 	artisans=
@@ -578,7 +578,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 47208
+		size= 44108
 	}
 
 	soldiers=
@@ -1225,7 +1225,7 @@
 	{
 		culture = ukrainian
 		religion = mahayana
-		size= 4197
+		size= 13433
 	}
 
 	artisans=
@@ -1267,7 +1267,7 @@
 	{
 		culture = ukrainian
 		religion = mahayana
-		size= 36267
+		size= 27031
 	}
 
 	soldiers=
@@ -1416,7 +1416,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 10333
+		size= 22733
 	}
 
 	artisans=
@@ -1458,7 +1458,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 49358
+		size= 36958
 	}
 
 	soldiers=
@@ -1707,7 +1707,7 @@
 	{
 		culture = ukrainian
 		religion = mahayana
-		size= 6176
+		size= 7233
 	}
 
 	artisans=
@@ -1749,7 +1749,7 @@
 	{
 		culture = ukrainian
 		religion = mahayana
-		size= 51343
+		size= 50286
 	}
 
 	soldiers=
@@ -1849,7 +1849,7 @@
 	{
 		culture = ukrainian
 		religion = mahayana
-		size= 7233
+		size= 5963
 	}
 
 	artisans=
@@ -1891,7 +1891,7 @@
 	{
 		culture = ukrainian
 		religion = mahayana
-		size= 48312
+		size= 49582
 	}
 
 	soldiers=
@@ -2995,7 +2995,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 324
+		size= 4133
 	}
 
 	artisans=
@@ -3037,7 +3037,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 5927
+		size= 2118
 	}
 
 	soldiers=
@@ -3193,7 +3193,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 1001
+		size= 4133
 	}
 
 	artisans=
@@ -3235,7 +3235,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 9276
+		size= 6144
 	}
 
 	soldiers=
@@ -3689,7 +3689,7 @@
 	{
 		culture = tatar
 		religion = mahayana
-		size= 2964
+		size= 4133
 	}
 
 	artisans=
@@ -3731,7 +3731,7 @@
 	{
 		culture = tatar
 		religion = mahayana
-		size= 26205
+		size= 25036
 	}
 
 	soldiers=
@@ -3936,7 +3936,7 @@
 	{
 		culture = tatar
 		religion = mahayana
-		size= 2981
+		size= 4133
 	}
 
 	artisans=
@@ -3978,7 +3978,7 @@
 	{
 		culture = tatar
 		religion = mahayana
-		size= 26371
+		size= 25219
 	}
 
 	soldiers=
@@ -4183,7 +4183,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 3106
+		size= 4133
 	}
 
 	artisans=
@@ -4225,7 +4225,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 28835
+		size= 27808
 	}
 
 	soldiers=

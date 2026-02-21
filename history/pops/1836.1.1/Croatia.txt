@@ -303,7 +303,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 1420
+		size= 10333
 	}
 
 	artisans=
@@ -345,7 +345,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 13682
+		size= 4769
 	}
 
 	soldiers=
@@ -601,7 +601,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 676
+		size= 4133
 	}
 
 	artisans=
@@ -643,14 +643,14 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 6729
+		size= 3272
 	}
 
 	soldiers=
 	{
 		culture = croat
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -692,7 +692,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 5864
+		size= 2764
 	}
 
 	soldiers=
@@ -843,7 +843,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -885,14 +885,14 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 3830
+		size= 6930
 	}
 
 	soldiers=
 	{
 		culture = croat
 		religion = orthodox
-		size= 1033
+		size= 736
 	}
 
 	artisans=
@@ -934,7 +934,7 @@
 	{
 		culture = croat
 		religion = orthodox
-		size= 4559
+		size= 4856
 	}
 
 }
@@ -1141,7 +1141,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -1183,7 +1183,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 10314
+		size= 7214
 	}
 
 	soldiers=
@@ -1432,7 +1432,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 4133
+		size= 10333
 	}
 
 	artisans=
@@ -1474,7 +1474,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 16665
+		size= 10465
 	}
 
 	soldiers=
@@ -1581,7 +1581,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -1623,7 +1623,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3957
+		size= 7057
 	}
 
 }

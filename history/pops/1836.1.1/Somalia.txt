@@ -695,7 +695,7 @@
 	{
 		culture = somali
 		religion = sunni
-		size= 786
+		size= 1033
 	}
 
 	artisans=
@@ -737,7 +737,7 @@
 	{
 		culture = somali
 		religion = sunni
-		size= 10171
+		size= 9924
 	}
 
 	slaves=
@@ -1228,7 +1228,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 1033
+		size= 129
 	}
 
 	artisans=
@@ -1270,7 +1270,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 3201
+		size= 4105
 	}
 
 }

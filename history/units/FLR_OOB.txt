@@ -442,15 +442,50 @@ army = {
 	name="3rd Army"
 	location=198
 	regiment = {
-		name="1st Tallahassee Infantry"
+		name="1st St Augustine Infantry"
 		type=infantry
-		home=198
+		home=199
 	}
 	regiment = {
-		name="1st Savannah Infantry"
+		name="1st Norfolk Infantry"
 		type=infantry
-		home=204
+		home=214
 	}
+	regiment = {
+		name="1st Norfolk Cavalry"
+		type=cavalry
+		home=214
+	}
+	regiment = {
+		name="1st Tampa Artillery"
+		type=artillery
+		home=200
+	}
+	regiment = {
+		name="1st Jackson Artillery"
+		type=artillery
+		home=192
+	}
+	regiment = {
+		name="1st Columbia Infantry"
+		type=infantry
+		home=206
+	}
+	regiment = {
+		name="2nd Mobile Cavalry"
+		type=cavalry
+		home=197
+	}
+	regiment = {
+		name="1st Columbia Artillery"
+		type=artillery
+		home=206
+	}
+}
+
+army = {
+	name="8th Army"
+	location=208
 	regiment = {
 		name="1st Mobile Cavalry"
 		type=cavalry
@@ -462,49 +497,14 @@ army = {
 		home=188
 	}
 	regiment = {
-		name="1st Tampa Artillery"
+		name="1st Tallahassee Artillery"
 		type=artillery
-		home=200
+		home=198
 	}
 	regiment = {
-		name="1st Knoxville Infantry"
-		type=infantry
-		home=190
-	}
-	regiment = {
-		name="1st Montgomery Cavalry"
-		type=cavalry
-		home=195
-	}
-	regiment = {
-		name="2nd Asheville Artillery"
+		name="2nd Columbia Artillery"
 		type=artillery
-		home=2556
-	}
-}
-
-army = {
-	name="8th Army"
-	location=208
-	regiment = {
-		name="1st Charlotte Cavalry"
-		type=cavalry
-		home=209
-	}
-	regiment = {
-		name="1st Asheville Artillery"
-		type=artillery
-		home=2556
-	}
-	regiment = {
-		name="1st Charlotte Artillery"
-		type=artillery
-		home=209
-	}
-	regiment = {
-		name="1st Mobile Artillery"
-		type=artillery
-		home=197
+		home=206
 	}
 }
 
@@ -524,19 +524,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Tallahassee Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Tampa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="2nd St Augustine Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Tallahassee Clipper Transport"
+		name="3rd St Augustine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th St Augustine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th St Augustine Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -544,7 +544,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd St Augustine Clipper Transport"
+		name="6th St Augustine Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -366,7 +366,7 @@ YUA = {
 #Armies
 army = {
 	name="1st Army"
-	location=1756
+	location=920
 	regiment = {
 		name="1st Gaza Infantry"
 		type=infantry
@@ -391,9 +391,9 @@ army = {
 
 navy = {
 	name="1st Fleet"
-	location=1756
+	location=920
 	ship = {
-		name="1st Al Arish Clipper Transport"
+		name="2nd Al Arish Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

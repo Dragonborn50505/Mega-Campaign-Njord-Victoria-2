@@ -378,22 +378,7 @@ army = {
 	name="2nd Army"
 	location=1336
 	regiment = {
-		name="1st Agartala Irregulars"
-		type=irregular
-		home=2566
-	}
-	regiment = {
-		name="1st Kyaukse Artillery"
-		type=artillery
-		home=1335
-	}
-	regiment = {
-		name="1st Pegu Artillery"
-		type=artillery
-		home=1332
-	}
-	regiment = {
-		name="2nd Pegu Irregulars"
+		name="1st Pegu Irregulars"
 		type=irregular
 		home=1332
 	}
@@ -402,18 +387,8 @@ army = {
 		type=artillery
 		home=2566
 	}
-}
-
-army = {
-	name="6th Army"
-	location=1333
 	regiment = {
-		name="1st Prome Irregulars"
-		type=irregular
-		home=1337
-	}
-	regiment = {
-		name="2nd Kyaukse Artillery"
+		name="1st Kyaukse Artillery"
 		type=artillery
 		home=1335
 	}
@@ -423,7 +398,32 @@ army = {
 		home=2566
 	}
 	regiment = {
-		name="2nd Ava Artillery"
+		name="1st Prome Artillery"
+		type=artillery
+		home=1337
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1335
+	regiment = {
+		name="2nd Pegu Irregulars"
+		type=irregular
+		home=1332
+	}
+	regiment = {
+		name="2nd Agartala Artillery"
+		type=artillery
+		home=2566
+	}
+	regiment = {
+		name="1st Rangoon Irregulars"
+		type=irregular
+		home=1330
+	}
+	regiment = {
+		name="1st Ava Artillery"
 		type=artillery
 		home=1334
 	}
@@ -431,24 +431,24 @@ army = {
 
 army = {
 	name="4th Army"
-	location=1330
+	location=1332
 	regiment = {
-		name="1st Pegu Irregulars"
+		name="1st Agartala Irregulars"
 		type=irregular
-		home=1332
+		home=2566
 	}
 	regiment = {
-		name="1st Ava Artillery"
+		name="3rd Agartala Artillery"
 		type=artillery
-		home=1334
+		home=2566
 	}
 	regiment = {
-		name="1st Moulmein Artillery"
+		name="2nd Kyaukse Artillery"
 		type=artillery
-		home=1343
+		home=1335
 	}
 	regiment = {
-		name="3rd Ava Artillery"
+		name="2nd Ava Artillery"
 		type=artillery
 		home=1334
 	}
@@ -458,10 +458,6 @@ navy = {
 	name="3rd Fleet"
 	location=2794
 	ship = {
-		name="1st Pegu Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Chittagong Frigate"
 		type=frigate
 	}
@@ -470,23 +466,27 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Pegu Frigate"
+		name="1st Rangoon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chittagong Frigate"
 		type=frigate
 	}
 }
 
 army = {
 	name="8th Army"
-	location=1333
-	regiment = {
-		name="1st Rangoon Irregulars"
-		type=irregular
-		home=1330
-	}
+	location=1335
 	regiment = {
 		name="1st Ava Irregulars"
 		type=irregular
 		home=1334
+	}
+	regiment = {
+		name="1st Toungoo Irregulars"
+		type=irregular
+		home=1333
 	}
 }
 

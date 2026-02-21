@@ -103,7 +103,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 4133
+		size= 1923
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 16202
+		size= 18412
 	}
 
 	soldiers=
@@ -401,7 +401,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4133
+		size= 3327
 	}
 
 	artisans=
@@ -443,7 +443,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 30065
+		size= 30871
 	}
 
 	soldiers=
@@ -4561,7 +4561,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 10333
+		size= 13433
 	}
 
 	artisans=
@@ -4603,7 +4603,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 36011
+		size= 32911
 	}
 
 	soldiers=

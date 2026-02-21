@@ -119,7 +119,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 7233
+		size= 13433
 	}
 
 	artisans=
@@ -161,7 +161,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 39535
+		size= 33335
 	}
 
 }
@@ -512,7 +512,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -554,7 +554,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 15312
+		size= 18412
 	}
 
 }
@@ -740,7 +740,7 @@
 	{
 		culture = beja
 		religion = coptic
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -782,7 +782,7 @@
 	{
 		culture = beja
 		religion = coptic
-		size= 6989
+		size= 7921
 	}
 
 }

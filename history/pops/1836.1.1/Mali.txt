@@ -511,7 +511,7 @@
 	{
 		culture = wolof
 		religion = catholic
-		size= 1120
+		size= 13433
 	}
 
 	artisans=
@@ -553,7 +553,7 @@
 	{
 		culture = wolof
 		religion = catholic
-		size= 19860
+		size= 7547
 	}
 
 }
@@ -1125,7 +1125,7 @@
 	{
 		culture = mande
 		religion = catholic
-		size= 16533
+		size= 7233
 	}
 
 	artisans=
@@ -1167,7 +1167,7 @@
 	{
 		culture = mande
 		religion = catholic
-		size= 45952
+		size= 55252
 	}
 
 	slaves=

@@ -391,38 +391,23 @@ army = {
 	name="Armee von Breisgau"
 	location=602
 	regiment = {
-		name="1st Karlsruhe Infantry"
-		type=infantry
-		home=586
-	}
-	regiment = {
-		name="1st Bozen Infantry"
-		type=infantry
-		home=735
-	}
-	regiment = {
 		name="1st Bayreuth Infantry"
 		type=infantry
 		home=598
 	}
 	regiment = {
-		name="1st Meiningen Cavalry"
+		name="1st Ingolstadt Infantry"
+		type=infantry
+		home=601
+	}
+	regiment = {
+		name="1st Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="1st Würzburg Cavalry"
 		type=cavalry
-		home=563
-	}
-	regiment = {
-		name="1st Bregenz Artillery"
-		type=artillery
-		home=614
-	}
-	regiment = {
-		name="1st Landshut Artillery"
-		type=artillery
-		home=600
-	}
-	regiment = {
-		name="1st Würzburg Artillery"
-		type=artillery
 		home=597
 	}
 	regiment = {
@@ -431,14 +416,29 @@ army = {
 		home=575
 	}
 	regiment = {
-		name="5th Bayreuth Infantry"
-		type=infantry
-		home=598
+		name="2nd Cologne Artillery"
+		type=artillery
+		home=575
 	}
 	regiment = {
-		name="9th Bayreuth Artillery"
+		name="1st Stuttgart Artillery"
 		type=artillery
-		home=598
+		home=589
+	}
+	regiment = {
+		name="1st Landshut Artillery"
+		type=artillery
+		home=600
+	}
+	regiment = {
+		name="1st Brno Infantry"
+		type=infantry
+		home=631
+	}
+	regiment = {
+		name="3rd Prague Artillery"
+		type=artillery
+		home=625
 	}
 }
 
@@ -446,12 +446,112 @@ army = {
 	name="Armee von Prachen"
 	location=590
 	regiment = {
-		name="1st Munich Infantry"
+		name="2nd Würzburg Infantry"
 		type=infantry
-		home=599
+		home=597
 	}
 	regiment = {
 		name="1st Ingolstadt Cavalry"
+		type=cavalry
+		home=601
+	}
+	regiment = {
+		name="1st Würzburg Artillery"
+		type=artillery
+		home=597
+	}
+	regiment = {
+		name="4th Salzburg Infantry"
+		type=infantry
+		home=613
+	}
+	regiment = {
+		name="1st Innsbruck Cavalry"
+		type=cavalry
+		home=612
+	}
+	regiment = {
+		name="2nd Landshut Artillery"
+		type=artillery
+		home=600
+	}
+}
+
+army = {
+	name="Armee von Memmingen"
+	location=588
+	regiment = {
+		name="1st Klagenfurt Infantry"
+		type=infantry
+		home=618
+	}
+	regiment = {
+		name="2nd Klagenfurt Infantry"
+		type=infantry
+		home=618
+	}
+	regiment = {
+		name="1st Meiningen Cavalry"
+		type=cavalry
+		home=563
+	}
+	regiment = {
+		name="2nd Würzburg Artillery"
+		type=artillery
+		home=597
+	}
+	regiment = {
+		name="1st Dortmund Artillery"
+		type=artillery
+		home=580
+	}
+	regiment = {
+		name="3rd Cologne Artillery"
+		type=artillery
+		home=575
+	}
+	regiment = {
+		name="3rd Würzburg Artillery"
+		type=artillery
+		home=597
+	}
+	regiment = {
+		name="3rd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="2nd Meiningen Cavalry"
+		type=cavalry
+		home=563
+	}
+}
+
+army = {
+	name="Armee von Nürnberg"
+	location=601
+	regiment = {
+		name="3rd Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="1st Bregenz Infantry"
+		type=infantry
+		home=614
+	}
+	regiment = {
+		name="4th Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="5th Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="2nd Ingolstadt Cavalry"
 		type=cavalry
 		home=601
 	}
@@ -461,124 +561,24 @@ army = {
 		home=598
 	}
 	regiment = {
-		name="3rd Brno Infantry"
-		type=infantry
-		home=631
-	}
-	regiment = {
-		name="2nd Bayreuth Cavalry"
-		type=cavalry
-		home=598
-	}
-	regiment = {
-		name="2nd Munich Artillery"
-		type=artillery
-		home=599
-	}
-}
-
-army = {
-	name="Armee von Memmingen"
-	location=588
-	regiment = {
-		name="1st Nuremberg Infantry"
-		type=infantry
-		home=595
-	}
-	regiment = {
-		name="2nd Munich Infantry"
-		type=infantry
-		home=599
-	}
-	regiment = {
-		name="1st Bayreuth Cavalry"
-		type=cavalry
-		home=598
-	}
-	regiment = {
-		name="1st Nuremberg Artillery"
-		type=artillery
-		home=595
-	}
-	regiment = {
-		name="2nd Würzburg Artillery"
-		type=artillery
-		home=597
-	}
-	regiment = {
-		name="2nd Landshut Artillery"
-		type=artillery
-		home=600
-	}
-	regiment = {
 		name="2nd Bayreuth Artillery"
 		type=artillery
 		home=598
 	}
 	regiment = {
-		name="1st Klagenfurt Infantry"
-		type=infantry
-		home=618
+		name="4th Würzburg Artillery"
+		type=artillery
+		home=597
 	}
 	regiment = {
-		name="3rd Bayreuth Cavalry"
-		type=cavalry
+		name="3rd Bayreuth Artillery"
+		type=artillery
 		home=598
 	}
-}
-
-army = {
-	name="Armee von Nürnberg"
-	location=601
 	regiment = {
-		name="1st Würzburg Infantry"
+		name="3rd Prague Infantry"
 		type=infantry
-		home=597
-	}
-	regiment = {
-		name="2nd Würzburg Infantry"
-		type=infantry
-		home=597
-	}
-	regiment = {
-		name="1st Ingolstadt Infantry"
-		type=infantry
-		home=601
-	}
-	regiment = {
-		name="2nd Ingolstadt Infantry"
-		type=infantry
-		home=601
-	}
-	regiment = {
-		name="2nd Ingolstadt Cavalry"
-		type=cavalry
-		home=601
-	}
-	regiment = {
-		name="1st Heilbronn Artillery"
-		type=artillery
-		home=590
-	}
-	regiment = {
-		name="1st Augsburg Artillery"
-		type=artillery
-		home=592
-	}
-	regiment = {
-		name="2nd Heilbronn Artillery"
-		type=artillery
-		home=590
-	}
-	regiment = {
-		name="3rd Würzburg Artillery"
-		type=artillery
-		home=597
-	}
-	regiment = {
-		name="2nd Brno Infantry"
-		type=infantry
-		home=631
+		home=625
 	}
 }
 
@@ -618,12 +618,12 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="Kaiser Friedrich III"
-		type=manowar
-	}
-	ship = {
 		name="Donau"
 		type=clipper_transport
+	}
+	ship = {
+		name="Kaiser Friedrich III"
+		type=manowar
 	}
 	ship = {
 		name="Elbe"
@@ -635,14 +635,14 @@ army = {
 	name="4th Army"
 	location=589
 	regiment = {
-		name="2nd Bayreuth Infantry"
+		name="1st Zurich Infantry"
 		type=infantry
-		home=598
+		home=603
 	}
 	regiment = {
-		name="3rd Ingolstadt Infantry"
+		name="1st Nuremberg Infantry"
 		type=infantry
-		home=601
+		home=595
 	}
 	regiment = {
 		name="1st Landshut Infantry"
@@ -650,34 +650,34 @@ army = {
 		home=600
 	}
 	regiment = {
-		name="1st Landshut Cavalry"
+		name="1st Aschaffenburg Cavalry"
 		type=cavalry
-		home=600
+		home=596
 	}
 	regiment = {
-		name="2nd Cologne Artillery"
+		name="1st Cottbus Artillery"
 		type=artillery
-		home=575
+		home=552
 	}
 	regiment = {
-		name="4th Würzburg Artillery"
+		name="5th Würzburg Artillery"
 		type=artillery
 		home=597
-	}
-	regiment = {
-		name="1st Münster Artillery"
-		type=artillery
-		home=581
-	}
-	regiment = {
-		name="1st Brno Cavalry"
-		type=cavalry
-		home=631
 	}
 	regiment = {
 		name="1st Munich Artillery"
 		type=artillery
 		home=599
+	}
+	regiment = {
+		name="2nd Aschaffenburg Cavalry"
+		type=cavalry
+		home=596
+	}
+	regiment = {
+		name="1st Lucerne Artillery"
+		type=artillery
+		home=606
 	}
 }
 
@@ -685,19 +685,19 @@ army = {
 	name="1st Army"
 	location=600
 	regiment = {
-		name="1st Zurich Infantry"
-		type=infantry
-		home=603
-	}
-	regiment = {
 		name="1st Lugano Infantry"
 		type=infantry
 		home=2568
 	}
 	regiment = {
-		name="2nd Nuremberg Infantry"
+		name="2nd Zurich Infantry"
 		type=infantry
-		home=595
+		home=603
+	}
+	regiment = {
+		name="2nd Landshut Infantry"
+		type=infantry
+		home=600
 	}
 	regiment = {
 		name="3rd Ingolstadt Cavalry"
@@ -705,7 +705,12 @@ army = {
 		home=601
 	}
 	regiment = {
-		name="3rd Cologne Artillery"
+		name="6th Würzburg Artillery"
+		type=artillery
+		home=597
+	}
+	regiment = {
+		name="4th Cologne Artillery"
 		type=artillery
 		home=575
 	}
@@ -714,140 +719,20 @@ army = {
 		type=artillery
 		home=601
 	}
-	regiment = {
-		name="4th Cologne Artillery"
-		type=artillery
-		home=575
-	}
 }
 
 army = {
 	name="13th Army"
 	location=629
 	regiment = {
-		name="3rd Würzburg Infantry"
-		type=infantry
-		home=597
-	}
-	regiment = {
-		name="1st Aussig Infantry"
-		type=infantry
-		home=628
-	}
-	regiment = {
-		name="1st Ulm Infantry"
-		type=infantry
-		home=593
-	}
-	regiment = {
 		name="1st Salzburg Infantry"
 		type=infantry
 		home=613
 	}
 	regiment = {
-		name="1st Würzburg Cavalry"
-		type=cavalry
-		home=597
-	}
-	regiment = {
-		name="3rd Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="5th Würzburg Artillery"
-		type=artillery
-		home=597
-	}
-	regiment = {
-		name="1st Kassel Artillery"
-		type=artillery
-		home=566
-	}
-	regiment = {
-		name="4th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="1st Budejovice Infantry"
+		name="2nd Salzburg Infantry"
 		type=infantry
-		home=630
-	}
-}
-
-army = {
-	name="15th Army"
-	location=569
-	regiment = {
-		name="3rd Munich Infantry"
-		type=infantry
-		home=599
-	}
-	regiment = {
-		name="4th Ingolstadt Cavalry"
-		type=cavalry
-		home=601
-	}
-	regiment = {
-		name="5th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="1st Bozen Cavalry"
-		type=cavalry
-		home=735
-	}
-	regiment = {
-		name="1st Stuttgart Artillery"
-		type=artillery
-		home=589
-	}
-}
-
-army = {
-	name="17th Army"
-	location=591
-	regiment = {
-		name="4th Würzburg Infantry"
-		type=infantry
-		home=597
-	}
-	regiment = {
-		name="1st Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="5th Ingolstadt Cavalry"
-		type=cavalry
-		home=601
-	}
-	regiment = {
-		name="6th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="1st Aussig Artillery"
-		type=artillery
-		home=628
-	}
-}
-
-army = {
-	name="Armee von Regensburg"
-	location=592
-	regiment = {
-		name="5th Würzburg Infantry"
-		type=infantry
-		home=597
-	}
-	regiment = {
-		name="1st Prague Infantry"
-		type=infantry
-		home=625
+		home=613
 	}
 	regiment = {
 		name="6th Würzburg Infantry"
@@ -855,24 +740,14 @@ army = {
 		home=597
 	}
 	regiment = {
-		name="7th Würzburg Infantry"
+		name="1st Plzen Infantry"
 		type=infantry
-		home=597
+		home=629
 	}
 	regiment = {
-		name="1st Prague Cavalry"
+		name="1st Munich Cavalry"
 		type=cavalry
-		home=625
-	}
-	regiment = {
-		name="6th Würzburg Artillery"
-		type=artillery
-		home=597
-	}
-	regiment = {
-		name="7th Würzburg Artillery"
-		type=artillery
-		home=597
+		home=599
 	}
 	regiment = {
 		name="5th Cologne Artillery"
@@ -885,9 +760,134 @@ army = {
 		home=575
 	}
 	regiment = {
-		name="1st Koblenz Infantry"
+		name="1st Bielefeld Artillery"
+		type=artillery
+		home=582
+	}
+	regiment = {
+		name="2nd Bielefeld Artillery"
+		type=artillery
+		home=582
+	}
+	regiment = {
+		name="4th Landshut Infantry"
 		type=infantry
-		home=574
+		home=600
+	}
+}
+
+army = {
+	name="15th Army"
+	location=569
+	regiment = {
+		name="2nd Bregenz Infantry"
+		type=infantry
+		home=614
+	}
+	regiment = {
+		name="4th Ingolstadt Cavalry"
+		type=cavalry
+		home=601
+	}
+	regiment = {
+		name="4th Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="1st Bozen Cavalry"
+		type=cavalry
+		home=735
+	}
+	regiment = {
+		name="9th Cologne Artillery"
+		type=artillery
+		home=575
+	}
+}
+
+army = {
+	name="17th Army"
+	location=594
+	regiment = {
+		name="3rd Salzburg Infantry"
+		type=infantry
+		home=613
+	}
+	regiment = {
+		name="7th Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="5th Ingolstadt Cavalry"
+		type=cavalry
+		home=601
+	}
+	regiment = {
+		name="2nd Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="1st Aussig Artillery"
+		type=artillery
+		home=628
+	}
+}
+
+army = {
+	name="Armee von Regensburg"
+	location=592
+	regiment = {
+		name="8th Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="1st Aschaffenburg Infantry"
+		type=infantry
+		home=596
+	}
+	regiment = {
+		name="9th Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="1st Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="6th Ingolstadt Cavalry"
+		type=cavalry
+		home=601
+	}
+	regiment = {
+		name="1st Osnabrück Artillery"
+		type=artillery
+		home=538
+	}
+	regiment = {
+		name="2nd Ingolstadt Artillery"
+		type=artillery
+		home=601
+	}
+	regiment = {
+		name="2nd Osnabrück Artillery"
+		type=artillery
+		home=538
+	}
+	regiment = {
+		name="2nd Aschaffenburg Infantry"
+		type=infantry
+		home=596
+	}
+	regiment = {
+		name="1st Nuremberg Artillery"
+		type=artillery
+		home=595
 	}
 }
 
@@ -895,9 +895,59 @@ army = {
 	name="Armee von Donauwörth"
 	location=592
 	regiment = {
-		name="3rd Bayreuth Infantry"
+		name="2nd Bayreuth Infantry"
 		type=infantry
 		home=598
+	}
+	regiment = {
+		name="1st Prague Cavalry"
+		type=cavalry
+		home=625
+	}
+	regiment = {
+		name="1st Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="3rd Bregenz Infantry"
+		type=infantry
+		home=614
+	}
+	regiment = {
+		name="1st Brno Cavalry"
+		type=cavalry
+		home=631
+	}
+	regiment = {
+		name="7th Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+}
+
+army = {
+	name="Armee von Würzburg"
+	location=595
+	regiment = {
+		name="1st Augsburg Infantry"
+		type=infantry
+		home=592
+	}
+	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="3rd Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Heilbronn Infantry"
+		type=infantry
+		home=590
 	}
 	regiment = {
 		name="2nd Prague Cavalry"
@@ -905,14 +955,54 @@ army = {
 		home=625
 	}
 	regiment = {
-		name="7th Bayreuth Artillery"
+		name="7th Cologne Artillery"
+		type=artillery
+		home=575
+	}
+	regiment = {
+		name="5th Bayreuth Artillery"
 		type=artillery
 		home=598
 	}
 	regiment = {
-		name="1st Bregenz Infantry"
+		name="8th Cologne Artillery"
+		type=artillery
+		home=575
+	}
+	regiment = {
+		name="6th Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="2nd Augsburg Infantry"
 		type=infantry
-		home=614
+		home=592
+	}
+	regiment = {
+		name="10th Cologne Artillery"
+		type=artillery
+		home=575
+	}
+}
+
+army = {
+	name="Kaiserliche Armee"
+	location=564
+	regiment = {
+		name="2nd Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="3rd Prague Cavalry"
+		type=cavalry
+		home=625
+	}
+	regiment = {
+		name="2nd Prague Artillery"
+		type=artillery
+		home=625
 	}
 	regiment = {
 		name="4th Prague Cavalry"
@@ -927,107 +1017,17 @@ army = {
 }
 
 army = {
-	name="Armee von Würzburg"
-	location=595
-	regiment = {
-		name="1st Freiburg Infantry"
-		type=infantry
-		home=587
-	}
-	regiment = {
-		name="4th Bayreuth Infantry"
-		type=infantry
-		home=598
-	}
-	regiment = {
-		name="2nd Prague Infantry"
-		type=infantry
-		home=625
-	}
-	regiment = {
-		name="3rd Prague Infantry"
-		type=infantry
-		home=625
-	}
-	regiment = {
-		name="2nd Landshut Cavalry"
-		type=cavalry
-		home=600
-	}
-	regiment = {
-		name="8th Würzburg Artillery"
-		type=artillery
-		home=597
-	}
-	regiment = {
-		name="1st Aschaffenburg Artillery"
-		type=artillery
-		home=596
-	}
-	regiment = {
-		name="8th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="2nd Augsburg Artillery"
-		type=artillery
-		home=592
-	}
-	regiment = {
-		name="2nd Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="10th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-}
-
-army = {
-	name="Kaiserliche Armee"
-	location=564
-	regiment = {
-		name="4th Prague Infantry"
-		type=infantry
-		home=625
-	}
-	regiment = {
-		name="3rd Prague Cavalry"
-		type=cavalry
-		home=625
-	}
-	regiment = {
-		name="1st Prague Artillery"
-		type=artillery
-		home=625
-	}
-	regiment = {
-		name="5th Prague Cavalry"
-		type=cavalry
-		home=625
-	}
-	regiment = {
-		name="2nd Prague Artillery"
-		type=artillery
-		home=625
-	}
-}
-
-army = {
 	name="2nd Army"
 	location=592
 	regiment = {
-		name="1st Brno Infantry"
+		name="2nd Nuremberg Infantry"
 		type=infantry
-		home=631
+		home=595
 	}
 	regiment = {
-		name="5th Prague Infantry"
+		name="2nd Heilbronn Infantry"
 		type=infantry
-		home=625
+		home=590
 	}
 }
 

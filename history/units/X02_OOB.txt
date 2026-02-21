@@ -463,14 +463,14 @@ army = {
 		home=1233
 	}
 	regiment = {
-		name="1st Qatif Artillery"
+		name="1st Amritsar Artillery"
 		type=artillery
-		home=1163
+		home=1233
 	}
 	regiment = {
-		name="1st Kabul Irregulars"
+		name="2nd Kashan Irregulars"
 		type=irregular
-		home=1209
+		home=1129
 	}
 }
 
@@ -478,9 +478,9 @@ army = {
 	name="9th Army"
 	location=1178
 	regiment = {
-		name="1st Gorgan Irregulars"
+		name="1st Doha Irregulars"
 		type=irregular
-		home=1116
+		home=1165
 	}
 	regiment = {
 		name="1st Herat Cavalry"
@@ -488,24 +488,24 @@ army = {
 		home=1212
 	}
 	regiment = {
-		name="1st Amritsar Artillery"
+		name="1st Ma'an Artillery"
 		type=artillery
-		home=1233
+		home=911
 	}
 	regiment = {
-		name="2nd Amritsar Artillery"
+		name="1st Balkh Artillery"
 		type=artillery
-		home=1233
+		home=1211
 	}
 	regiment = {
-		name="1st Doha Irregulars"
+		name="1st Birjand Irregulars"
 		type=irregular
-		home=1165
+		home=1148
 	}
 	regiment = {
-		name="1st Homs Cavalry"
+		name="1st Kabul Cavalry"
 		type=cavalry
-		home=903
+		home=1209
 	}
 	regiment = {
 		name="1st Qarshi Cavalry"
@@ -513,14 +513,14 @@ army = {
 		home=1200
 	}
 	regiment = {
-		name="1st Rafha Cavalry"
+		name="1st Damascus Cavalry"
 		type=cavalry
-		home=1158
+		home=902
 	}
 	regiment = {
-		name="1st Damascus Artillery"
+		name="2nd Balkh Artillery"
 		type=artillery
-		home=902
+		home=1211
 	}
 }
 
@@ -528,9 +528,9 @@ army = {
 	name="14th Army"
 	location=1173
 	regiment = {
-		name="2nd Amritsar Irregulars"
+		name="1st Bojnurd Irregulars"
 		type=irregular
-		home=1233
+		home=1150
 	}
 	regiment = {
 		name="1st Amritsar Cavalry"
@@ -538,29 +538,29 @@ army = {
 		home=1233
 	}
 	regiment = {
-		name="1st Deir ez-Zor Artillery"
+		name="1st Noshehr Artillery"
 		type=artillery
-		home=907
+		home=1114
 	}
 	regiment = {
-		name="2nd Deir ez-Zor Artillery"
+		name="1st Qom Artillery"
 		type=artillery
-		home=907
+		home=1125
 	}
 	regiment = {
-		name="1st Bela Irregulars"
+		name="1st Kangan Irregulars"
 		type=irregular
-		home=1222
+		home=1138
 	}
 	regiment = {
-		name="1st Raqqah Cavalry"
+		name="1st Lengeh Cavalry"
 		type=cavalry
-		home=901
+		home=1141
 	}
 	regiment = {
-		name="2nd Homs Cavalry"
+		name="1st Kunduz Cavalry"
 		type=cavalry
-		home=903
+		home=1210
 	}
 }
 
@@ -573,19 +573,19 @@ army = {
 		home=1219
 	}
 	regiment = {
-		name="1st Zanjan Artillery"
+		name="1st Birjand Artillery"
 		type=artillery
-		home=1123
+		home=1148
 	}
 	regiment = {
-		name="1st Sialkot Irregulars"
+		name="1st Balkh Irregulars"
 		type=irregular
-		home=1229
+		home=1211
 	}
 	regiment = {
-		name="1st Kandahar Artillery"
+		name="3rd Birjand Artillery"
 		type=artillery
-		home=1215
+		home=1148
 	}
 }
 
@@ -598,7 +598,7 @@ army = {
 		home=1129
 	}
 	regiment = {
-		name="3rd Amritsar Artillery"
+		name="2nd Amritsar Artillery"
 		type=artillery
 		home=1233
 	}
@@ -613,29 +613,29 @@ army = {
 		home=1221
 	}
 	regiment = {
+		name="2nd Amritsar Cavalry"
+		type=cavalry
+		home=1233
+	}
+	regiment = {
+		name="3rd Amritsar Artillery"
+		type=artillery
+		home=1233
+	}
+	regiment = {
+		name="1st Jalalabad Cavalry"
+		type=cavalry
+		home=1216
+	}
+	regiment = {
 		name="1st Bahrain Cavalry"
 		type=cavalry
 		home=1162
 	}
 	regiment = {
-		name="1st Lengeh Artillery"
+		name="5th Amritsar Artillery"
 		type=artillery
-		home=1141
-	}
-	regiment = {
-		name="1st Balkh Cavalry"
-		type=cavalry
-		home=1211
-	}
-	regiment = {
-		name="2nd Bahrain Cavalry"
-		type=cavalry
-		home=1162
-	}
-	regiment = {
-		name="1st Riyadh Artillery"
-		type=artillery
-		home=1157
+		home=1233
 	}
 }
 
@@ -643,14 +643,14 @@ army = {
 	name="13th Army"
 	location=1179
 	regiment = {
-		name="3rd Amritsar Irregulars"
+		name="2nd Amritsar Irregulars"
 		type=irregular
 		home=1233
 	}
 	regiment = {
-		name="4th Amritsar Artillery"
+		name="1st Zaranj Artillery"
 		type=artillery
-		home=1233
+		home=1214
 	}
 }
 
@@ -658,14 +658,14 @@ army = {
 	name="25th Army"
 	location=1173
 	regiment = {
-		name="1st Isfahan Artillery"
+		name="1st Jalalabad Artillery"
 		type=artillery
-		home=1127
+		home=1216
 	}
 	regiment = {
-		name="1st Rafha Artillery"
+		name="1st Sialkot Artillery"
 		type=artillery
-		home=1158
+		home=1229
 	}
 }
 
@@ -673,14 +673,14 @@ army = {
 	name="17th Army"
 	location=1178
 	regiment = {
-		name="1st Sialkot Artillery"
+		name="1st Kandahar Artillery"
 		type=artillery
-		home=1229
+		home=1215
 	}
 	regiment = {
-		name="1st Kunduz Artillery"
+		name="2nd Sialkot Artillery"
 		type=artillery
-		home=1210
+		home=1229
 	}
 }
 
@@ -688,14 +688,14 @@ army = {
 	name="32nd Army"
 	location=1178
 	regiment = {
-		name="5th Amritsar Artillery"
+		name="4th Amritsar Artillery"
 		type=artillery
 		home=1233
 	}
 	regiment = {
-		name="2nd Isfahan Artillery"
+		name="1st Dalbandin Artillery"
 		type=artillery
-		home=1127
+		home=1220
 	}
 }
 
@@ -703,19 +703,19 @@ army = {
 	name="1st Army"
 	location=1155
 	regiment = {
-		name="1st Kandahar Irregulars"
+		name="1st Sialkot Irregulars"
 		type=irregular
-		home=1215
-	}
-	regiment = {
-		name="1st Qarshi Artillery"
-		type=artillery
-		home=1200
-	}
-	regiment = {
-		name="3rd Sialkot Artillery"
-		type=artillery
 		home=1229
+	}
+	regiment = {
+		name="1st Isfahan Artillery"
+		type=artillery
+		home=1127
+	}
+	regiment = {
+		name="2nd Lengeh Artillery"
+		type=artillery
+		home=1141
 	}
 }
 
@@ -723,7 +723,7 @@ army = {
 	name="42nd Army"
 	location=1155
 	regiment = {
-		name="2nd Qarshi Artillery"
+		name="1st Qarshi Artillery"
 		type=artillery
 		home=1200
 	}
@@ -733,14 +733,19 @@ army = {
 	name="6th Army"
 	location=1173
 	regiment = {
-		name="1st Bojnurd Irregulars"
+		name="1st Lengeh Irregulars"
 		type=irregular
-		home=1150
+		home=1141
 	}
 	regiment = {
-		name="1st Kashan Cavalry"
+		name="3rd Amritsar Cavalry"
 		type=cavalry
-		home=1129
+		home=1233
+	}
+	regiment = {
+		name="2nd Isfahan Artillery"
+		type=artillery
+		home=1127
 	}
 	regiment = {
 		name="1st Kabul Artillery"
@@ -748,29 +753,24 @@ army = {
 		home=1209
 	}
 	regiment = {
+		name="1st Kalat Artillery"
+		type=artillery
+		home=1221
+	}
+	regiment = {
+		name="1st Sialkot Cavalry"
+		type=cavalry
+		home=1229
+	}
+	regiment = {
+		name="1st Kulob Cavalry"
+		type=cavalry
+		home=1207
+	}
+	regiment = {
 		name="1st Sari Artillery"
 		type=artillery
 		home=1115
-	}
-	regiment = {
-		name="2nd Lengeh Artillery"
-		type=artillery
-		home=1141
-	}
-	regiment = {
-		name="1st Qom Cavalry"
-		type=cavalry
-		home=1125
-	}
-	regiment = {
-		name="2nd Qom Cavalry"
-		type=cavalry
-		home=1125
-	}
-	regiment = {
-		name="1st Gizab Artillery"
-		type=artillery
-		home=2133
 	}
 }
 
@@ -778,24 +778,24 @@ army = {
 	name="5th Army"
 	location=1178
 	regiment = {
+		name="1st Qarshi Irregulars"
+		type=irregular
+		home=1200
+	}
+	regiment = {
+		name="1st Lengeh Artillery"
+		type=artillery
+		home=1141
+	}
+	regiment = {
+		name="2nd Birjand Artillery"
+		type=artillery
+		home=1148
+	}
+	regiment = {
 		name="1st Zaranj Irregulars"
 		type=irregular
 		home=1214
-	}
-	regiment = {
-		name="1st Kerman Artillery"
-		type=artillery
-		home=1140
-	}
-	regiment = {
-		name="2nd Sialkot Artillery"
-		type=artillery
-		home=1229
-	}
-	regiment = {
-		name="1st Balkh Irregulars"
-		type=irregular
-		home=1211
 	}
 }
 
@@ -816,7 +816,15 @@ navy = {
 	name="1st Fleet"
 	location=1132
 	ship = {
+		name="1st Lengeh Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Bandar Abbas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Abadan Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -832,27 +840,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="2nd Abadan Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="2nd Kangan Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Kangan Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Lengeh Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Kuwait Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Abadan Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Bushire Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -860,11 +852,23 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Bandar Abbas Frigate"
+		name="3rd Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bushire Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chabahar Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Bushire Frigate"
+		name="1st Qatif Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mukalla Frigate"
 		type=frigate
 	}
 	ship = {
@@ -872,39 +876,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Massawa Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Berbera Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Duqm Frigate"
+		name="2nd Berbera Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Bahrain Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Bahrain Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Basra Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Abadan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Hufuf Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Abadan Clipper Transport"
+		name="1st Kangan Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -912,11 +892,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kuwait Clipper Transport"
+		name="1st Hufuf Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Bahrain Clipper Transport"
+		name="1st Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bushire Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -924,7 +908,31 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kangan Clipper Transport"
+		name="2nd Bushire Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bushire Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Basra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lengeh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Qatif Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bahrain Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -932,35 +940,27 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bandar Abbas Clipper Transport"
+		name="3rd Bela Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Basra Clipper Transport"
+		name="3rd Qatif Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Hufuf Clipper Transport"
+		name="4th Qatif Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Bahrain Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Chabahar Man'o'war"
+		name="2nd Chabahar Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Bandar Abbas Frigate"
+		name="1st Duqm Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Lengeh Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Lengeh Clipper Transport"
+		name="2nd Bahrain Clipper Transport"
 		type=clipper_transport
 	}
 }

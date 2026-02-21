@@ -152,7 +152,7 @@
 	{
 		culture = aborigine
 		religion = orthodox
-		size= 1033
+		size= 132
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = aborigine
 		religion = orthodox
-		size= 785
+		size= 1686
 	}
 
 }
@@ -2374,14 +2374,14 @@
 	{
 		culture = aborigine
 		religion = animist
-		size= 91
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = aborigine
 		religion = animist
-		size= 1636
+		size= 694
 	}
 
 	artisans=
@@ -3498,14 +3498,14 @@
 	{
 		culture = aborigine
 		religion = animist
-		size= 1033
+		size= 94
 	}
 
 	farmers=
 	{
 		culture = aborigine
 		religion = animist
-		size= 1180
+		size= 2119
 	}
 
 	artisans=
@@ -3626,14 +3626,14 @@
 	{
 		culture = aborigine
 		religion = animist
-		size= 18
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = aborigine
 		religion = animist
-		size= 1309
+		size= 294
 	}
 
 	artisans=

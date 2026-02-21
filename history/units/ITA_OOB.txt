@@ -479,194 +479,9 @@ army = {
 	name="14th Army"
 	location=726
 	regiment = {
-		name="1st Rome Infantry"
+		name="1st Bergamo Infantry"
 		type=infantry
-		home=749
-	}
-	regiment = {
-		name="1st Genoa Infantry"
-		type=infantry
-		home=724
-	}
-	regiment = {
-		name="1st Foggia Infantry"
-		type=infantry
-		home=757
-	}
-	regiment = {
-		name="1st Massa Infantry"
-		type=infantry
-		home=740
-	}
-	regiment = {
-		name="1st Salerno Artillery"
-		type=artillery
-		home=755
-	}
-	regiment = {
-		name="2nd Verona Infantry"
-		type=infantry
-		home=730
-	}
-	regiment = {
-		name="3rd Florence Artillery"
-		type=artillery
-		home=744
-	}
-}
-
-army = {
-	name="Armata di Torino"
-	location=738
-	regiment = {
-		name="1st Parma Infantry"
-		type=infantry
-		home=738
-	}
-	regiment = {
-		name="1st Lucca Infantry"
-		type=infantry
-		home=746
-	}
-	regiment = {
-		name="2nd Rome Infantry"
-		type=infantry
-		home=749
-	}
-	regiment = {
-		name="6th Florence Infantry"
-		type=infantry
-		home=744
-	}
-}
-
-army = {
-	name="Armata di Nizza"
-	location=1727
-	regiment = {
-		name="1st Turin Infantry"
-		type=infantry
-		home=720
-	}
-	regiment = {
-		name="1st Ancona Infantry"
-		type=infantry
-		home=752
-	}
-	regiment = {
-		name="1st Novara Infantry"
-		type=infantry
-		home=722
-	}
-	regiment = {
-		name="2nd Ancona Infantry"
-		type=infantry
-		home=752
-	}
-	regiment = {
-		name="1st Ferrara Infantry"
-		type=infantry
-		home=742
-	}
-	regiment = {
-		name="2nd Parma Infantry"
-		type=infantry
-		home=738
-	}
-	regiment = {
-		name="1st Nice Infantry"
-		type=infantry
-		home=472
-	}
-	regiment = {
-		name="1st Catania Artillery"
-		type=artillery
-		home=764
-	}
-	regiment = {
-		name="3rd Padua Infantry"
-		type=infantry
-		home=731
-	}
-	regiment = {
-		name="2nd Venice Artillery"
-		type=artillery
-		home=729
-	}
-	regiment = {
-		name="1st Padua Artillery"
-		type=artillery
-		home=731
-	}
-}
-
-army = {
-	name="Armata di Trieste"
-	location=854
-	regiment = {
-		name="2nd Turin Infantry"
-		type=infantry
-		home=720
-	}
-	regiment = {
-		name="1st Alessandria Infantry"
-		type=infantry
-		home=723
-	}
-	regiment = {
-		name="3rd Rome Infantry"
-		type=infantry
-		home=749
-	}
-	regiment = {
-		name="1st Milan Infantry"
-		type=infantry
-		home=726
-	}
-	regiment = {
-		name="1st Florence Infantry"
-		type=infantry
-		home=744
-	}
-	regiment = {
-		name="2nd Alessandria Infantry"
-		type=infantry
-		home=723
-	}
-	regiment = {
-		name="1st Milan Artillery"
-		type=artillery
-		home=726
-	}
-	regiment = {
-		name="2nd Gaeta Infantry"
-		type=infantry
-		home=2567
-	}
-	regiment = {
-		name="3rd Perugia Artillery"
-		type=artillery
-		home=751
-	}
-	regiment = {
-		name="5th Perugia Artillery"
-		type=artillery
-		home=751
-	}
-}
-
-army = {
-	name="Armata di Savoie"
-	location=758
-	regiment = {
-		name="2nd Foggia Infantry"
-		type=infantry
-		home=757
-	}
-	regiment = {
-		name="3rd Ancona Infantry"
-		type=infantry
-		home=752
+		home=727
 	}
 	regiment = {
 		name="1st Treviso Infantry"
@@ -674,99 +489,19 @@ army = {
 		home=732
 	}
 	regiment = {
-		name="1st Verona Infantry"
+		name="1st Bari Infantry"
 		type=infantry
-		home=730
+		home=756
 	}
 	regiment = {
-		name="1st Modena Infantry"
+		name="1st Foggia Infantry"
 		type=infantry
+		home=757
+	}
+	regiment = {
+		name="1st Modena Artillery"
+		type=artillery
 		home=739
-	}
-	regiment = {
-		name="2nd Milan Infantry"
-		type=infantry
-		home=726
-	}
-	regiment = {
-		name="1st Ancona Artillery"
-		type=artillery
-		home=752
-	}
-	regiment = {
-		name="1st Perugia Artillery"
-		type=artillery
-		home=751
-	}
-	regiment = {
-		name="7th Ancona Infantry"
-		type=infantry
-		home=752
-	}
-	regiment = {
-		name="1st Bologna Artillery"
-		type=artillery
-		home=741
-	}
-	regiment = {
-		name="4th Perugia Artillery"
-		type=artillery
-		home=751
-	}
-}
-
-army = {
-	name="Armata di Darfur"
-	location=1740
-	regiment = {
-		name="1st Naples Infantry"
-		type=infantry
-		home=754
-	}
-	regiment = {
-		name="1st Leghorn Infantry"
-		type=infantry
-		home=745
-	}
-	regiment = {
-		name="4th Ancona Infantry"
-		type=infantry
-		home=752
-	}
-	regiment = {
-		name="3rd Milan Infantry"
-		type=infantry
-		home=726
-	}
-	regiment = {
-		name="2nd Naples Infantry"
-		type=infantry
-		home=754
-	}
-	regiment = {
-		name="2nd Treviso Infantry"
-		type=infantry
-		home=732
-	}
-	regiment = {
-		name="1st Bergamo Infantry"
-		type=infantry
-		home=727
-	}
-}
-
-army = {
-	name="Armata di Sahra an Nübyah"
-	location=747
-	regiment = {
-		name="5th Ancona Infantry"
-		type=infantry
-		home=752
-	}
-	regiment = {
-		name="4th Milan Infantry"
-		type=infantry
-		home=726
 	}
 	regiment = {
 		name="4th Rome Infantry"
@@ -774,14 +509,29 @@ army = {
 		home=749
 	}
 	regiment = {
-		name="3rd Parma Infantry"
+		name="1st Ancona Artillery"
+		type=artillery
+		home=752
+	}
+}
+
+army = {
+	name="Armata di Torino"
+	location=738
+	regiment = {
+		name="1st Messina Infantry"
 		type=infantry
-		home=738
+		home=763
 	}
 	regiment = {
-		name="1st Turin Artillery"
-		type=artillery
-		home=720
+		name="2nd Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="1st Palermo Infantry"
+		type=infantry
+		home=762
 	}
 	regiment = {
 		name="1st Treviso Artillery"
@@ -789,9 +539,134 @@ army = {
 		home=732
 	}
 	regiment = {
-		name="4th Florence Infantry"
+		name="5th Florence Infantry"
 		type=infantry
 		home=744
+	}
+	regiment = {
+		name="1st Dosso Artillery"
+		type=artillery
+		home=1810
+	}
+}
+
+army = {
+	name="Armata di Nizza"
+	location=1727
+	regiment = {
+		name="1st Perugia Infantry"
+		type=infantry
+		home=751
+	}
+	regiment = {
+		name="1st Ferrara Infantry"
+		type=infantry
+		home=742
+	}
+	regiment = {
+		name="1st Florence Infantry"
+		type=infantry
+		home=744
+	}
+	regiment = {
+		name="1st Parma Infantry"
+		type=infantry
+		home=738
+	}
+	regiment = {
+		name="1st Turin Infantry"
+		type=infantry
+		home=720
+	}
+	regiment = {
+		name="2nd Perugia Infantry"
+		type=infantry
+		home=751
+	}
+	regiment = {
+		name="2nd Turin Infantry"
+		type=infantry
+		home=720
+	}
+	regiment = {
+		name="1st Padua Artillery"
+		type=artillery
+		home=731
+	}
+	regiment = {
+		name="3rd Perugia Infantry"
+		type=infantry
+		home=751
+	}
+	regiment = {
+		name="2nd Padua Artillery"
+		type=artillery
+		home=731
+	}
+	regiment = {
+		name="2nd Milan Artillery"
+		type=artillery
+		home=726
+	}
+}
+
+army = {
+	name="Armata di Trieste"
+	location=854
+	regiment = {
+		name="1st Padua Infantry"
+		type=infantry
+		home=731
+	}
+	regiment = {
+		name="1st Savona Infantry"
+		type=infantry
+		home=725
+	}
+	regiment = {
+		name="1st Ancona Infantry"
+		type=infantry
+		home=752
+	}
+	regiment = {
+		name="2nd Savona Infantry"
+		type=infantry
+		home=725
+	}
+	regiment = {
+		name="1st Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="1st Rome Artillery"
+		type=artillery
+		home=749
+	}
+	regiment = {
+		name="1st Aquila Infantry"
+		type=infantry
+		home=753
+	}
+	regiment = {
+		name="5th Alessandria Infantry"
+		type=infantry
+		home=723
+	}
+	regiment = {
+		name="2nd Rome Artillery"
+		type=artillery
+		home=749
+	}
+}
+
+army = {
+	name="Armata di Savoie"
+	location=758
+	regiment = {
+		name="1st Genoa Infantry"
+		type=infantry
+		home=724
 	}
 	regiment = {
 		name="1st Siena Infantry"
@@ -799,14 +674,139 @@ army = {
 		home=747
 	}
 	regiment = {
-		name="3rd Nice Infantry"
+		name="1st Naples Infantry"
 		type=infantry
-		home=472
+		home=754
 	}
 	regiment = {
-		name="2nd Turin Artillery"
+		name="3rd Turin Infantry"
+		type=infantry
+		home=720
+	}
+	regiment = {
+		name="1st Leghorn Infantry"
+		type=infantry
+		home=745
+	}
+	regiment = {
+		name="1st Pescara Artillery"
+		type=artillery
+		home=10
+	}
+	regiment = {
+		name="1st Trent Artillery"
+		type=artillery
+		home=734
+	}
+	regiment = {
+		name="3rd Padua Infantry"
+		type=infantry
+		home=731
+	}
+	regiment = {
+		name="1st Lucca Infantry"
+		type=infantry
+		home=746
+	}
+	regiment = {
+		name="1st Ferrara Artillery"
+		type=artillery
+		home=742
+	}
+}
+
+army = {
+	name="Armata di Darfur"
+	location=1740
+	regiment = {
+		name="1st Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="2nd Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="1st Alessandria Infantry"
+		type=infantry
+		home=723
+	}
+	regiment = {
+		name="2nd Alessandria Infantry"
+		type=infantry
+		home=723
+	}
+	regiment = {
+		name="2nd Naples Infantry"
+		type=infantry
+		home=754
+	}
+	regiment = {
+		name="7th Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="4th Alessandria Infantry"
+		type=infantry
+		home=723
+	}
+}
+
+army = {
+	name="Armata di Sahra an Nübyah"
+	location=747
+	regiment = {
+		name="4th Savona Infantry"
+		type=infantry
+		home=725
+	}
+	regiment = {
+		name="3rd Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="1st Rome Infantry"
+		type=infantry
+		home=749
+	}
+	regiment = {
+		name="2nd Parma Infantry"
+		type=infantry
+		home=738
+	}
+	regiment = {
+		name="2nd Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="1st Reggio di Calabria Artillery"
+		type=artillery
+		home=759
+	}
+	regiment = {
+		name="1st Turin Artillery"
 		type=artillery
 		home=720
+	}
+	regiment = {
+		name="1st Grosseto Infantry"
+		type=infantry
+		home=748
+	}
+	regiment = {
+		name="5th Ancona Infantry"
+		type=infantry
+		home=752
+	}
+	regiment = {
+		name="3rd Padua Artillery"
+		type=artillery
+		home=731
 	}
 }
 
@@ -814,44 +814,44 @@ army = {
 	name="Armata di Zuwarah"
 	location=1710
 	regiment = {
-		name="3rd Foggia Infantry"
+		name="3rd Ancona Infantry"
 		type=infantry
-		home=757
+		home=752
 	}
 	regiment = {
-		name="2nd Padua Infantry"
+		name="1st Ravenna Infantry"
+		type=infantry
+		home=743
+	}
+	regiment = {
+		name="3rd Naples Infantry"
+		type=infantry
+		home=754
+	}
+	regiment = {
+		name="1st Florence Artillery"
+		type=artillery
+		home=744
+	}
+	regiment = {
+		name="1st Verona Artillery"
+		type=artillery
+		home=730
+	}
+	regiment = {
+		name="1st Aquila Artillery"
+		type=artillery
+		home=753
+	}
+	regiment = {
+		name="5th Padua Infantry"
 		type=infantry
 		home=731
 	}
 	regiment = {
-		name="2nd Ancona Artillery"
+		name="1st Parma Artillery"
 		type=artillery
-		home=752
-	}
-	regiment = {
-		name="2nd Perugia Artillery"
-		type=artillery
-		home=751
-	}
-	regiment = {
-		name="1st Belluno Artillery"
-		type=artillery
-		home=8
-	}
-	regiment = {
-		name="5th Florence Infantry"
-		type=infantry
-		home=744
-	}
-	regiment = {
-		name="5th Naples Infantry"
-		type=infantry
-		home=754
-	}
-	regiment = {
-		name="1st Naples Artillery"
-		type=artillery
-		home=754
+		home=738
 	}
 }
 
@@ -859,34 +859,29 @@ army = {
 	name="Armata di Gobir"
 	location=1810
 	regiment = {
-		name="4th Perugia Infantry"
+		name="2nd Siena Infantry"
 		type=infantry
-		home=751
+		home=747
 	}
 	regiment = {
-		name="5th Milan Infantry"
+		name="1st Massa Infantry"
+		type=infantry
+		home=740
+	}
+	regiment = {
+		name="2nd Ferrara Infantry"
+		type=infantry
+		home=742
+	}
+	regiment = {
+		name="4th Turin Infantry"
+		type=infantry
+		home=720
+	}
+	regiment = {
+		name="4th Milan Infantry"
 		type=infantry
 		home=726
-	}
-	regiment = {
-		name="1st Trent Infantry"
-		type=infantry
-		home=734
-	}
-	regiment = {
-		name="2nd Florence Infantry"
-		type=infantry
-		home=744
-	}
-	regiment = {
-		name="1st Venice Infantry"
-		type=infantry
-		home=729
-	}
-	regiment = {
-		name="1st Bari Artillery"
-		type=artillery
-		home=756
 	}
 	regiment = {
 		name="1st Nice Artillery"
@@ -894,14 +889,19 @@ army = {
 		home=472
 	}
 	regiment = {
-		name="7th Florence Infantry"
+		name="6th Florence Infantry"
 		type=infantry
 		home=744
 	}
 	regiment = {
-		name="3rd Venice Artillery"
+		name="1st Naples Artillery"
 		type=artillery
-		home=729
+		home=754
+	}
+	regiment = {
+		name="2nd Florence Artillery"
+		type=artillery
+		home=744
 	}
 }
 
@@ -909,39 +909,39 @@ army = {
 	name="17th Army"
 	location=1816
 	regiment = {
-		name="5th Rome Infantry"
+		name="4th Ancona Infantry"
+		type=infantry
+		home=752
+	}
+	regiment = {
+		name="2nd Rome Infantry"
 		type=infantry
 		home=749
 	}
 	regiment = {
-		name="2nd Leghorn Infantry"
+		name="3rd Ferrara Infantry"
 		type=infantry
-		home=745
-	}
-	regiment = {
-		name="11th Milan Infantry"
-		type=infantry
-		home=726
+		home=742
 	}
 }
 
 army = {
 	name="16th Army"
-	location=1820
+	location=1818
 	regiment = {
-		name="1st Savona Infantry"
+		name="2nd Verona Infantry"
 		type=infantry
-		home=725
+		home=730
 	}
 	regiment = {
-		name="2nd Massa Infantry"
+		name="2nd Florence Infantry"
 		type=infantry
-		home=740
+		home=744
 	}
 	regiment = {
-		name="6th Ancona Infantry"
+		name="8th Milan Infantry"
 		type=infantry
-		home=752
+		home=726
 	}
 }
 
@@ -949,14 +949,14 @@ army = {
 	name="19th Army"
 	location=1735
 	regiment = {
-		name="4th Parma Infantry"
+		name="3rd Alessandria Infantry"
 		type=infantry
-		home=738
+		home=723
 	}
 	regiment = {
-		name="2nd Venice Infantry"
+		name="4th Ferrara Infantry"
 		type=infantry
-		home=729
+		home=742
 	}
 }
 
@@ -992,7 +992,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="6th Ravenna Frigate"
+		name="Nembo"
 		type=frigate
 	}
 }
@@ -1001,14 +1001,14 @@ army = {
 	name="Armata di Susa"
 	location=1821
 	regiment = {
-		name="3rd Naples Infantry"
+		name="3rd Foggia Infantry"
 		type=infantry
-		home=754
+		home=757
 	}
 	regiment = {
-		name="1st Bari Infantry"
+		name="4th Padua Infantry"
 		type=infantry
-		home=756
+		home=731
 	}
 }
 
@@ -1016,29 +1016,9 @@ army = {
 	name="2nd Army"
 	location=762
 	regiment = {
-		name="5th Perugia Infantry"
-		type=infantry
-		home=751
-	}
-	regiment = {
-		name="1st Gaeta Infantry"
-		type=infantry
-		home=2567
-	}
-	regiment = {
-		name="6th Perugia Infantry"
-		type=infantry
-		home=751
-	}
-	regiment = {
-		name="6th Milan Infantry"
+		name="5th Milan Infantry"
 		type=infantry
 		home=726
-	}
-	regiment = {
-		name="2nd Nice Infantry"
-		type=infantry
-		home=472
 	}
 	regiment = {
 		name="1st Pescara Infantry"
@@ -1046,9 +1026,29 @@ army = {
 		home=10
 	}
 	regiment = {
+		name="6th Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="4th Naples Infantry"
+		type=infantry
+		home=754
+	}
+	regiment = {
+		name="1st Brescia Infantry"
+		type=infantry
+		home=728
+	}
+	regiment = {
 		name="4th Foggia Infantry"
 		type=infantry
 		home=757
+	}
+	regiment = {
+		name="3rd Rome Infantry"
+		type=infantry
+		home=749
 	}
 	regiment = {
 		name="1st Salerno Infantry"
@@ -1056,34 +1056,34 @@ army = {
 		home=755
 	}
 	regiment = {
-		name="1st Florence Artillery"
+		name="2nd Trent Artillery"
 		type=artillery
-		home=744
+		home=734
 	}
 	regiment = {
-		name="2nd Milan Artillery"
+		name="1st Brescia Artillery"
 		type=artillery
-		home=726
+		home=728
 	}
 	regiment = {
-		name="2nd Florence Artillery"
+		name="2nd Verona Artillery"
 		type=artillery
-		home=744
+		home=730
 	}
 	regiment = {
-		name="1st Venice Artillery"
+		name="3rd Trent Artillery"
 		type=artillery
-		home=729
+		home=734
 	}
 	regiment = {
-		name="3rd Modena Infantry"
+		name="6th Savona Infantry"
 		type=infantry
-		home=739
+		home=725
 	}
 	regiment = {
-		name="4th Venice Artillery"
+		name="3rd Florence Artillery"
 		type=artillery
-		home=729
+		home=744
 	}
 }
 
@@ -1091,69 +1091,69 @@ army = {
 	name="4th Army"
 	location=766
 	regiment = {
-		name="7th Perugia Infantry"
-		type=infantry
-		home=751
-	}
-	regiment = {
-		name="7th Milan Infantry"
-		type=infantry
-		home=726
-	}
-	regiment = {
-		name="8th Milan Infantry"
-		type=infantry
-		home=726
-	}
-	regiment = {
-		name="2nd Modena Infantry"
-		type=infantry
-		home=739
-	}
-	regiment = {
 		name="3rd Florence Infantry"
 		type=infantry
 		home=744
 	}
 	regiment = {
-		name="9th Milan Infantry"
+		name="2nd Ravenna Infantry"
 		type=infantry
-		home=726
+		home=743
 	}
 	regiment = {
-		name="10th Milan Infantry"
+		name="5th Savona Infantry"
 		type=infantry
-		home=726
+		home=725
 	}
 	regiment = {
-		name="1st Brindisi Infantry"
+		name="1st Catanzaro Infantry"
 		type=infantry
-		home=758
+		home=760
 	}
 	regiment = {
-		name="1st Lucca Artillery"
+		name="3rd Verona Infantry"
+		type=infantry
+		home=730
+	}
+	regiment = {
+		name="1st Venice Infantry"
+		type=infantry
+		home=729
+	}
+	regiment = {
+		name="4th Florence Infantry"
+		type=infantry
+		home=744
+	}
+	regiment = {
+		name="4th Verona Infantry"
+		type=infantry
+		home=730
+	}
+	regiment = {
+		name="3rd Parma Infantry"
+		type=infantry
+		home=738
+	}
+	regiment = {
+		name="1st Bergamo Artillery"
 		type=artillery
-		home=746
+		home=727
 	}
 	regiment = {
-		name="1st Alessandria Artillery"
+		name="1st Venice Artillery"
 		type=artillery
-		home=723
+		home=729
 	}
 	regiment = {
-		name="1st Belluno Infantry"
+		name="7th Florence Infantry"
 		type=infantry
-		home=8
+		home=744
 	}
 	regiment = {
-		name="7th Rome Infantry"
-		type=infantry
-		home=749
-	}
-	regiment = {
-		name="2nd Bologna Artillery"
+		name="1st Massa Artillery"
 		type=artillery
-		home=741
+		home=740
 	}
 }
 
@@ -1175,10 +1175,6 @@ navy = {
 	ship = {
 		name="Libia"
 		type=manowar
-	}
-	ship = {
-		name="Nembo"
-		type=frigate
 	}
 	ship = {
 		name="Turbine"
@@ -1281,27 +1277,31 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Salerno Frigate"
+		name="2nd Gaeta Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Sassari Frigate"
+		name="1st Sassari Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Elba Frigate"
+		name="3rd Naples Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Gaeta Frigate"
+		name="4th Naples Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Ancona Frigate"
+		name="3rd Ferrara Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Elba Frigate"
+		name="2nd Salerno Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Catanzaro Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1309,75 +1309,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Grosseto Frigate"
+		name="2nd Padua Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Grosseto Frigate"
+		name="1st Italian Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Foggia Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Ravenna Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Genoa Frigate"
-		type=frigate
-	}
-	ship = {
-		name="6th Grosseto Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Ravenna Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Pescara Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Sassari Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Pescara Frigate"
-		type=frigate
-	}
-	ship = {
-		name="7th Grosseto Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Sassari Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Gaeta Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Sassari Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Reggio di Calabria Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Darna Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Gaeta Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Ancona Frigate"
+		name="5th Naples Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1385,23 +1325,23 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Lucca Frigate"
+		name="3rd Genoa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Elba Frigate"
+		name="1st Palermo Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Corsica Frigate"
+		name="3rd Catanzaro Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Genoa Frigate"
+		name="4th Pescara Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Potenza Frigate"
+		name="3rd Viterbo Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1413,31 +1353,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Udine Frigate"
+		name="4th Catanzaro Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Ancona Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Cagliari Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Ravenna Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Ferrara Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Fiume Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Potenza Frigate"
+		name="1st Foggia Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1445,19 +1365,27 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Elba Frigate"
+		name="2nd Potenza Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Viterbo Frigate"
+		name="4th Viterbo Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Ferrara Frigate"
+		name="8th Naples Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Senj Frigate"
+		name="3rd Salerno Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Padua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lucca Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1465,11 +1393,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Campania"
-		type=manowar
+		name="4th Padua Frigate"
+		type=frigate
 	}
 	ship = {
-		name="6th Pescara Frigate"
+		name="2nd Elba Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1477,7 +1405,79 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="9th Grosseto Frigate"
+		name="4th Grosseto Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Grosseto Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Pescara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Grosseto Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Gaeta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Foggia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Padua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Padua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Corsica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Padua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Genoa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Italian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Grosseto Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ravenna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="Campania"
+		type=manowar
+	}
+	ship = {
+		name="2nd Palermo Frigate"
 		type=frigate
 	}
 }
@@ -1486,31 +1486,31 @@ navy = {
 	name="7th Fleet"
 	location=2754
 	ship = {
-		name="4th Gaeta Frigate"
+		name="4th Potenza Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Genoa Frigate"
+		name="5th Potenza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Ancona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Catanzaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Potenza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Venice Frigate"
 		type=frigate
 	}
 	ship = {
 		name="6th Genoa Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Messina Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Malta Frigate"
-		type=frigate
-	}
-	ship = {
-		name="7th Genoa Frigate"
-		type=frigate
-	}
-	ship = {
-		name="7th Ravenna Frigate"
 		type=frigate
 	}
 }
@@ -1519,39 +1519,39 @@ navy = {
 	name="4th Fleet"
 	location=2761
 	ship = {
+		name="4th Gaeta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Leghorn Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Misratah Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Malta Frigate"
+		name="3rd Elba Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Ferrara Frigate"
+		name="9th Naples Frigate"
 		type=frigate
 	}
 	ship = {
-		name="8th Grosseto Frigate"
+		name="5th Genoa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Venice Frigate"
+		name="1st Malta Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Ferrara Frigate"
+		name="4th Senj Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Tripoli Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Ravenna Frigate"
-		type=frigate
-	}
-	ship = {
-		name="10th Grosseto Frigate"
+		name="3rd Nice Frigate"
 		type=frigate
 	}
 }
@@ -1560,23 +1560,47 @@ navy = {
 	name="9th Fleet"
 	location=2925
 	ship = {
-		name="2nd Massa Frigate"
+		name="4th Salerno Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Padua Frigate"
+		name="5th Salerno Frigate"
 		type=frigate
 	}
 	ship = {
-		name="8th Genoa Frigate"
+		name="5th Viterbo Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Ferrara Frigate"
+		name="3rd Italian Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Italian Frigate"
+		name="6th Salerno Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tobruk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Gaeta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Potenza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Reggio di Calabria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Foggia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Pescara Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1584,43 +1608,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Malta Frigate"
+		name="4th Foggia Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Sassari Frigate"
+		name="1st Messina Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Reggio di Calabria Frigate"
+		name="4th Italian Frigate"
 		type=frigate
 	}
 	ship = {
-		name="7th Sassari Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Savona Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Padua Frigate"
-		type=frigate
-	}
-	ship = {
-		name="8th Naples Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Messina Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Catania Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Bari Frigate"
+		name="6th Gaeta Frigate"
 		type=frigate
 	}
 }
@@ -1629,15 +1629,15 @@ navy = {
 	name="8th Fleet"
 	location=2768
 	ship = {
-		name="2nd Palermo Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Palermo Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Cattaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Viterbo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sirt Frigate"
 		type=frigate
 	}
 }
@@ -1646,27 +1646,27 @@ navy = {
 	name="11th Fleet"
 	location=2765
 	ship = {
-		name="3rd Catanzaro Frigate"
+		name="2nd Nice Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Catanzaro Frigate"
+		name="1st Split Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Brindisi Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Malta Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Catanzaro Frigate"
+		name="2nd Split Frigate"
 		type=frigate
 	}
 	ship = {
 		name="6th Catanzaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Brindisi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Venice Frigate"
 		type=frigate
 	}
 }

@@ -336,7 +336,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 7233
+		size= 5833
 	}
 
 	artisans=
@@ -378,7 +378,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 51049
+		size= 52449
 	}
 
 }

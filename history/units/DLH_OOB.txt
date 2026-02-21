@@ -417,7 +417,7 @@ army = {
 
 army = {
 	name="3rd Army"
-	location=1237
+	location=1234
 	regiment = {
 		name="2nd Panipat Artillery"
 		type=artillery

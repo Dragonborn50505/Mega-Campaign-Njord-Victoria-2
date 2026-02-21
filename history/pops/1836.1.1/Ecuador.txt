@@ -545,21 +545,21 @@
 	{
 		culture = maranon
 		religion = animist
-		size= 55
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = maranon
 		religion = animist
-		size= 2717
+		size= 1739
 	}
 
 	farmers=
 	{
 		culture = ealimi
 		religion = protestant
-		size= 2654
+		size= 1681
 	}
 
 	artisans=
@@ -594,7 +594,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 60
+		size= 1033
 	}
 
 	officers=

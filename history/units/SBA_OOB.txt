@@ -451,9 +451,9 @@ army = {
 	name="2nd Army"
 	location=2307
 	regiment = {
-		name="1st Puerto Aisén Infantry"
+		name="1st Tucumán Infantry"
 		type=infantry
-		home=2333
+		home=2373
 	}
 	regiment = {
 		name="1st Asuncion Infantry"
@@ -461,12 +461,12 @@ army = {
 		home=2339
 	}
 	regiment = {
-		name="1st Laboulaye Artillery"
+		name="1st Formosa Artillery"
 		type=artillery
-		home=2382
+		home=2366
 	}
 	regiment = {
-		name="4th Buenos Aires Artillery"
+		name="2nd Buenos Aires Artillery"
 		type=artillery
 		home=2348
 	}
@@ -476,49 +476,14 @@ army = {
 	name="6th Army"
 	location=2363
 	regiment = {
-		name="1st Córdoba de Argentina Infantry"
+		name="1st Laboulaye Infantry"
 		type=infantry
-		home=2379
+		home=2382
 	}
 	regiment = {
-		name="1st Trenque Lauquen Infantry"
-		type=infantry
-		home=2353
-	}
-	regiment = {
-		name="1st Buenos Aires Artillery"
-		type=artillery
-		home=2348
-	}
-	regiment = {
-		name="2nd Buenos Aires Artillery"
-		type=artillery
-		home=2348
-	}
-	regiment = {
-		name="2nd Buenos Aires Infantry"
+		name="1st Buenos Aires Infantry"
 		type=infantry
 		home=2348
-	}
-	regiment = {
-		name="1st Santiago del Estero Artillery"
-		type=artillery
-		home=2376
-	}
-}
-
-army = {
-	name="7th Army"
-	location=2338
-	regiment = {
-		name="1st Santa Rita Infantry"
-		type=infantry
-		home=2386
-	}
-	regiment = {
-		name="2nd Asuncion Infantry"
-		type=infantry
-		home=2339
 	}
 	regiment = {
 		name="1st Córdoba de Argentina Artillery"
@@ -527,6 +492,41 @@ army = {
 	}
 	regiment = {
 		name="1st Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+	regiment = {
+		name="3rd Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="3rd Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2338
+	regiment = {
+		name="1st Reconquista Infantry"
+		type=infantry
+		home=2362
+	}
+	regiment = {
+		name="1st Córdoba de Argentina Infantry"
+		type=infantry
+		home=2379
+	}
+	regiment = {
+		name="1st Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+	regiment = {
+		name="2nd Asuncion Artillery"
 		type=artillery
 		home=2339
 	}
@@ -546,7 +546,7 @@ army = {
 		home=2379
 	}
 	regiment = {
-		name="1st Buenos Aires Infantry"
+		name="2nd Buenos Aires Infantry"
 		type=infantry
 		home=2348
 	}
@@ -556,14 +556,24 @@ army = {
 		home=2348
 	}
 	regiment = {
-		name="3rd Buenos Aires Artillery"
+		name="1st Trenque Lauquen Artillery"
 		type=artillery
-		home=2348
+		home=2353
 	}
 	regiment = {
-		name="3rd Buenos Aires Infantry"
+		name="1st Xolotas Infantry"
 		type=infantry
-		home=2348
+		home=2367
+	}
+	regiment = {
+		name="1st Telén Cavalry"
+		type=cavalry
+		home=2393
+	}
+	regiment = {
+		name="1st Valdivia Cavalry"
+		type=cavalry
+		home=2328
 	}
 	regiment = {
 		name="2nd Buenos Aires Cavalry"
@@ -571,17 +581,7 @@ army = {
 		home=2348
 	}
 	regiment = {
-		name="3rd Buenos Aires Cavalry"
-		type=cavalry
-		home=2348
-	}
-	regiment = {
-		name="4th Buenos Aires Cavalry"
-		type=cavalry
-		home=2348
-	}
-	regiment = {
-		name="5th Buenos Aires Artillery"
+		name="4th Buenos Aires Artillery"
 		type=artillery
 		home=2348
 	}
@@ -648,7 +648,7 @@ navy = {
 
 navy = {
 	name="10th Fleet"
-	location=2332
+	location=2328
 	ship = {
 		name="ARA América"
 		type=manowar

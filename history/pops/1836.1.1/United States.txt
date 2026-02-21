@@ -540,14 +540,14 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 1033
+		size= 36
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 1991
+		size= 2988
 	}
 
 	farmers=
@@ -1593,7 +1593,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1033
+		size= 18
 	}
 
 	artisans=
@@ -1635,7 +1635,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 669
+		size= 1684
 	}
 
 }
@@ -1867,7 +1867,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1422
+		size= 420
 	}
 
 	artisans=
@@ -1902,7 +1902,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 31
+		size= 1033
 	}
 
 	officers=
@@ -8518,7 +8518,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 25159
+		size= 24440
 	}
 
 	slaves=
@@ -8567,7 +8567,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 314
+		size= 1033
 	}
 
 }
@@ -8825,7 +8825,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 4017
+		size= 4983
 	}
 
 	slaves=
@@ -8874,7 +8874,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 1033
+		size= 67
 	}
 
 	soldiers=
@@ -11519,14 +11519,14 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 1033
+		size= 4133
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 8008
+		size= 4908
 	}
 
 	soldiers=
@@ -11917,14 +11917,14 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 41133
+		size= 44233
 	}
 
 	soldiers=
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -15025,7 +15025,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 1033
+		size= 145
 	}
 
 	artisans=
@@ -15067,7 +15067,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 9225
+		size= 10113
 	}
 
 	slaves=
@@ -15421,7 +15421,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 673
+		size= 1033
 	}
 
 	artisans=
@@ -15463,7 +15463,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 9211
+		size= 8851
 	}
 
 }
@@ -15742,7 +15742,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 13075
+		size= 13321
 	}
 
 	slaves=
@@ -15791,7 +15791,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1033
+		size= 787
 	}
 
 	artisans=
@@ -16184,7 +16184,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 5634
+		size= 4880
 	}
 
 	slaves=
@@ -16226,7 +16226,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 279
+		size= 1033
 	}
 
 	officers=
@@ -16675,7 +16675,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 18612
+		size= 19265
 	}
 
 	artisans=
@@ -16717,7 +16717,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1033
+		size= 380
 	}
 
 }
@@ -17490,7 +17490,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 6559
+		size= 10441
 	}
 
 	artisans=
@@ -17532,7 +17532,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 4133
+		size= 251
 	}
 
 }
@@ -18037,7 +18037,7 @@
 	{
 		culture = bomullborgar
 		religion = catholic
-		size= 4021
+		size= 7121
 	}
 
 	artisans=
@@ -18079,7 +18079,7 @@
 	{
 		culture = bomullborgar
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 }
@@ -18144,14 +18144,14 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 8552
+		size= 4612
 	}
 
 	soldiers=
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 193
+		size= 4133
 	}
 
 	artisans=
@@ -20920,7 +20920,7 @@
 	{
 		culture = nyasverigian
 		religion = catholic
-		size= 115
+		size= 4133
 	}
 
 	artisans=
@@ -20962,7 +20962,7 @@
 	{
 		culture = nyasverigian
 		religion = catholic
-		size= 10280
+		size= 6262
 	}
 
 }
@@ -21034,7 +21034,7 @@
 	{
 		culture = nyasverigian
 		religion = catholic
-		size= 98
+		size= 1033
 	}
 
 	artisans=
@@ -21076,7 +21076,7 @@
 	{
 		culture = nyasverigian
 		religion = catholic
-		size= 8792
+		size= 7857
 	}
 
 }
@@ -22039,7 +22039,7 @@
 	{
 		culture = iroquoian
 		religion = catholic
-		size= 1033
+		size= 204
 	}
 
 	artisans=
@@ -22081,7 +22081,7 @@
 	{
 		culture = iroquoian
 		religion = catholic
-		size= 4791
+		size= 5620
 	}
 
 	soldiers=
@@ -23695,7 +23695,7 @@
 	{
 		culture = eastern_algonquian
 		religion = catholic
-		size= 1033
+		size= 432
 	}
 
 	artisans=
@@ -23737,7 +23737,7 @@
 	{
 		culture = eastern_algonquian
 		religion = catholic
-		size= 10431
+		size= 11032
 	}
 
 	farmers=
@@ -23893,21 +23893,21 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 20
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 2049
+		size= 1036
 	}
 
 	farmers=
 	{
 		culture = nyasverigian
 		religion = catholic
-		size= 4404
+		size= 3427
 	}
 
 	artisans=
@@ -23935,7 +23935,7 @@
 	{
 		culture = nyasverigian
 		religion = catholic
-		size= 56
+		size= 1033
 	}
 
 	bureaucrats=
@@ -24564,7 +24564,7 @@
 	{
 		culture = cherokee
 		religion = catholic
-		size= 4133
+		size= 443
 	}
 
 	artisans=
@@ -24606,7 +24606,7 @@
 	{
 		culture = cherokee
 		religion = catholic
-		size= 4860
+		size= 8550
 	}
 
 }

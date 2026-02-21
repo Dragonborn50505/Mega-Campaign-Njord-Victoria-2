@@ -470,44 +470,44 @@ army = {
 	name="1st Army"
 	location=241
 	regiment = {
-		name="1st Bangor Infantry"
+		name="1st Lynchburg Infantry"
 		type=infantry
-		home=249
-	}
-	regiment = {
-		name="1st Richmond Infantry"
-		type=infantry
-		home=60
-	}
-	regiment = {
-		name="1st New York Cavalry"
-		type=cavalry
-		home=232
-	}
-	regiment = {
-		name="1st Richmond Artillery"
-		type=artillery
-		home=60
-	}
-	regiment = {
-		name="2nd Richmond Artillery"
-		type=artillery
-		home=60
-	}
-	regiment = {
-		name="1st Hagerstown Infantry"
-		type=infantry
-		home=221
-	}
-	regiment = {
-		name="1st Lynchburg Cavalry"
-		type=cavalry
 		home=211
 	}
 	regiment = {
-		name="1st Burlington Cavalry"
+		name="1st Trenton Infantry"
+		type=infantry
+		home=230
+	}
+	regiment = {
+		name="1st Hagerstown Cavalry"
 		type=cavalry
-		home=246
+		home=221
+	}
+	regiment = {
+		name="1st Lynchburg Artillery"
+		type=artillery
+		home=211
+	}
+	regiment = {
+		name="1st Camden Artillery"
+		type=artillery
+		home=231
+	}
+	regiment = {
+		name="2nd New York Infantry"
+		type=infantry
+		home=232
+	}
+	regiment = {
+		name="1st Fredericksburg Cavalry"
+		type=cavalry
+		home=213
+	}
+	regiment = {
+		name="1st Richmond Cavalry"
+		type=cavalry
+		home=60
 	}
 	regiment = {
 		name="1st Binghamton Cavalry"
@@ -515,9 +515,9 @@ army = {
 		home=235
 	}
 	regiment = {
-		name="4th Lynchburg Artillery"
+		name="1st Caribou Artillery"
 		type=artillery
-		home=211
+		home=250
 	}
 }
 
@@ -525,29 +525,29 @@ army = {
 	name="2nd Army"
 	location=220
 	regiment = {
-		name="1st New York Infantry"
+		name="1st Caribou Infantry"
 		type=infantry
-		home=232
+		home=250
 	}
 	regiment = {
-		name="1st Lewiston Infantry"
+		name="1st Newark Infantry"
 		type=infantry
-		home=248
+		home=229
 	}
 	regiment = {
-		name="1st Fredericksburg Artillery"
+		name="2nd Lynchburg Artillery"
 		type=artillery
-		home=213
+		home=211
 	}
 	regiment = {
-		name="1st Plattsburgh Artillery"
+		name="1st Richmond Artillery"
 		type=artillery
-		home=240
+		home=60
 	}
 	regiment = {
-		name="2nd New York Infantry"
+		name="2nd Trenton Infantry"
 		type=infantry
-		home=232
+		home=230
 	}
 	regiment = {
 		name="1st Albany Artillery"
@@ -558,24 +558,24 @@ army = {
 
 army = {
 	name="9th Army"
-	location=182
+	location=183
 	regiment = {
-		name="1st Lynchburg Infantry"
+		name="1st New York Infantry"
 		type=infantry
-		home=211
-	}
-	regiment = {
-		name="1st Lynchburg Artillery"
-		type=artillery
-		home=211
-	}
-	regiment = {
-		name="2nd Lynchburg Artillery"
-		type=artillery
-		home=211
+		home=232
 	}
 	regiment = {
 		name="3rd Lynchburg Artillery"
+		type=artillery
+		home=211
+	}
+	regiment = {
+		name="1st New York Artillery"
+		type=artillery
+		home=232
+	}
+	regiment = {
+		name="4th Lynchburg Artillery"
 		type=artillery
 		home=211
 	}
@@ -590,19 +590,19 @@ army = {
 		home=247
 	}
 	regiment = {
-		name="2nd Fredericksburg Artillery"
+		name="5th Lynchburg Artillery"
 		type=artillery
-		home=213
+		home=211
 	}
 	regiment = {
-		name="1st Newark Infantry"
+		name="1st Burlington Infantry"
 		type=infantry
-		home=229
+		home=246
 	}
 	regiment = {
-		name="1st Harrisburg Artillery"
+		name="1st Lewiston Artillery"
 		type=artillery
-		home=226
+		home=248
 	}
 }
 
@@ -641,7 +641,7 @@ navy = {
 
 navy = {
 	name="4th Fleet"
-	location=233
+	location=232
 	ship = {
 		name="America"
 		type=manowar
@@ -712,15 +712,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trenton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="4th Neunorwegian Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Dover Clipper Transport"
+		name="2nd Concord Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Fredericksburg Clipper Transport"
+		name="3rd Newark Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -728,15 +736,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Camden Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Fredericksburg Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="6th Neunorwegian Clipper Transport"
+		name="4th Dover Clipper Transport"
 		type=clipper_transport
 	}
 }

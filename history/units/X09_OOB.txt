@@ -424,9 +424,9 @@ army = {
 	name="1st Army"
 	location=1827
 	regiment = {
-		name="1st Rabak Irregulars"
+		name="1st Obeid Irregulars"
 		type=irregular
-		home=1831
+		home=1838
 	}
 	regiment = {
 		name="1st Rabak Cavalry"
@@ -444,14 +444,14 @@ army = {
 		home=1827
 	}
 	regiment = {
-		name="1st Obeid Artillery"
+		name="3rd Khartoum Artillery"
 		type=artillery
-		home=1838
+		home=1827
 	}
 	regiment = {
-		name="1st Obeid Irregulars"
+		name="1st Khartoum Irregulars"
 		type=irregular
-		home=1838
+		home=1827
 	}
 	regiment = {
 		name="2nd Rabak Cavalry"
@@ -459,7 +459,7 @@ army = {
 		home=1831
 	}
 	regiment = {
-		name="3rd Khartoum Artillery"
+		name="4th Khartoum Artillery"
 		type=artillery
 		home=1827
 	}

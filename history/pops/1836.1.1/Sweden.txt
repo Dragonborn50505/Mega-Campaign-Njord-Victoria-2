@@ -3,7 +3,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 1033
+		size= 269
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 12132
+		size= 12896
 	}
 
 	soldiers=
@@ -385,7 +385,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 591
+		size= 1033
 	}
 
 	artisans=
@@ -427,7 +427,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 5345
+		size= 4903
 	}
 
 	soldiers=

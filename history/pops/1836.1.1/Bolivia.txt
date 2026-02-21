@@ -52,7 +52,7 @@
 	{
 		culture = aimara
 		religion = protestant
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = aimara
 		religion = protestant
-		size= 38916
+		size= 42016
 	}
 
 }
@@ -201,7 +201,7 @@
 	{
 		culture = guarani
 		religion = protestant
-		size= 573
+		size= 1033
 	}
 
 	artisans=
@@ -243,7 +243,7 @@
 	{
 		culture = guarani
 		religion = protestant
-		size= 45166
+		size= 44706
 	}
 
 }
@@ -501,7 +501,7 @@
 	{
 		culture = aimara
 		religion = protestant
-		size= 496
+		size= 1033
 	}
 
 	artisans=
@@ -543,7 +543,7 @@
 	{
 		culture = aimara
 		religion = protestant
-		size= 15820
+		size= 15283
 	}
 
 }
@@ -780,7 +780,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 2469
+		size= 1557
 	}
 
 	artisans=
@@ -822,7 +822,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 121
+		size= 1033
 	}
 
 }
@@ -1201,7 +1201,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 3611
+		size= 2624
 	}
 
 	artisans=
@@ -1243,7 +1243,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 46
+		size= 1033
 	}
 
 }

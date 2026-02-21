@@ -52,7 +52,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 10093
+		size= 10333
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 87190
+		size= 86950
 	}
 
 }
@@ -152,7 +152,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 5882
+		size= 7233
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 48967
+		size= 47616
 	}
 
 }
@@ -252,7 +252,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 7828
+		size= 10333
 	}
 
 	artisans=
@@ -294,7 +294,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 102568
+		size= 100063
 	}
 
 }
@@ -352,7 +352,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 3353
+		size= 32033
 	}
 
 	artisans=
@@ -394,7 +394,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 43770
+		size= 15090
 	}
 
 }
@@ -538,7 +538,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 4203
+		size= 16533
 	}
 
 	artisans=
@@ -580,7 +580,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 31244
+		size= 18914
 	}
 
 }
@@ -738,7 +738,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -780,7 +780,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 23420
+		size= 26520
 	}
 
 }
@@ -789,7 +789,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 1033
+		size= 975
 	}
 
 	artisans=
@@ -831,7 +831,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 15085
+		size= 15143
 	}
 
 	soldiers=
@@ -1231,7 +1231,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 16533
+		size= 9796
 	}
 
 	artisans=
@@ -1273,7 +1273,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 75919
+		size= 82656
 	}
 
 	slaves=
@@ -1331,7 +1331,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 10333
+		size= 13433
 	}
 
 	artisans=
@@ -1373,7 +1373,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 47344
+		size= 44244
 	}
 
 	soldiers=
@@ -1431,7 +1431,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 38233
+		size= 19633
 	}
 
 	artisans=
@@ -1473,7 +1473,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 18887
+		size= 37487
 	}
 
 	soldiers=
@@ -1524,7 +1524,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 5561
+		size= 22733
 	}
 
 	artisans=
@@ -1566,7 +1566,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 46916
+		size= 29744
 	}
 
 	slaves=
@@ -1589,7 +1589,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 6804
+		size= 7233
 	}
 
 	artisans=
@@ -1631,7 +1631,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 56861
+		size= 56432
 	}
 
 	slaves=
@@ -1689,7 +1689,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 5243
+		size= 7233
 	}
 
 	artisans=
@@ -1731,7 +1731,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 45433
+		size= 43443
 	}
 
 	soldiers=
@@ -2963,7 +2963,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 16533
+		size= 13433
 	}
 
 	artisans=
@@ -3005,7 +3005,7 @@
 	{
 		culture = szekely
 		religion = orthodox
-		size= 19557
+		size= 22657
 	}
 
 }

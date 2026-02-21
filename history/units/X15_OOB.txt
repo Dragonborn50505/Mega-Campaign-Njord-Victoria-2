@@ -417,19 +417,19 @@ army = {
 	name="2nd Army"
 	location=1804
 	regiment = {
-		name="1st Segu Artillery"
+		name="1st Nioro Artillery"
 		type=artillery
-		home=1800
+		home=1796
 	}
 	regiment = {
-		name="1st Bougouni Artillery"
+		name="2nd Kong Artillery"
 		type=artillery
-		home=1798
+		home=1898
 	}
 	regiment = {
-		name="1st Jenne Artillery"
+		name="3rd Nioro Artillery"
 		type=artillery
-		home=1802
+		home=1796
 	}
 }
 
@@ -437,54 +437,19 @@ army = {
 	name="1st Army"
 	location=1796
 	regiment = {
+		name="1st Segu Infantry"
+		type=infantry
+		home=1800
+	}
+	regiment = {
 		name="1st Jenne Infantry"
 		type=infantry
 		home=1802
 	}
 	regiment = {
-		name="2nd Jenne Infantry"
+		name="1st Bandiagara Infantry"
 		type=infantry
-		home=1802
-	}
-	regiment = {
-		name="3rd Jenne Infantry"
-		type=infantry
-		home=1802
-	}
-	regiment = {
-		name="1st Segu Cavalry"
-		type=cavalry
-		home=1800
-	}
-	regiment = {
-		name="1st Kong Artillery"
-		type=artillery
-		home=1898
-	}
-	regiment = {
-		name="1st Bandiagara Artillery"
-		type=artillery
 		home=1804
-	}
-	regiment = {
-		name="1st Wagadugu Artillery"
-		type=artillery
-		home=1901
-	}
-	regiment = {
-		name="1st Kong Infantry"
-		type=infantry
-		home=1898
-	}
-	regiment = {
-		name="4th Jenne Infantry"
-		type=infantry
-		home=1802
-	}
-	regiment = {
-		name="5th Jenne Infantry"
-		type=infantry
-		home=1802
 	}
 	regiment = {
 		name="1st Nioro Cavalry"
@@ -492,9 +457,44 @@ army = {
 		home=1796
 	}
 	regiment = {
-		name="1st Bandiagara Cavalry"
-		type=cavalry
+		name="1st Segu Artillery"
+		type=artillery
+		home=1800
+	}
+	regiment = {
+		name="2nd Nioro Artillery"
+		type=artillery
+		home=1796
+	}
+	regiment = {
+		name="1st Kong Artillery"
+		type=artillery
+		home=1898
+	}
+	regiment = {
+		name="2nd Jenne Infantry"
+		type=infantry
+		home=1802
+	}
+	regiment = {
+		name="2nd Bandiagara Infantry"
+		type=infantry
 		home=1804
+	}
+	regiment = {
+		name="3rd Jenne Infantry"
+		type=infantry
+		home=1802
+	}
+	regiment = {
+		name="1st Wagadugu Cavalry"
+		type=cavalry
+		home=1901
+	}
+	regiment = {
+		name="2nd Nioro Cavalry"
+		type=cavalry
+		home=1796
 	}
 	regiment = {
 		name="1st Sikasso Artillery"

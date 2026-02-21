@@ -482,14 +482,14 @@ army = {
 		home=518
 	}
 	regiment = {
-		name="2nd Córdoba Infantry"
+		name="1st Vila Real Infantry"
 		type=infantry
-		home=510
+		home=519
 	}
 	regiment = {
-		name="1st Burgos Artillery"
+		name="2nd Bilbao Artillery"
 		type=artillery
-		home=479
+		home=492
 	}
 }
 
@@ -497,19 +497,14 @@ army = {
 	name="9th Army"
 	location=2590
 	regiment = {
+		name="1st Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
 		name="2nd La Coruña Infantry"
 		type=infantry
 		home=474
-	}
-	regiment = {
-		name="1st Cádiz Infantry"
-		type=infantry
-		home=512
-	}
-	regiment = {
-		name="1st Alicante Artillery"
-		type=artillery
-		home=505
 	}
 	regiment = {
 		name="2nd Oporto Artillery"
@@ -517,14 +512,19 @@ army = {
 		home=518
 	}
 	regiment = {
-		name="1st Bilbao Infantry"
-		type=infantry
-		home=492
+		name="1st Faro Artillery"
+		type=artillery
+		home=527
 	}
 	regiment = {
-		name="4th Seville Artillery"
+		name="1st Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="1st Jaén Artillery"
 		type=artillery
-		home=509
+		home=516
 	}
 }
 
@@ -552,14 +552,14 @@ army = {
 		home=503
 	}
 	regiment = {
-		name="1st Vila Real Infantry"
+		name="2nd Cádiz Infantry"
 		type=infantry
-		home=519
+		home=512
 	}
 	regiment = {
-		name="2nd Coimbra Artillery"
+		name="2nd Vila Real Artillery"
 		type=artillery
-		home=522
+		home=519
 	}
 }
 
@@ -572,89 +572,9 @@ army = {
 		home=498
 	}
 	regiment = {
-		name="2nd Coimbra Infantry"
-		type=infantry
-		home=522
-	}
-	regiment = {
-		name="3rd La Coruña Artillery"
-		type=artillery
-		home=474
-	}
-	regiment = {
-		name="1st Toledo Artillery"
-		type=artillery
-		home=489
-	}
-	regiment = {
-		name="1st Toledo Infantry"
-		type=infantry
-		home=489
-	}
-	regiment = {
-		name="2nd León Artillery"
-		type=artillery
-		home=477
-	}
-}
-
-army = {
-	name="7th Army"
-	location=503
-	regiment = {
-		name="3rd Barcelona Infantry"
-		type=infantry
-		home=498
-	}
-	regiment = {
 		name="1st Cáceres Infantry"
 		type=infantry
 		home=486
-	}
-	regiment = {
-		name="1st Salamanca Artillery"
-		type=artillery
-		home=482
-	}
-	regiment = {
-		name="2nd Zaragoza Infantry"
-		type=infantry
-		home=495
-	}
-	regiment = {
-		name="1st Albacete Artillery"
-		type=artillery
-		home=508
-	}
-	regiment = {
-		name="2nd Santander Artillery"
-		type=artillery
-		home=478
-	}
-}
-
-army = {
-	name="8th Army"
-	location=520
-	regiment = {
-		name="1st Tarragona Infantry"
-		type=infantry
-		home=501
-	}
-	regiment = {
-		name="4th Barcelona Infantry"
-		type=infantry
-		home=498
-	}
-	regiment = {
-		name="1st Castellón Infantry"
-		type=infantry
-		home=504
-	}
-	regiment = {
-		name="2nd Salamanca Artillery"
-		type=artillery
-		home=482
 	}
 	regiment = {
 		name="1st Seville Artillery"
@@ -662,89 +582,39 @@ army = {
 		home=509
 	}
 	regiment = {
-		name="3rd Salamanca Artillery"
+		name="1st Córdoba Artillery"
 		type=artillery
-		home=482
+		home=510
+	}
+	regiment = {
+		name="2nd Lisbon Infantry"
+		type=infantry
+		home=521
+	}
+	regiment = {
+		name="3rd Toledo Artillery"
+		type=artillery
+		home=489
 	}
 }
 
 army = {
-	name="15th Army"
-	location=511
-	regiment = {
-		name="2nd Castellón Infantry"
-		type=infantry
-		home=504
-	}
-	regiment = {
-		name="1st Huelva Infantry"
-		type=infantry
-		home=511
-	}
-	regiment = {
-		name="1st Cáceres Artillery"
-		type=artillery
-		home=486
-	}
-	regiment = {
-		name="1st Gibraltar Artillery"
-		type=artillery
-		home=517
-	}
-	regiment = {
-		name="3rd Zaragoza Infantry"
-		type=infantry
-		home=495
-	}
-	regiment = {
-		name="4th Valencia Artillery"
-		type=artillery
-		home=503
-	}
-}
-
-army = {
-	name="19th Army"
-	location=2429
-	regiment = {
-		name="1st Málaga Infantry"
-		type=infantry
-		home=514
-	}
-	regiment = {
-		name="1st Madrid Infantry"
-		type=infantry
-		home=487
-	}
-	regiment = {
-		name="1st Covilhã Artillery"
-		type=artillery
-		home=520
-	}
-	regiment = {
-		name="1st Granada Artillery"
-		type=artillery
-		home=513
-	}
-	regiment = {
-		name="3rd Cádiz Infantry"
-		type=infantry
-		home=512
-	}
-}
-
-army = {
-	name="12th Army"
-	location=474
+	name="7th Army"
+	location=503
 	regiment = {
 		name="1st Gerona Infantry"
 		type=infantry
 		home=499
 	}
 	regiment = {
-		name="1st Soria Infantry"
+		name="3rd Barcelona Infantry"
 		type=infantry
-		home=481
+		home=498
+	}
+	regiment = {
+		name="2nd Cáceres Infantry"
+		type=infantry
+		home=486
 	}
 	regiment = {
 		name="1st Ávila Artillery"
@@ -752,24 +622,94 @@ army = {
 		home=483
 	}
 	regiment = {
-		name="2nd Cáceres Artillery"
+		name="3rd Madrid Artillery"
 		type=artillery
-		home=486
+		home=487
 	}
 	regiment = {
-		name="1st Pamplona Infantry"
-		type=infantry
-		home=493
+		name="1st Sigüenza Artillery"
+		type=artillery
+		home=488
 	}
 }
 
 army = {
-	name="18th Army"
-	location=2426
+	name="8th Army"
+	location=520
 	regiment = {
-		name="1st Valencia Infantry"
+		name="1st Alicante Infantry"
 		type=infantry
-		home=503
+		home=505
+	}
+	regiment = {
+		name="1st Cartagena Infantry"
+		type=infantry
+		home=506
+	}
+	regiment = {
+		name="1st Huelva Artillery"
+		type=artillery
+		home=511
+	}
+	regiment = {
+		name="1st Salamanca Artillery"
+		type=artillery
+		home=482
+	}
+	regiment = {
+		name="4th Barcelona Infantry"
+		type=infantry
+		home=498
+	}
+	regiment = {
+		name="2nd Huelva Artillery"
+		type=artillery
+		home=511
+	}
+}
+
+army = {
+	name="15th Army"
+	location=511
+	regiment = {
+		name="1st Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="1st Almería Infantry"
+		type=infantry
+		home=515
+	}
+	regiment = {
+		name="2nd Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="1st Alicante Artillery"
+		type=artillery
+		home=505
+	}
+	regiment = {
+		name="1st Cartagena Artillery"
+		type=artillery
+		home=506
+	}
+	regiment = {
+		name="1st Castellón Artillery"
+		type=artillery
+		home=504
+	}
+}
+
+army = {
+	name="19th Army"
+	location=2429
+	regiment = {
+		name="2nd Coimbra Infantry"
+		type=infantry
+		home=522
 	}
 	regiment = {
 		name="3rd La Coruña Infantry"
@@ -782,14 +722,74 @@ army = {
 		home=514
 	}
 	regiment = {
-		name="3rd Oporto Artillery"
+		name="1st Madrid Artillery"
 		type=artillery
-		home=518
+		home=487
 	}
 	regiment = {
-		name="2nd Ciudad Real Infantry"
+		name="4th Coimbra Infantry"
 		type=infantry
+		home=522
+	}
+}
+
+army = {
+	name="12th Army"
+	location=474
+	regiment = {
+		name="3rd Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="1st Soria Infantry"
+		type=infantry
+		home=481
+	}
+	regiment = {
+		name="1st Ciudad Real Artillery"
+		type=artillery
 		home=491
+	}
+	regiment = {
+		name="1st Toledo Artillery"
+		type=artillery
+		home=489
+	}
+	regiment = {
+		name="1st Logroño Infantry"
+		type=infantry
+		home=494
+	}
+}
+
+army = {
+	name="18th Army"
+	location=2426
+	regiment = {
+		name="1st Covilhã Infantry"
+		type=infantry
+		home=520
+	}
+	regiment = {
+		name="1st Granada Infantry"
+		type=infantry
+		home=513
+	}
+	regiment = {
+		name="2nd Valencia Artillery"
+		type=artillery
+		home=503
+	}
+	regiment = {
+		name="3rd La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="1st León Infantry"
+		type=infantry
+		home=477
 	}
 }
 
@@ -797,29 +797,29 @@ army = {
 	name="14th Army"
 	location=2424
 	regiment = {
-		name="2nd Madrid Infantry"
+		name="1st Málaga Infantry"
 		type=infantry
+		home=514
+	}
+	regiment = {
+		name="2nd Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="2nd Madrid Artillery"
+		type=artillery
 		home=487
 	}
 	regiment = {
-		name="1st Covilhã Infantry"
-		type=infantry
+		name="1st Covilhã Artillery"
+		type=artillery
 		home=520
 	}
 	regiment = {
-		name="1st Cuenca Artillery"
-		type=artillery
-		home=490
-	}
-	regiment = {
-		name="2nd Alicante Artillery"
-		type=artillery
-		home=505
-	}
-	regiment = {
-		name="3rd Lisbon Infantry"
+		name="2nd Jaén Infantry"
 		type=infantry
-		home=521
+		home=516
 	}
 }
 
@@ -827,29 +827,29 @@ army = {
 	name="17th Army"
 	location=488
 	regiment = {
-		name="2nd Tarragona Infantry"
+		name="4th Zaragoza Infantry"
 		type=infantry
-		home=501
+		home=495
 	}
 	regiment = {
-		name="1st Huesca Infantry"
+		name="2nd Alicante Infantry"
 		type=infantry
-		home=496
+		home=505
 	}
 	regiment = {
-		name="1st Gerona Artillery"
+		name="1st Burgos Artillery"
 		type=artillery
-		home=499
+		home=479
 	}
 	regiment = {
-		name="1st Almería Artillery"
+		name="1st Soria Artillery"
 		type=artillery
-		home=515
+		home=481
 	}
 	regiment = {
-		name="1st Sigüenza Infantry"
+		name="2nd Teruel Infantry"
 		type=infantry
-		home=488
+		home=497
 	}
 }
 
@@ -857,11 +857,7 @@ navy = {
 	name="12th Fleet"
 	location=503
 	ship = {
-		name="4th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Roman Man'o'war"
+		name="2nd Gerona Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -869,7 +865,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Lisbon Man'o'war"
+		name="11th Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tarragona Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -877,15 +877,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="5th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Cartagena Man'o'war"
+		name="5th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Oporto Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -893,19 +897,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Roman Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="7th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Almería Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Barcelona Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -913,27 +905,47 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="2nd Granada Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="9th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th Rabat Man'o'war"
+		name="4th Alicante Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Castellón Man'o'war"
+		name="2nd Casablanca Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="13th Wexford Man'o'war"
+		name="1st Roman Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Roman Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Roman Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Granada Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Safi Man'o'war"
 		type=manowar
 	}
 	ship = {
 		name="10th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Cartagena Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -945,63 +957,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="13th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="14th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Oporto Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Roman Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Mustaghanim Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="15th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Tarragona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Mustaghanim Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Oran Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="16th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Melilla Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Almería Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Algiers Man'o'war"
+		name="6th Oran Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1009,183 +965,23 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Gerona Man'o'war"
+		name="13th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th Roman Man'o'war"
+		name="2nd Castellón Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Rabat Man'o'war"
+		name="2nd Cartagena Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Granada Man'o'war"
+		name="14th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Tarragona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Roman Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Tarragona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Rabat Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="17th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="14th Wexford Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="18th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Casablanca Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Tarragona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Sligo Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Coimbra Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="19th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="20th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="21st Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Almería Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Lisbon Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="22nd Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Roman Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Roman Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Sligo Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="8th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="9th Dublin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="9th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Tangier Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="8th Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Mustaghanim Man'o'war"
+		name="3rd Málaga Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1193,43 +989,91 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="6th Tarragona Man'o'war"
+		name="3rd Tarragona Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Cartagena Man'o'war"
+		name="4th Roman Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th Almería Man'o'war"
+		name="5th Granada Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="6th Cartagena Man'o'war"
+		name="3rd Castellón Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Coimbra Man'o'war"
+		name="5th Alicante Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Gerona Man'o'war"
+		name="15th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="11th Castellón Man'o'war"
+		name="4th Gerona Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="7th Rabat Man'o'war"
+		name="2nd La Coruña Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="7th Tarragona Man'o'war"
+		name="4th Castellón Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="23rd Valencia Man'o'war"
+		name="6th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="16th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Roman Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Roman Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="17th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="18th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="19th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Barcelona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tangier Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1237,27 +1081,83 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="20th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="21st Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="22nd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mustaghanim Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="23rd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="24th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
+		name="6th Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Granada Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mustaghanim Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="25th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Mustaghanim Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Algiers Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Belfast Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Oran Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1269,111 +1169,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="28th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="29th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="12th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="8th Roman Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="30th Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="31st Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Faro Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="8th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="8th Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="13th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Gerona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="9th Roman Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Londonderry Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="15th Wexford Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="8th Tarragona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="9th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Dumfries Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="14th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Gerona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Cádiz Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="11th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="32nd Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="33rd Valencia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Dublin Man'o'war"
+		name="6th Castellón Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1381,15 +1177,91 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="34th Valencia Man'o'war"
+		name="3rd Mustaghanim Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="9th Cartagena Man'o'war"
+		name="28th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Granada Man'o'war"
+		name="12th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="29th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="30th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Limerick Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Barcelona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Mustaghanim Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="31st Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Roman Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="32nd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="14th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ajdir Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1397,27 +1269,39 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="6th Granada Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Lisbon Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="7th Granada Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st La Coruña Man'o'war"
+		name="4th Tarragona Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Belfast Man'o'war"
+		name="3rd Ajdir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Barcelona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="33rd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="34th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Mustaghanim Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Tarragona Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1425,7 +1309,159 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="7th Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="36th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Safi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Roman Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Gerona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="15th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="16th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Tarragona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Roman Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sawira Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Barcelona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Barcelona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Tarragona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="37th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Casablanca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Dumfries Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="17th Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="38th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="39th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="14th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="40th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Gerona Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1437,35 +1473,55 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Gibraltar Man'o'war"
+		name="41st Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="10th Alicante Man'o'war"
+		name="42nd Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Oran Man'o'war"
+		name="8th Granada Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="37th Valencia Man'o'war"
+		name="43rd Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="9th Tarragona Man'o'war"
+		name="18th Alicante Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="6th Almería Man'o'war"
+		name="7th Barcelona Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="11th Alicante Man'o'war"
+		name="8th Oran Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="38th Valencia Man'o'war"
+		name="5th Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Barcelona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="44th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Gerona Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1473,23 +1529,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="12th Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Tarragona Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="8th Gerona Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="11th Tarragona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="39th Valencia Man'o'war"
+		name="45th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1497,104 +1541,30 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="9th Gerona Man'o'war"
+		name="10th Rabat Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="13th Alicante Man'o'war"
+		name="46th Valencia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="12th Barcelona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Algiers Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Almería Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="11th Cartagena Man'o'war"
+		name="9th Granada Man'o'war"
 		type=manowar
 	}
 	ship = {
 		name="8th Almería Man'o'war"
 		type=manowar
 	}
-	ship = {
-		name="19th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="14th Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Gerona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="20th Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="15th Alicante Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="21st Castellón Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Almería Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="11th Almería Man'o'war"
-		type=manowar
-	}
 }
 
 army = {
 	name="31st Army"
-	location=481
+	location=494
 	regiment = {
-		name="2nd Huelva Infantry"
+		name="1st Seville Infantry"
 		type=infantry
-		home=511
-	}
-	regiment = {
-		name="1st Badajoz Infantry"
-		type=infantry
-		home=484
-	}
-	regiment = {
-		name="2nd Almería Artillery"
-		type=artillery
-		home=515
-	}
-	regiment = {
-		name="2nd Valencia Artillery"
-		type=artillery
-		home=503
-	}
-	regiment = {
-		name="2nd Granada Infantry"
-		type=infantry
-		home=513
-	}
-}
-
-army = {
-	name="38th Army"
-	location=498
-	regiment = {
-		name="1st Teruel Infantry"
-		type=infantry
-		home=497
+		home=509
 	}
 	regiment = {
 		name="1st Albacete Infantry"
@@ -1602,19 +1572,49 @@ army = {
 		home=508
 	}
 	regiment = {
+		name="1st Cáceres Artillery"
+		type=artillery
+		home=486
+	}
+	regiment = {
+		name="1st Ciudad Real Infantry"
+		type=infantry
+		home=491
+	}
+	regiment = {
+		name="4th Madrid Artillery"
+		type=artillery
+		home=487
+	}
+}
+
+army = {
+	name="38th Army"
+	location=498
+	regiment = {
+		name="2nd Granada Infantry"
+		type=infantry
+		home=513
+	}
+	regiment = {
+		name="2nd Covilhã Artillery"
+		type=artillery
+		home=520
+	}
+	regiment = {
 		name="1st Almendralejo Artillery"
 		type=artillery
 		home=485
 	}
 	regiment = {
-		name="1st Sigüenza Artillery"
-		type=artillery
-		home=488
+		name="1st Córdoba Infantry"
+		type=infantry
+		home=510
 	}
 	regiment = {
-		name="1st Cartagena Infantry"
+		name="3rd Granada Infantry"
 		type=infantry
-		home=506
+		home=513
 	}
 }
 
@@ -1622,19 +1622,19 @@ army = {
 	name="49th Army"
 	location=2431
 	regiment = {
-		name="1st Granada Infantry"
+		name="1st Cuenca Infantry"
 		type=infantry
-		home=513
+		home=490
 	}
 	regiment = {
-		name="1st Lisbon Infantry"
+		name="1st Cádiz Infantry"
 		type=infantry
-		home=521
+		home=512
 	}
 	regiment = {
-		name="2nd Seville Artillery"
+		name="1st Lisbon Artillery"
 		type=artillery
-		home=509
+		home=521
 	}
 	regiment = {
 		name="4th La Coruña Artillery"
@@ -1642,9 +1642,9 @@ army = {
 		home=474
 	}
 	regiment = {
-		name="2nd Soria Infantry"
+		name="2nd Málaga Infantry"
 		type=infantry
-		home=481
+		home=514
 	}
 }
 
@@ -1652,35 +1652,7 @@ navy = {
 	name="8th Fleet"
 	location=2211
 	ship = {
-		name="1st Cádiz Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Dominica Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd La Vega Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Bacalar Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Gibraltar Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Santo Domingo Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Santo Domingo Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Roman Frigate"
+		name="1st Faro Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1688,23 +1660,51 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd La Vega Frigate"
+		name="1st Belize Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Cádiz Frigate"
+		name="1st Camagüey Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Cádiz Frigate"
+		name="2nd Faro Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Cap Haitien Frigate"
+		name="1st Granada Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Isle of Man Frigate"
+		name="1st Cádiz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cap Haitien Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Camagüey Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Roman Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Huelva Frigate"
 		type=frigate
 	}
 }
@@ -1713,17 +1713,142 @@ army = {
 	name="13th Army"
 	location=1689
 	regiment = {
-		name="2nd Valencia Infantry"
+		name="5th Zaragoza Infantry"
 		type=infantry
-		home=503
+		home=495
 	}
 	regiment = {
-		name="3rd Valencia Infantry"
+		name="1st Pamplona Infantry"
 		type=infantry
-		home=503
+		home=493
 	}
 	regiment = {
-		name="3rd Cáceres Artillery"
+		name="2nd Ciudad Real Artillery"
+		type=artillery
+		home=491
+	}
+	regiment = {
+		name="3rd Ciudad Real Artillery"
+		type=artillery
+		home=491
+	}
+}
+
+army = {
+	name="BEAST"
+	location=509
+	regiment = {
+		name="2nd Albacete Infantry"
+		type=infantry
+		home=508
+	}
+	regiment = {
+		name="1st Jaén Infantry"
+		type=infantry
+		home=516
+	}
+	regiment = {
+		name="2nd Córdoba Artillery"
+		type=artillery
+		home=510
+	}
+	regiment = {
+		name="2nd Ávila Artillery"
+		type=artillery
+		home=483
+	}
+}
+
+army = {
+	name="21st Army"
+	location=484
+	regiment = {
+		name="2nd Soria Infantry"
+		type=infantry
+		home=481
+	}
+	regiment = {
+		name="1st Lérida Infantry"
+		type=infantry
+		home=500
+	}
+	regiment = {
+		name="2nd Cartagena Artillery"
+		type=artillery
+		home=506
+	}
+	regiment = {
+		name="2nd Toledo Artillery"
+		type=artillery
+		home=489
+	}
+}
+
+army = {
+	name="26th Army"
+	location=522
+	regiment = {
+		name="3rd Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="4th La Coruña Infantry"
+		type=infantry
+		home=474
+	}
+	regiment = {
+		name="1st Vila Real Artillery"
+		type=artillery
+		home=519
+	}
+	regiment = {
+		name="1st Vigo Artillery"
+		type=artillery
+		home=476
+	}
+}
+
+army = {
+	name="STAC"
+	location=2163
+	regiment = {
+		name="1st Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="6th Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="1st Teruel Infantry"
+		type=infantry
+		home=497
+	}
+	regiment = {
+		name="1st Tarragona Infantry"
+		type=infantry
+		home=501
+	}
+	regiment = {
+		name="3rd Cáceres Infantry"
+		type=infantry
+		home=486
+	}
+}
+
+army = {
+	name="23rd Army"
+	location=480
+	regiment = {
+		name="1st Huesca Infantry"
+		type=infantry
+		home=496
+	}
+	regiment = {
+		name="2nd Cáceres Artillery"
 		type=artillery
 		home=486
 	}
@@ -1732,135 +1857,10 @@ army = {
 		type=artillery
 		home=478
 	}
-}
-
-army = {
-	name="BEAST"
-	location=509
-	regiment = {
-		name="2nd Teruel Infantry"
-		type=infantry
-		home=497
-	}
-	regiment = {
-		name="1st Ciudad Real Infantry"
-		type=infantry
-		home=491
-	}
-	regiment = {
-		name="3rd Almería Artillery"
-		type=artillery
-		home=515
-	}
-	regiment = {
-		name="4th Cáceres Artillery"
-		type=artillery
-		home=486
-	}
-}
-
-army = {
-	name="21st Army"
-	location=484
-	regiment = {
-		name="1st Zaragoza Infantry"
-		type=infantry
-		home=495
-	}
-	regiment = {
-		name="3rd Teruel Infantry"
-		type=infantry
-		home=497
-	}
-	regiment = {
-		name="1st Madrid Artillery"
-		type=artillery
-		home=487
-	}
-	regiment = {
-		name="1st Jaén Artillery"
-		type=artillery
-		home=516
-	}
-}
-
-army = {
-	name="26th Army"
-	location=522
-	regiment = {
-		name="4th La Coruña Infantry"
-		type=infantry
-		home=474
-	}
-	regiment = {
-		name="5th La Coruña Infantry"
-		type=infantry
-		home=474
-	}
-	regiment = {
-		name="2nd Covilhã Artillery"
-		type=artillery
-		home=520
-	}
-	regiment = {
-		name="1st Vila Real Artillery"
-		type=artillery
-		home=519
-	}
-}
-
-army = {
-	name="STAC"
-	location=2163
-	regiment = {
-		name="3rd Tarragona Infantry"
-		type=infantry
-		home=501
-	}
-	regiment = {
-		name="4th Valencia Infantry"
-		type=infantry
-		home=503
-	}
-	regiment = {
-		name="2nd Albacete Infantry"
-		type=infantry
-		home=508
-	}
 	regiment = {
 		name="2nd Huesca Infantry"
 		type=infantry
 		home=496
-	}
-	regiment = {
-		name="4th Zaragoza Infantry"
-		type=infantry
-		home=495
-	}
-}
-
-army = {
-	name="23rd Army"
-	location=480
-	regiment = {
-		name="1st Lérida Infantry"
-		type=infantry
-		home=500
-	}
-	regiment = {
-		name="4th Teruel Infantry"
-		type=infantry
-		home=497
-	}
-	regiment = {
-		name="3rd Valencia Artillery"
-		type=artillery
-		home=503
-	}
-	regiment = {
-		name="2nd Cuenca Artillery"
-		type=artillery
-		home=490
 	}
 }
 
@@ -1868,24 +1868,24 @@ army = {
 	name="35th Army"
 	location=2563
 	regiment = {
-		name="1st Tetouan Infantry"
+		name="1st Oran Infantry"
 		type=infantry
-		home=1687
+		home=1704
 	}
 	regiment = {
-		name="1st Figuig Infantry"
+		name="1st Naama Infantry"
 		type=infantry
-		home=1697
+		home=1715
 	}
 	regiment = {
-		name="1st Laghwat Artillery"
+		name="1st Rashidia Artillery"
 		type=artillery
-		home=1713
+		home=1698
 	}
 	regiment = {
-		name="3rd Seville Artillery"
+		name="1st Marrakesh Artillery"
 		type=artillery
-		home=509
+		home=1690
 	}
 }
 
@@ -1893,24 +1893,24 @@ army = {
 	name="25th Army"
 	location=1684
 	regiment = {
-		name="1st Tlemcen Infantry"
+		name="5th La Coruña Infantry"
 		type=infantry
-		home=1705
+		home=474
 	}
 	regiment = {
-		name="1st Rabat Infantry"
+		name="1st Ajdir Infantry"
 		type=infantry
-		home=1685
+		home=1688
 	}
 	regiment = {
-		name="1st Medea Artillery"
+		name="1st Casablanca Artillery"
 		type=artillery
-		home=1703
+		home=1691
 	}
 	regiment = {
-		name="2nd Gibraltar Artillery"
+		name="2nd Seville Artillery"
 		type=artillery
-		home=517
+		home=509
 	}
 }
 
@@ -1948,19 +1948,19 @@ army = {
 		home=474
 	}
 	regiment = {
-		name="1st Córdoba Infantry"
+		name="1st Bilbao Infantry"
 		type=infantry
-		home=510
-	}
-	regiment = {
-		name="1st Bilbao Artillery"
-		type=artillery
 		home=492
 	}
 	regiment = {
-		name="4th Oporto Artillery"
+		name="1st Cuenca Artillery"
 		type=artillery
-		home=518
+		home=490
+	}
+	regiment = {
+		name="1st Cádiz Artillery"
+		type=artillery
+		home=512
 	}
 }
 
@@ -1968,18 +1968,13 @@ army = {
 	name="2nd Army"
 	location=2163
 	regiment = {
-		name="2nd Cádiz Infantry"
-		type=infantry
-		home=512
-	}
-	regiment = {
-		name="2nd Lisbon Infantry"
+		name="1st Lisbon Infantry"
 		type=infantry
 		home=521
 	}
 	regiment = {
-		name="1st Coimbra Artillery"
-		type=artillery
+		name="3rd Coimbra Infantry"
+		type=infantry
 		home=522
 	}
 	regiment = {
@@ -1987,30 +1982,35 @@ army = {
 		type=artillery
 		home=477
 	}
+	regiment = {
+		name="1st Bilbao Artillery"
+		type=artillery
+		home=492
+	}
 }
 
 army = {
 	name="27th Army"
 	location=518
 	regiment = {
-		name="1st Seville Infantry"
+		name="1st Huelva Infantry"
 		type=infantry
-		home=509
-	}
-	regiment = {
-		name="1st Vigo Artillery"
-		type=artillery
-		home=476
-	}
-	regiment = {
-		name="5th Oporto Artillery"
-		type=artillery
-		home=518
+		home=511
 	}
 	regiment = {
 		name="1st Faro Infantry"
 		type=infantry
 		home=527
+	}
+	regiment = {
+		name="7th La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="8th La Coruña Artillery"
+		type=artillery
+		home=474
 	}
 }
 
@@ -2018,35 +2018,7 @@ navy = {
 	name="5th Fleet"
 	location=515
 	ship = {
-		name="2nd Oviedo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Santander Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st La Coruña Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Oviedo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Santander Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Santander Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Oviedo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Oviedo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -2054,7 +2026,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Santander Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="3rd La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Santander Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -2066,11 +2050,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Oviedo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Santander Clipper Transport"
+		name="3rd Santander Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -2078,11 +2058,31 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Santander Clipper Transport"
+		name="7th La Coruña Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Vigo Clipper Transport"
+		name="8th La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Santander Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bilbao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th La Coruña Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -2109,17 +2109,17 @@ army = {
 
 navy = {
 	name="17th Fleet"
-	location=1688
+	location=1689
 	ship = {
-		name="10th Roman Man'o'war"
+		name="4th Ajdir Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Melilla Man'o'war"
+		name="2nd Melilla Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="9th Almería Man'o'war"
+		name="5th Ajdir Man'o'war"
 		type=manowar
 	}
 }
@@ -2128,7 +2128,7 @@ navy = {
 	name="3rd Fleet"
 	location=1691
 	ship = {
-		name="2nd Casablanca Man'o'war"
+		name="4th Casablanca Man'o'war"
 		type=manowar
 	}
 }
@@ -2137,7 +2137,7 @@ navy = {
 	name="9th Fleet"
 	location=518
 	ship = {
-		name="3rd Oporto Man'o'war"
+		name="4th Oporto Man'o'war"
 		type=manowar
 	}
 }
@@ -2150,15 +2150,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Oran Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Cartagena Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Oran Frigate"
+		name="1st Tarragona Frigate"
 		type=frigate
 	}
 	ship = {
@@ -2166,47 +2158,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Roman Frigate"
+		name="1st Tetouan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tetouan Frigate"
 		type=frigate
 	}
 	ship = {
 		name="2nd Balearic Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Tarragona Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Cartagena Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Tangier Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Balearic Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Balearic Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Balearic Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Algiers Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Rabat Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Mustaghanim Frigate"
 		type=frigate
 	}
 	ship = {
@@ -2217,61 +2177,53 @@ navy = {
 		name="2nd Tarragona Frigate"
 		type=frigate
 	}
+	ship = {
+		name="3rd Balearic Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Casablanca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Alicante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ajdir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Balearic Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Barcelona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Barcelona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Roman Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cartagena Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Casablanca Frigate"
+		type=frigate
+	}
 }
 
 navy = {
 	name="10th Fleet"
 	location=2922
 	ship = {
-		name="5th Dumfries Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Janina Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Recife Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Azores Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd North West River Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Aracaju Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Belize Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Casablanca Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th North West River Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Salvador da Bahia Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Cololo Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Wexford Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Pattani Frigate"
+		name="1st Ifni Frigate"
 		type=frigate
 	}
 	ship = {
@@ -2279,47 +2231,39 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Paraíba Frigate"
+		name="1st Cape Verde Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Dublin Frigate"
+		name="3rd Belize Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Ifni Frigate"
+		name="1st Salvador da Bahia Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Dakhla Frigate"
+		name="1st Mboul Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Rio de Janeiro Frigate"
+		name="3rd Camagüey Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Salvador da Bahia Frigate"
+		name="1st Azores Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Patras Frigate"
+		name="3rd Faro Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Rio de Janeiro Frigate"
+		name="2nd Cádiz Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Paraíba Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Tangier Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Faro Frigate"
+		name="2nd Salvador da Bahia Frigate"
 		type=frigate
 	}
 	ship = {
@@ -2327,7 +2271,63 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Cape Verde Frigate"
+		name="2nd Ifni Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Azores Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Maceió Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tangier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ifni Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tangier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Recife Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Dublin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Inverness Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cádiz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Dublin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Campos Frigate"
 		type=frigate
 	}
 }

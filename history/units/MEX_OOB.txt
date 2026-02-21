@@ -419,19 +419,19 @@ navy = {
 	name="2nd Fleet"
 	location=2151
 	ship = {
-		name="1st Culiacán Clipper Transport"
+		name="1st Houston Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Saltillo Clipper Transport"
+		name="2nd Houston Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st San Antonio Clipper Transport"
+		name="1st Laredo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Matamoros Clipper Transport"
+		name="2nd Laredo Clipper Transport"
 		type=clipper_transport
 	}
 }

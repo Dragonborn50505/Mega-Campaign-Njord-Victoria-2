@@ -465,11 +465,7 @@ navy = {
 	name="7th Fleet"
 	location=1261
 	ship = {
-		name="1st Colombo Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Colombo Man'o'war"
+		name="1st Cuttack Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -477,7 +473,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Rangoon Man'o'war"
+		name="1st Colombo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jessore Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -485,15 +485,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Magadhi Man'o'war"
+		name="1st Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Colombo Man'o'war"
 		type=manowar
 	}
 	ship = {
 		name="4th Cuttack Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Jessore Man'o'war"
 		type=manowar
 	}
 }
@@ -502,11 +502,11 @@ navy = {
 	name="2nd Fleet"
 	location=2798
 	ship = {
-		name="3rd Cuttack Frigate"
+		name="1st Magadhi Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Cuttack Frigate"
+		name="2nd Colombo Frigate"
 		type=frigate
 	}
 }
@@ -515,28 +515,18 @@ army = {
 	name="5th Army"
 	location=1248
 	regiment = {
-		name="1st Darjeeling Irregulars"
-		type=irregular
-		home=1252
-	}
-	regiment = {
 		name="1st Thimpu Irregulars"
 		type=irregular
 		home=1329
 	}
 	regiment = {
-		name="1st Patna Cavalry"
+		name="1st Tumlong Irregulars"
+		type=irregular
+		home=1328
+	}
+	regiment = {
+		name="1st Gaya Cavalry"
 		type=cavalry
-		home=1247
-	}
-	regiment = {
-		name="1st Raigarh Artillery"
-		type=artillery
-		home=1282
-	}
-	regiment = {
-		name="1st Gaya Artillery"
-		type=artillery
 		home=1248
 	}
 	regiment = {
@@ -545,19 +535,29 @@ army = {
 		home=1250
 	}
 	regiment = {
-		name="1st Tumlong Irregulars"
-		type=irregular
-		home=1328
+		name="1st Kharswari Artillery"
+		type=artillery
+		home=1249
 	}
 	regiment = {
-		name="2nd Gaya Cavalry"
-		type=cavalry
-		home=1248
-	}
-	regiment = {
-		name="8th Gaya Artillery"
+		name="1st Gaya Artillery"
 		type=artillery
 		home=1248
+	}
+	regiment = {
+		name="1st Darjeeling Irregulars"
+		type=irregular
+		home=1252
+	}
+	regiment = {
+		name="1st Patna Cavalry"
+		type=cavalry
+		home=1247
+	}
+	regiment = {
+		name="2nd Raigarh Artillery"
+		type=artillery
+		home=1282
 	}
 }
 
@@ -565,24 +565,19 @@ army = {
 	name="10th Army"
 	location=1247
 	regiment = {
-		name="1st Gaya Irregulars"
+		name="1st Bardwan Irregulars"
 		type=irregular
-		home=1248
+		home=1253
 	}
 	regiment = {
-		name="1st Patna Irregulars"
+		name="2nd Bardwan Irregulars"
 		type=irregular
-		home=1247
+		home=1253
 	}
 	regiment = {
-		name="1st Gaya Cavalry"
+		name="1st Keunjahr Cavalry"
 		type=cavalry
-		home=1248
-	}
-	regiment = {
-		name="1st Gauhati Artillery"
-		type=artillery
-		home=1258
+		home=1262
 	}
 	regiment = {
 		name="2nd Gaya Artillery"
@@ -590,19 +585,24 @@ army = {
 		home=1248
 	}
 	regiment = {
+		name="1st Dibrugarh Artillery"
+		type=artillery
+		home=1260
+	}
+	regiment = {
 		name="1st Raigarh Irregulars"
 		type=irregular
 		home=1282
 	}
 	regiment = {
-		name="1st Gorakhpur Cavalry"
+		name="3rd Gaya Cavalry"
 		type=cavalry
-		home=1246
+		home=1248
 	}
 	regiment = {
-		name="1st Thimpu Artillery"
+		name="2nd Bardwan Artillery"
 		type=artillery
-		home=1329
+		home=1253
 	}
 }
 
@@ -619,9 +619,9 @@ army = {
 	name="8th Army"
 	location=1321
 	regiment = {
-		name="1st Katmandu Irregulars"
+		name="1st Gorakhpur Irregulars"
 		type=irregular
-		home=1326
+		home=1246
 	}
 	regiment = {
 		name="3rd Gaya Artillery"
@@ -629,14 +629,14 @@ army = {
 		home=1248
 	}
 	regiment = {
-		name="2nd Bhagalpur Artillery"
+		name="2nd Kharswari Artillery"
 		type=artillery
-		home=1250
+		home=1249
 	}
 	regiment = {
-		name="1st Gorakhpur Irregulars"
+		name="2nd Patna Irregulars"
 		type=irregular
-		home=1246
+		home=1247
 	}
 }
 
@@ -649,23 +649,38 @@ army = {
 		home=1250
 	}
 	regiment = {
-		name="1st Bardwan Irregulars"
+		name="3rd Bardwan Irregulars"
 		type=irregular
 		home=1253
 	}
 	regiment = {
-		name="2nd Gaya Irregulars"
+		name="1st Patna Irregulars"
 		type=irregular
-		home=1248
+		home=1247
 	}
 	regiment = {
-		name="2nd Bhagalpur Irregulars"
+		name="4th Bardwan Irregulars"
 		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="1st Sambalpur Cavalry"
+		type=cavalry
+		home=1263
+	}
+	regiment = {
+		name="2nd Dibrugarh Artillery"
+		type=artillery
+		home=1260
+	}
+	regiment = {
+		name="2nd Bhagalpur Artillery"
+		type=artillery
 		home=1250
 	}
 	regiment = {
-		name="1st Bardwan Cavalry"
-		type=cavalry
+		name="1st Bardwan Artillery"
+		type=artillery
 		home=1253
 	}
 	regiment = {
@@ -674,39 +689,24 @@ army = {
 		home=1247
 	}
 	regiment = {
-		name="1st Bardwan Artillery"
-		type=artillery
-		home=1253
-	}
-	regiment = {
-		name="3rd Bhagalpur Artillery"
-		type=artillery
-		home=1250
-	}
-	regiment = {
 		name="2nd Patna Artillery"
 		type=artillery
 		home=1247
 	}
 	regiment = {
-		name="3rd Patna Artillery"
-		type=artillery
-		home=1247
-	}
-	regiment = {
-		name="1st Sambalpur Cavalry"
+		name="2nd Gaya Cavalry"
 		type=cavalry
-		home=1263
+		home=1248
 	}
 	regiment = {
-		name="2nd Bardwan Cavalry"
+		name="1st Bhagalpur Cavalry"
 		type=cavalry
-		home=1253
+		home=1250
 	}
 	regiment = {
-		name="1st Darjeeling Artillery"
+		name="3rd Bhagalpur Artillery"
 		type=artillery
-		home=1252
+		home=1250
 	}
 }
 
@@ -714,9 +714,9 @@ army = {
 	name="1st Army"
 	location=1321
 	regiment = {
-		name="1st Keunjahr Irregulars"
+		name="1st Dacca Irregulars"
 		type=irregular
-		home=1262
+		home=1254
 	}
 	regiment = {
 		name="4th Gaya Artillery"
@@ -729,7 +729,7 @@ army = {
 	name="11th Army"
 	location=1247
 	regiment = {
-		name="3rd Gaya Irregulars"
+		name="1st Gaya Irregulars"
 		type=irregular
 		home=1248
 	}
@@ -739,14 +739,14 @@ army = {
 		home=1248
 	}
 	regiment = {
-		name="4th Gaya Irregulars"
+		name="2nd Darjeeling Irregulars"
 		type=irregular
-		home=1248
+		home=1252
 	}
 	regiment = {
-		name="7th Gaya Artillery"
+		name="1st Tumlong Artillery"
 		type=artillery
-		home=1248
+		home=1328
 	}
 }
 
@@ -754,31 +754,31 @@ navy = {
 	name="3rd Fleet"
 	location=2797
 	ship = {
-		name="1st Sittwe Frigate"
+		name="1st New Arkhangelsk Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Cuttack Frigate"
+		name="2nd New Arkhangelsk Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Cuttack Frigate"
+		name="3rd New Arkhangelsk Frigate"
 		type=frigate
 	}
 }
 
 army = {
 	name="12th Army"
-	location=1593
+	location=1260
 	regiment = {
 		name="6th Gaya Artillery"
 		type=artillery
 		home=1248
 	}
 	regiment = {
-		name="2nd Bardwan Artillery"
+		name="1st Raigarh Artillery"
 		type=artillery
-		home=1253
+		home=1282
 	}
 }
 
@@ -790,11 +790,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Magadhi Frigate"
+		name="2nd Magadhi Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Cuttack Man'o'war"
+		name="3rd Colombo Man'o'war"
 		type=manowar
 	}
 }

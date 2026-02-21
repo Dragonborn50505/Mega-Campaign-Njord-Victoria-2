@@ -459,9 +459,9 @@ army = {
 		home=69
 	}
 	regiment = {
-		name="3rd Toronto Artillery"
+		name="1st Cape Breton Island Artillery"
 		type=artillery
-		home=46
+		home=73
 	}
 }
 
@@ -474,17 +474,17 @@ army = {
 		home=66
 	}
 	regiment = {
+		name="1st Rimouski Artillery"
+		type=artillery
+		home=67
+	}
+	regiment = {
 		name="1st Toronto Artillery"
 		type=artillery
 		home=46
 	}
 	regiment = {
-		name="1st Montreal Artillery"
-		type=artillery
-		home=58
-	}
-	regiment = {
-		name="5th Toronto Artillery"
+		name="3rd Toronto Artillery"
 		type=artillery
 		home=46
 	}
@@ -492,24 +492,24 @@ army = {
 
 army = {
 	name="1st Army"
-	location=9
+	location=76
 	regiment = {
 		name="2nd Montreal Infantry"
 		type=infantry
 		home=58
 	}
 	regiment = {
-		name="2nd Montreal Artillery"
+		name="1st Montreal Artillery"
 		type=artillery
 		home=58
 	}
 	regiment = {
-		name="2nd Toronto Infantry"
+		name="1st Fredericton Infantry"
 		type=infantry
-		home=46
+		home=68
 	}
 	regiment = {
-		name="4th Toronto Artillery"
+		name="2nd Toronto Artillery"
 		type=artillery
 		home=46
 	}
@@ -524,14 +524,14 @@ army = {
 		home=58
 	}
 	regiment = {
-		name="3rd Montreal Artillery"
+		name="2nd Montreal Artillery"
 		type=artillery
 		home=58
 	}
 	regiment = {
-		name="1st Toronto Infantry"
+		name="1st Petit-Sault Infantry"
 		type=infantry
-		home=46
+		home=69
 	}
 }
 
@@ -539,24 +539,24 @@ army = {
 	name="5th Army"
 	location=32
 	regiment = {
-		name="1st Fredericton Infantry"
+		name="1st Temiscaming Infantry"
 		type=infantry
-		home=68
+		home=63
 	}
 	regiment = {
-		name="2nd Toronto Artillery"
-		type=artillery
-		home=46
-	}
-	regiment = {
-		name="1st Cape Breton Island Infantry"
-		type=infantry
-		home=73
-	}
-	regiment = {
-		name="4th Montreal Artillery"
+		name="3rd Montreal Artillery"
 		type=artillery
 		home=58
+	}
+	regiment = {
+		name="1st Sault Ste Marie Infantry"
+		type=infantry
+		home=51
+	}
+	regiment = {
+		name="4th Toronto Artillery"
+		type=artillery
+		home=46
 	}
 }
 
@@ -620,79 +620,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Sept-Îles Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Szwischen Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st North West River Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Rimouski Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd North West River Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Sept-Îles Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st St Pierre & Miquelon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd North West River Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Chicoutimi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Sept-Îles Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Chicoutimi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Hopedale Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th North West River Clipper Transport"
+		name="1st Sept-Îles Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th North West River Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Fredericton Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Rimouski Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Sept-Îles Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="6th North West River Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Sept-Îles Clipper Transport"
+		name="1st Hartford Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -700,7 +636,71 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Hopedale Man'o'war"
+		name="1st North West River Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd North West River Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hartford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Hartford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd North West River Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Hopedale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Hopedale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Hopedale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th North West River Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Hopedale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port-Aux-Basques Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd North West River Man'o'war"
 		type=manowar
 	}
 }
@@ -713,11 +713,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Hopedale Frigate"
+		name="1st North West River Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Hopedale Frigate"
+		name="2nd Sept-Îles Frigate"
 		type=frigate
 	}
 }
@@ -726,11 +726,11 @@ navy = {
 	name="8th Fleet"
 	location=2948
 	ship = {
-		name="1st North West River Frigate"
+		name="2nd North West River Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd North West River Frigate"
+		name="3rd North West River Frigate"
 		type=frigate
 	}
 }

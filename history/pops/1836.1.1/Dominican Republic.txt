@@ -80,7 +80,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 22733
+		size= 19633
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 14870
+		size= 17970
 	}
 
 	slaves=
@@ -271,7 +271,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -313,7 +313,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 12332
+		size= 9232
 	}
 
 	artisans=

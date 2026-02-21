@@ -424,9 +424,9 @@ army = {
 	name="1st Army"
 	location=1426
 	regiment = {
-		name="1st Kuantan Irregulars"
+		name="1st Kota Kubang Labu Irregulars"
 		type=irregular
-		home=1390
+		home=1391
 	}
 	regiment = {
 		name="1st Kuantan Cavalry"
@@ -444,7 +444,7 @@ army = {
 		home=1391
 	}
 	regiment = {
-		name="2nd Kuantan Irregulars"
+		name="1st Kuantan Irregulars"
 		type=irregular
 		home=1390
 	}

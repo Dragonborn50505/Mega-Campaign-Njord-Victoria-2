@@ -383,19 +383,19 @@ army = {
 	name="1st Army"
 	location=173
 	regiment = {
-		name="1st Marquette Infantry"
-		type=infantry
-		home=177
-	}
-	regiment = {
 		name="1st Detroit Infantry"
 		type=infantry
 		home=173
 	}
 	regiment = {
-		name="1st Grand Rapids Cavalry"
-		type=cavalry
+		name="1st Grand Rapids Infantry"
+		type=infantry
 		home=174
+	}
+	regiment = {
+		name="1st Detroit Cavalry"
+		type=cavalry
+		home=173
 	}
 	regiment = {
 		name="1st Detroit Artillery"
@@ -403,12 +403,12 @@ army = {
 		home=173
 	}
 	regiment = {
-		name="2nd Detroit Artillery"
+		name="1st Cedar Rapids Artillery"
 		type=artillery
-		home=173
+		home=153
 	}
 	regiment = {
-		name="2nd Cedar Rapids Infantry"
+		name="1st Cedar Rapids Infantry"
 		type=infantry
 		home=153
 	}
@@ -418,7 +418,7 @@ army = {
 		home=153
 	}
 	regiment = {
-		name="2nd Cedar Rapids Artillery"
+		name="3rd Cedar Rapids Artillery"
 		type=artillery
 		home=153
 	}
@@ -428,17 +428,17 @@ army = {
 	name="2nd Army"
 	location=177
 	regiment = {
-		name="1st Cedar Rapids Infantry"
+		name="1st Marquette Infantry"
 		type=infantry
-		home=153
+		home=177
 	}
 	regiment = {
-		name="1st Cedar Rapids Artillery"
+		name="2nd Cedar Rapids Artillery"
 		type=artillery
 		home=153
 	}
 	regiment = {
-		name="3rd Cedar Rapids Artillery"
+		name="4th Cedar Rapids Artillery"
 		type=artillery
 		home=153
 	}

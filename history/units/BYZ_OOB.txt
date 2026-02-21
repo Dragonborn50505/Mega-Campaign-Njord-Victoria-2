@@ -375,14 +375,14 @@ army = {
 	name="Thema Helladikon"
 	location=2604
 	regiment = {
-		name="1st Sydney Infantry"
-		type=infantry
-		home=2468
-	}
-	regiment = {
 		name="1st Eden Infantry"
 		type=infantry
 		home=2472
+	}
+	regiment = {
+		name="1st Sydney Infantry"
+		type=infantry
+		home=2468
 	}
 	regiment = {
 		name="1st Van Diemen's Land Infantry"
@@ -390,19 +390,19 @@ army = {
 		home=2482
 	}
 	regiment = {
+		name="1st Cooktown Artillery"
+		type=artillery
+		home=2488
+	}
+	regiment = {
+		name="1st Melbourne Artillery"
+		type=artillery
+		home=2476
+	}
+	regiment = {
 		name="1st Sydney Artillery"
 		type=artillery
 		home=2468
-	}
-	regiment = {
-		name="2nd Sydney Artillery"
-		type=artillery
-		home=2468
-	}
-	regiment = {
-		name="1st Perth Artillery"
-		type=artillery
-		home=2497
 	}
 	regiment = {
 		name="7th Van Diemen's Land Infantry"
@@ -415,22 +415,22 @@ army = {
 	name="Thema Wulgurukaba"
 	location=2484
 	regiment = {
-		name="2nd Van Diemen's Land Infantry"
+		name="2nd Sydney Infantry"
 		type=infantry
-		home=2482
+		home=2468
 	}
 	regiment = {
-		name="1st Newcastle Infantry"
+		name="1st Adelaide Infantry"
 		type=infantry
-		home=2469
+		home=2491
 	}
 	regiment = {
-		name="3rd Van Diemen's Land Infantry"
+		name="1st Kojonup Infantry"
 		type=infantry
-		home=2482
+		home=2498
 	}
 	regiment = {
-		name="2nd Perth Artillery"
+		name="1st Perth Artillery"
 		type=artillery
 		home=2497
 	}
@@ -450,19 +450,19 @@ army = {
 	name="Thema Letopolis"
 	location=2604
 	regiment = {
-		name="1st Adelaide Infantry"
+		name="2nd Van Diemen's Land Infantry"
 		type=infantry
-		home=2491
+		home=2482
+	}
+	regiment = {
+		name="3rd Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
 	}
 	regiment = {
 		name="4th Van Diemen's Land Infantry"
 		type=infantry
 		home=2482
-	}
-	regiment = {
-		name="1st Melbourne Infantry"
-		type=infantry
-		home=2476
 	}
 	regiment = {
 		name="5th Van Diemen's Land Infantry"
@@ -528,10 +528,6 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Vizagapatnam Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Madurai Clipper Transport"
 		type=clipper_transport
 	}
@@ -540,15 +536,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Tanjore Clipper Transport"
+		name="3rd Madurai Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kojonup Man'o'war"
+		name="4th Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Melbourne Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Robe Man'o'war"
+		name="2nd Port Augusta Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -556,7 +556,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Madurai Clipper Transport"
+		name="1st Madras Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -565,31 +565,7 @@ navy = {
 	name="Thema Aigaeou Pelagous"
 	location=2604
 	ship = {
-		name="1st Kojonup Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Port Augusta Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Perth Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Kojonup Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Perth Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Normanton Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Adelaide Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -597,7 +573,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Perth Clipper Transport"
+		name="1st Port Essington Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -605,7 +581,39 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Warrnambool Clipper Transport"
+		name="1st Adelaide Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Adelaide Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Perth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Townsville Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kojonup Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Normanton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Van Diemen's Land Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Townsville Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Broome Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -613,19 +621,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Port Lincoln Clipper Transport"
+		name="2nd Perth Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="2nd Normanton Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Perth Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Van Diemen's Land Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -4,7 +4,7 @@ culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
 plurality = 0
-nationalvalue = nv_autocracy
+nationalvalue = nv_tradition
 literacy = 0.187359
 
 civilized = yes

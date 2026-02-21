@@ -448,11 +448,11 @@ leader = {
 #Armies
 army = {
 	name="16th Army"
-	location=2404
+	location=2405
 	regiment = {
-		name="1st Vila do Poti Infantry"
+		name="1st Vitória Infantry"
 		type=infantry
-		home=2426
+		home=2449
 	}
 	regiment = {
 		name="1st Belém Cavalry"
@@ -470,19 +470,19 @@ army = {
 		home=2447
 	}
 	regiment = {
-		name="3rd Vila do Poti Infantry"
+		name="2nd Ouro Preto Infantry"
 		type=infantry
-		home=2426
-	}
-	regiment = {
-		name="2nd Salvador da Bahia Cavalry"
-		type=cavalry
-		home=2436
-	}
-	regiment = {
-		name="1st Ouro Preto Artillery"
-		type=artillery
 		home=2441
+	}
+	regiment = {
+		name="1st Recife Cavalry"
+		type=cavalry
+		home=2432
+	}
+	regiment = {
+		name="1st Juazeiro Artillery"
+		type=artillery
+		home=2437
 	}
 }
 
@@ -500,19 +500,19 @@ army = {
 		home=2432
 	}
 	regiment = {
-		name="1st Vila da Palma Artillery"
+		name="1st Salvador da Bahia Artillery"
 		type=artillery
-		home=2423
+		home=2436
 	}
 	regiment = {
-		name="4th Vila do Poti Infantry"
+		name="2nd Vila do Poti Infantry"
 		type=infantry
 		home=2426
 	}
 	regiment = {
-		name="1st Aracaju Artillery"
+		name="1st Vila do Poti Artillery"
 		type=artillery
-		home=2435
+		home=2426
 	}
 }
 
@@ -520,18 +520,13 @@ army = {
 	name="11th Army"
 	location=2425
 	regiment = {
-		name="2nd Vila do Poti Infantry"
+		name="1st Vila do Poti Infantry"
 		type=infantry
 		home=2426
 	}
 	regiment = {
-		name="1st Salvador da Bahia Cavalry"
+		name="1st Rio de Janeiro Cavalry"
 		type=cavalry
-		home=2436
-	}
-	regiment = {
-		name="2nd Rio de Janeiro Artillery"
-		type=artillery
 		home=2447
 	}
 	regiment = {
@@ -540,9 +535,14 @@ army = {
 		home=2463
 	}
 	regiment = {
-		name="1st Sabará Infantry"
-		type=infantry
+		name="1st Sabará Artillery"
+		type=artillery
 		home=2442
+	}
+	regiment = {
+		name="1st São Paulo Infantry"
+		type=infantry
+		home=2450
 	}
 }
 
@@ -565,7 +565,7 @@ navy = {
 
 navy = {
 	name="1st Fleet"
-	location=2987
+	location=2986
 	ship = {
 		name="Inhauma"
 		type=frigate
@@ -616,47 +616,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Belém Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Macapá Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Belém Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Belém Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Belém Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Belém Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="6th Belém Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="7th Belém Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="8th Belém Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st São Luís Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd São Luís Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -664,27 +624,67 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="3rd Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Vila do Poti Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="9th Belém Clipper Transport"
+		name="9th Macapá Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Fortaleza Clipper Transport"
+		name="3rd Belém Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="10th Belém Clipper Transport"
+		name="10th Macapá Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Natal Man'o'war"
+		name="2nd Vila do Poti Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st São Luís Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Macapá Clipper Transport"
+		name="11th Macapá Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -697,7 +697,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st São Luís Frigate"
+		name="2nd Natal Frigate"
 		type=frigate
 	}
 }
@@ -722,7 +722,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Maceió Man'o'war"
+		name="3rd Fortaleza Man'o'war"
 		type=manowar
 	}
 }

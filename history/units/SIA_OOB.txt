@@ -391,54 +391,9 @@ army = {
 	name="1st Army"
 	location=1365
 	regiment = {
-		name="1st Prachinburi Irregulars"
+		name="1st Nakhon Si Thammarat Irregulars"
 		type=irregular
-		home=1351
-	}
-	regiment = {
-		name="2nd Prachinburi Irregulars"
-		type=irregular
-		home=1351
-	}
-	regiment = {
-		name="1st Mergui Cavalry"
-		type=cavalry
-		home=1344
-	}
-	regiment = {
-		name="1st Chanthaburi Artillery"
-		type=artillery
-		home=1365
-	}
-	regiment = {
-		name="2nd Chanthaburi Artillery"
-		type=artillery
-		home=1365
-	}
-	regiment = {
-		name="1st Phuket Artillery"
-		type=artillery
-		home=1352
-	}
-	regiment = {
-		name="1st Ratchaburi Cavalry"
-		type=cavalry
-		home=1353
-	}
-	regiment = {
-		name="3rd Nakhon Sawan Artillery"
-		type=artillery
-		home=1348
-	}
-}
-
-army = {
-	name="6th Army"
-	location=1353
-	regiment = {
-		name="1st Nakhon Sawan Irregulars"
-		type=irregular
-		home=1348
+		home=1354
 	}
 	regiment = {
 		name="1st Ratchaburi Irregulars"
@@ -446,19 +401,54 @@ army = {
 		home=1353
 	}
 	regiment = {
+		name="1st Ratchaburi Cavalry"
+		type=cavalry
+		home=1353
+	}
+	regiment = {
+		name="1st Prachinburi Artillery"
+		type=artillery
+		home=1351
+	}
+	regiment = {
+		name="1st Chanthaburi Artillery"
+		type=artillery
+		home=1365
+	}
+	regiment = {
+		name="2nd Prachinburi Artillery"
+		type=artillery
+		home=1351
+	}
+	regiment = {
 		name="1st Bangkok Cavalry"
 		type=cavalry
 		home=1346
 	}
 	regiment = {
-		name="2nd Phuket Artillery"
+		name="3rd Ratchaburi Artillery"
 		type=artillery
-		home=1352
+		home=1353
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1353
+	regiment = {
+		name="2nd Ratchaburi Irregulars"
+		type=irregular
+		home=1353
 	}
 	regiment = {
-		name="3rd Phuket Artillery"
-		type=artillery
-		home=1352
+		name="1st Kampot Irregulars"
+		type=irregular
+		home=1367
+	}
+	regiment = {
+		name="1st Nakhon Si Thammarat Cavalry"
+		type=cavalry
+		home=1354
 	}
 	regiment = {
 		name="1st Bangkok Artillery"
@@ -466,14 +456,24 @@ army = {
 		home=1346
 	}
 	regiment = {
-		name="1st Nakhon Si Thammarat Irregulars"
-		type=irregular
-		home=1354
+		name="3rd Prachinburi Artillery"
+		type=artillery
+		home=1351
 	}
 	regiment = {
-		name="1st Nakhon Sawan Cavalry"
+		name="2nd Bangkok Artillery"
+		type=artillery
+		home=1346
+	}
+	regiment = {
+		name="3rd Ratchaburi Irregulars"
+		type=irregular
+		home=1353
+	}
+	regiment = {
+		name="2nd Ratchaburi Cavalry"
 		type=cavalry
-		home=1348
+		home=1353
 	}
 }
 
@@ -492,21 +492,21 @@ navy = {
 
 army = {
 	name="5th Army"
-	location=1346
+	location=1347
 	regiment = {
-		name="1st Chanthaburi Irregulars"
+		name="1st Prachinburi Irregulars"
 		type=irregular
-		home=1365
+		home=1351
 	}
 	regiment = {
-		name="2nd Ratchaburi Irregulars"
+		name="1st Bangkok Irregulars"
 		type=irregular
-		home=1353
+		home=1346
 	}
 	regiment = {
-		name="1st Ratchaburi Artillery"
+		name="4th Prachinburi Artillery"
 		type=artillery
-		home=1353
+		home=1351
 	}
 	regiment = {
 		name="1st Nakhon Sawan Artillery"
@@ -514,19 +514,19 @@ army = {
 		home=1348
 	}
 	regiment = {
-		name="2nd Ratchaburi Artillery"
+		name="1st Ratchaburi Artillery"
 		type=artillery
 		home=1353
 	}
 	regiment = {
-		name="2nd Nakhon Si Thammarat Irregulars"
+		name="4th Ratchaburi Irregulars"
 		type=irregular
-		home=1354
+		home=1353
 	}
 	regiment = {
-		name="2nd Nakhon Sawan Artillery"
+		name="2nd Ratchaburi Artillery"
 		type=artillery
-		home=1348
+		home=1353
 	}
 }
 
@@ -570,15 +570,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Ratchaburi Clipper Transport"
+		name="1st Ayutthayan Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Ratchaburi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Nakhon Si Thammarat Clipper Transport"
+		name="1st Mergui Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -586,11 +582,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Prachinburi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Ratchaburi Clipper Transport"
+		name="1st Bangkok Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -598,23 +590,31 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Moulmein Clipper Transport"
+		name="2nd Ayutthayan Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bangkok Clipper Transport"
+		name="2nd Manila Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kampot Clipper Transport"
+		name="2nd Chanthaburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ratchaburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mergui Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ratchaburi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="2nd Bangkok Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Bangkok Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -626,7 +626,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Mergui Clipper Transport"
+		name="3rd Bangkok Clipper Transport"
 		type=clipper_transport
 	}
 }

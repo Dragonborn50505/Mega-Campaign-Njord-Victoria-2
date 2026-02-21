@@ -857,7 +857,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 1033
+		size= 581
 	}
 
 	artisans=
@@ -899,7 +899,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 8405
+		size= 8857
 	}
 
 	soldiers=
@@ -1257,7 +1257,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 498
+		size= 1033
 	}
 
 	artisans=
@@ -1299,7 +1299,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 7582
+		size= 7047
 	}
 
 	soldiers=
@@ -1878,7 +1878,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 1033
+		size= 315
 	}
 
 	artisans=
@@ -1920,7 +1920,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 4106
+		size= 4824
 	}
 
 	soldiers=
@@ -1978,7 +1978,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 525
+		size= 1033
 	}
 
 	artisans=
@@ -2020,7 +2020,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 8466
+		size= 7958
 	}
 
 	soldiers=

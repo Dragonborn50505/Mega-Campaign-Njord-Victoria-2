@@ -3,7 +3,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 25833
+		size= 4234
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 12740
+		size= 34339
 	}
 
 	soldiers=
@@ -101,7 +101,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 4133
+		size= 3171
 	}
 
 	artisans=
@@ -143,7 +143,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 13474
+		size= 14436
 	}
 
 	soldiers=
@@ -299,7 +299,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 10333
+		size= 13433
 	}
 
 	artisans=
@@ -341,7 +341,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 37800
+		size= 34700
 	}
 
 	soldiers=
@@ -499,7 +499,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 7233
+		size= 2341
 	}
 
 	artisans=
@@ -541,7 +541,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 13777
+		size= 18669
 	}
 
 	soldiers=
@@ -697,7 +697,7 @@
 	{
 		culture = ukrainian
 		religion = mahayana
-		size= 16533
+		size= 7233
 	}
 
 	artisans=
@@ -739,7 +739,7 @@
 	{
 		culture = ukrainian
 		religion = mahayana
-		size= 8275
+		size= 17575
 	}
 
 	soldiers=
@@ -846,7 +846,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 16533
+		size= 7233
 	}
 
 	artisans=
@@ -888,7 +888,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 17567
+		size= 26867
 	}
 
 	soldiers=
@@ -1044,7 +1044,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 7233
+		size= 1598
 	}
 
 	artisans=
@@ -1086,7 +1086,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 17731
+		size= 23366
 	}
 
 	soldiers=

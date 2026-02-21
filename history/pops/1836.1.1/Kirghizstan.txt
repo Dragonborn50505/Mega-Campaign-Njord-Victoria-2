@@ -3,7 +3,7 @@
 	{
 		culture = uzbek
 		religion = mahayana
-		size= 4133
+		size= 2854
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = uzbek
 		religion = mahayana
-		size= 25057
+		size= 26336
 	}
 
 	soldiers=
@@ -145,7 +145,7 @@
 	{
 		culture = uzbek
 		religion = mahayana
-		size= 1033
+		size= 145
 	}
 
 	artisans=
@@ -187,7 +187,7 @@
 	{
 		culture = uzbek
 		religion = mahayana
-		size= 5921
+		size= 6809
 	}
 
 	soldiers=

@@ -51,4 +51,4 @@ tree = 350
 
 border_cutoff = 1100.0
 
-definitions = "../mod/MegaNjord/map/definition.csv"
+definitions = "../mod/NjordVictoria2/map/definition.csv"

@@ -396,7 +396,7 @@ navy = {
 
 navy = {
 	name="2nd Fleet"
-	location=3192
+	location=3219
 	ship = {
 		name="Chillicothe"
 		type=frigate

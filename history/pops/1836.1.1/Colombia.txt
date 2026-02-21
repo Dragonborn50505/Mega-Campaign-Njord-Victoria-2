@@ -415,14 +415,14 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 17297
+		size= 14197
 	}
 
 	soldiers=
 	{
 		culture = mexican
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -480,14 +480,14 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 3649
+		size= 4151
 	}
 
 	soldiers=
 	{
 		culture = mexican
 		religion = protestant
-		size= 1033
+		size= 531
 	}
 
 	artisans=
@@ -578,7 +578,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 1033
+		size= 680
 	}
 
 	artisans=
@@ -620,7 +620,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 4720
+		size= 5073
 	}
 
 }
@@ -783,14 +783,14 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 4133
+		size= 7233
 	}
 
 	farmers=
 	{
 		culture = mexican
 		religion = protestant
-		size= 17292
+		size= 14192
 	}
 
 	artisans=
@@ -1104,14 +1104,14 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 8747
+		size= 18047
 	}
 
 	soldiers=
 	{
 		culture = ealimi
 		religion = protestant
-		size= 13433
+		size= 4133
 	}
 
 	artisans=
@@ -1507,7 +1507,7 @@
 	{
 		culture = guajiro
 		religion = protestant
-		size= 1033
+		size= 612
 	}
 
 	artisans=
@@ -1549,7 +1549,7 @@
 	{
 		culture = guajiro
 		religion = protestant
-		size= 9069
+		size= 9490
 	}
 
 }
@@ -1749,14 +1749,14 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 9508
+		size= 6408
 	}
 
 	soldiers=
 	{
 		culture = mexican
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1828,7 +1828,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 4560
+		size= 1460
 	}
 
 	artisans=
@@ -1856,7 +1856,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	bureaucrats=

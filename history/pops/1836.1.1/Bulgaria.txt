@@ -103,7 +103,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 16533
+		size= 13433
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 49032
+		size= 52132
 	}
 
 	soldiers=
@@ -424,7 +424,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5329
+		size= 35133
 	}
 
 	artisans=
@@ -466,7 +466,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 46589
+		size= 16785
 	}
 
 	soldiers=
@@ -794,7 +794,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -836,7 +836,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 44552
+		size= 47652
 	}
 
 	aristocrats=
@@ -931,7 +931,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7233
+		size= 4689
 	}
 
 	artisans=
@@ -973,7 +973,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 35572
+		size= 38116
 	}
 
 }

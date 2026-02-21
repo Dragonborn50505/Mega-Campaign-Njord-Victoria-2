@@ -342,7 +342,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 4133
+		size= 1921
 	}
 
 	artisans=
@@ -384,7 +384,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 156366
+		size= 158578
 	}
 
 }
@@ -493,7 +493,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 2046
+		size= 7233
 	}
 
 	artisans=
@@ -535,7 +535,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 179209
+		size= 174022
 	}
 
 }
@@ -667,7 +667,7 @@
 	{
 		culture = dynamic-normand-culture-num1
 		religion = catholic
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -709,7 +709,7 @@
 	{
 		culture = dynamic-normand-culture-num1
 		religion = catholic
-		size= 109420
+		size= 112520
 	}
 
 }
@@ -718,7 +718,7 @@
 	{
 		culture = dynamic-normand-culture-num1
 		religion = catholic
-		size= 10333
+		size= 22733
 	}
 
 	artisans=
@@ -760,7 +760,7 @@
 	{
 		culture = dynamic-normand-culture-num1
 		religion = catholic
-		size= 86685
+		size= 74285
 	}
 
 	soldiers=

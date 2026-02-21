@@ -1243,7 +1243,7 @@
 	{
 		culture = dynamic-uzbehk-culture-num1
 		religion = mahayana
-		size= 1093
+		size= 4133
 	}
 
 	artisans=
@@ -1285,7 +1285,7 @@
 	{
 		culture = dynamic-uzbehk-culture-num1
 		religion = mahayana
-		size= 8176
+		size= 5136
 	}
 
 	slaves=
@@ -1462,7 +1462,7 @@
 	{
 		culture = uzbek
 		religion = mahayana
-		size= 7233
+		size= 1379
 	}
 
 	artisans=
@@ -1504,7 +1504,7 @@
 	{
 		culture = uzbek
 		religion = mahayana
-		size= 3188
+		size= 9042
 	}
 
 	slaves=
@@ -1618,7 +1618,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 1009
+		size= 4133
 	}
 
 	artisans=
@@ -1653,7 +1653,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 15810
+		size= 12686
 	}
 
 	soldiers=
@@ -1816,7 +1816,7 @@
 	{
 		culture = dynamic-uyghur-culture-num1
 		religion = mahayana
-		size= 4133
+		size= 1273
 	}
 
 	artisans=
@@ -1858,7 +1858,7 @@
 	{
 		culture = dynamic-uyghur-culture-num1
 		religion = mahayana
-		size= 9123
+		size= 11983
 	}
 
 	soldiers=
@@ -2007,7 +2007,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 1033
+		size= 769
 	}
 
 	artisans=
@@ -2049,7 +2049,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 12328
+		size= 12592
 	}
 
 	soldiers=
@@ -2410,7 +2410,7 @@
 	{
 		culture = dynamic-uzbehk-culture-num1
 		religion = mahayana
-		size= 4133
+		size= 1590
 	}
 
 	artisans=
@@ -2452,7 +2452,7 @@
 	{
 		culture = dynamic-uzbehk-culture-num1
 		religion = mahayana
-		size= 10352
+		size= 12895
 	}
 
 	slaves=
@@ -3102,7 +3102,7 @@
 	{
 		culture = kirgiz
 		religion = mahayana
-		size= 1033
+		size= 194
 	}
 
 	artisans=
@@ -3144,7 +3144,7 @@
 	{
 		culture = kirgiz
 		religion = mahayana
-		size= 891
+		size= 1730
 	}
 
 	soldiers=
@@ -3195,7 +3195,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 243
+		size= 1033
 	}
 
 	artisans=
@@ -3237,7 +3237,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 3908
+		size= 3118
 	}
 
 	soldiers=
@@ -3342,7 +3342,7 @@
 	{
 		culture = dynamic-nogaybak-mongol-culture-num1
 		religion = mahayana
-		size= 252
+		size= 1033
 	}
 
 	artisans=
@@ -3384,7 +3384,7 @@
 	{
 		culture = dynamic-nogaybak-mongol-culture-num1
 		religion = mahayana
-		size= 4152
+		size= 3371
 	}
 
 	soldiers=
@@ -3440,7 +3440,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 232
+		size= 1033
 	}
 
 	artisans=
@@ -3482,7 +3482,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 2640
+		size= 1839
 	}
 
 }
@@ -3491,7 +3491,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -3526,7 +3526,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 4984
+		size= 1884
 	}
 
 	soldiers=

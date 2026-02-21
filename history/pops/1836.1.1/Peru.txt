@@ -66,7 +66,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 74
+		size= 4133
 	}
 
 	artisans=
@@ -108,7 +108,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 5503
+		size= 1444
 	}
 
 }
@@ -1320,7 +1320,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1033
+		size= 65
 	}
 
 	artisans=
@@ -1362,7 +1362,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 4485
+		size= 5453
 	}
 
 }
@@ -2044,7 +2044,7 @@
 	{
 		culture = quechua
 		religion = protestant
-		size= 4133
+		size= 190
 	}
 
 	artisans=
@@ -2086,7 +2086,7 @@
 	{
 		culture = quechua
 		religion = protestant
-		size= 9115
+		size= 13058
 	}
 
 	slaves=
@@ -2207,7 +2207,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 160
+		size= 1033
 	}
 
 	artisans=
@@ -2249,7 +2249,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 5082
+		size= 4209
 	}
 
 	soldiers=
@@ -2468,21 +2468,21 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 1033
+		size= 55
 	}
 
 	farmers=
 	{
 		culture = aimara
 		religion = inti
-		size= 4483
+		size= 5461
 	}
 
 	farmers=
 	{
 		culture = ealimi
 		religion = protestant
-		size= 3667
+		size= 4647
 	}
 
 	artisans=
@@ -2524,14 +2524,14 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 1033
+		size= 53
 	}
 
 	soldiers=
 	{
 		culture = platinean
 		religion = protestant
-		size= 1033
+		size= 81
 	}
 
 	artisans=
@@ -2573,7 +2573,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 4809
+		size= 5761
 	}
 
 }

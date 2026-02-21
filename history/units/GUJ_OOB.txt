@@ -422,14 +422,14 @@ army = {
 		home=1239
 	}
 	regiment = {
-		name="1st Iloilo Cavalry"
+		name="1st Meerut Cavalry"
 		type=cavalry
-		home=1460
+		home=1239
 	}
 	regiment = {
-		name="1st Meerut Artillery"
+		name="1st Baroda Artillery"
 		type=artillery
-		home=1239
+		home=1295
 	}
 	regiment = {
 		name="1st Iloilo Artillery"
@@ -437,9 +437,9 @@ army = {
 		home=1460
 	}
 	regiment = {
-		name="1st Iloilo Irregulars"
+		name="1st Manila Irregulars"
 		type=irregular
-		home=1460
+		home=1455
 	}
 	regiment = {
 		name="1st Baroda Cavalry"
@@ -447,9 +447,9 @@ army = {
 		home=1295
 	}
 	regiment = {
-		name="2nd Iloilo Artillery"
+		name="2nd Jaipur Artillery"
 		type=artillery
-		home=1460
+		home=1268
 	}
 }
 
@@ -457,11 +457,11 @@ navy = {
 	name="1st Fleet"
 	location=2850
 	ship = {
-		name="2nd Zamboanga Man'o'war"
+		name="1st Rajkot Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Zamboanga Man'o'war"
+		name="2nd Rajkot Man'o'war"
 		type=manowar
 	}
 }
@@ -470,14 +470,14 @@ army = {
 	name="3rd Army"
 	location=1268
 	regiment = {
-		name="1st Jaipur Irregulars"
+		name="3rd Meerut Irregulars"
 		type=irregular
-		home=1268
+		home=1239
 	}
 	regiment = {
-		name="2nd Jaipur Irregulars"
+		name="4th Meerut Irregulars"
 		type=irregular
-		home=1268
+		home=1239
 	}
 }
 
@@ -485,23 +485,23 @@ navy = {
 	name="3rd Fleet"
 	location=2825
 	ship = {
-		name="1st Iloilo Frigate"
+		name="1st Sorong Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st New Hebrides Frigate"
+		name="1st Mindoro Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Rosarito Frigate"
+		name="3rd San Diego Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Monterey Frigate"
+		name="1st Santa Cruz Islands Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Zamboanga Frigate"
+		name="4th San Diego Frigate"
 		type=frigate
 	}
 }
@@ -510,11 +510,11 @@ navy = {
 	name="10th Fleet"
 	location=2789
 	ship = {
-		name="1st Surat Frigate"
+		name="1st Mandvi Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Surat Frigate"
+		name="1st Gujarati Frigate"
 		type=frigate
 	}
 }
@@ -523,8 +523,75 @@ army = {
 	name="2nd Army"
 	location=1268
 	regiment = {
-		name="3rd Meerut Irregulars"
+		name="1st Jaipur Irregulars"
 		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2818
+	ship = {
+		name="1st Guam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Gujarati Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort Vancouver Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2850
+	ship = {
+		name="1st Surat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gujarati Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Manila Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2825
+	ship = {
+		name="1st New Hebrides Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zamboanga Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1268
+	regiment = {
+		name="1st Delhi Artillery"
+		type=artillery
+		home=1236
+	}
+	regiment = {
+		name="2nd Meerut Artillery"
+		type=artillery
 		home=1239
 	}
 	regiment = {
@@ -535,97 +602,34 @@ army = {
 }
 
 navy = {
-	name="5th Fleet"
-	location=2818
-	ship = {
-		name="1st Kasilof Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Victoria Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd New Hebrides Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="4th Fleet"
-	location=2850
-	ship = {
-		name="1st Mindoro Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Surat Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Surat Man'o'war"
-		type=manowar
-	}
-}
-
-navy = {
-	name="6th Fleet"
-	location=2825
-	ship = {
-		name="1st Rajkot Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Manila Frigate"
-		type=frigate
-	}
-}
-
-army = {
-	name="6th Army"
-	location=1268
-	regiment = {
-		name="1st Agra Artillery"
-		type=artillery
-		home=1240
-	}
-	regiment = {
-		name="2nd Jaipur Artillery"
-		type=artillery
-		home=1268
-	}
-	regiment = {
-		name="2nd Agra Artillery"
-		type=artillery
-		home=1240
-	}
-}
-
-navy = {
 	name="9th Fleet"
 	location=1460
-	ship = {
-		name="1st Mandvi Man'o'war"
-		type=manowar
-	}
 	ship = {
 		name="1st Manila Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Merah Man'o'war"
+		name="1st Mandvi Man'o'war"
 		type=manowar
+	}
+	ship = {
+		name="2nd Gujarati Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Santa Cruz Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Iloilo Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
 		name="1st Surat Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Surat Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Mandvi Clipper Transport"
+		name="1st Manila Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -633,35 +637,31 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="3rd Zamboanga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Surat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Santa Cruz Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Hebrides Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Rajkot Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Zamboanga Clipper Transport"
+		name="1st Mandvi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kerema Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Rajkot Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Rajkot Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Rajkot Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Surat Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Gujarati Man'o'war"
+		name="3rd Rajkot Man'o'war"
 		type=manowar
 	}
 }

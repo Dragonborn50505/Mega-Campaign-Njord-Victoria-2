@@ -457,11 +457,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Malacca Frigate"
+		name="2nd Ipoh Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Ipoh Frigate"
+		name="1st Singapore Frigate"
 		type=frigate
 	}
 }
@@ -485,7 +485,7 @@ army = {
 		home=1427
 	}
 	regiment = {
-		name="2nd Banjarmasin Artillery"
+		name="1st Banjarmasin Artillery"
 		type=artillery
 		home=1423
 	}
@@ -495,28 +495,18 @@ army = {
 	name="4th Army"
 	location=1423
 	regiment = {
-		name="2nd Banjarmasin Irregulars"
-		type=irregular
-		home=1423
-	}
-	regiment = {
 		name="1st Gunungsitoli Irregulars"
 		type=irregular
 		home=1411
 	}
 	regiment = {
-		name="1st Samarinda Cavalry"
+		name="2nd Banjarmasin Irregulars"
+		type=irregular
+		home=1423
+	}
+	regiment = {
+		name="1st Banjarmasin Cavalry"
 		type=cavalry
-		home=1429
-	}
-	regiment = {
-		name="1st Muraleve Artillery"
-		type=artillery
-		home=1422
-	}
-	regiment = {
-		name="1st Banjarmasin Artillery"
-		type=artillery
 		home=1423
 	}
 	regiment = {
@@ -525,26 +515,36 @@ army = {
 		home=1429
 	}
 	regiment = {
-		name="1st Tarakan Irregulars"
-		type=irregular
+		name="1st Muraleve Artillery"
+		type=artillery
+		home=1422
+	}
+	regiment = {
+		name="1st Tarakan Artillery"
+		type=artillery
 		home=1425
 	}
 	regiment = {
-		name="1st Bali Cavalry"
-		type=cavalry
+		name="2nd Bali Irregulars"
+		type=irregular
 		home=1438
+	}
+	regiment = {
+		name="2nd Banjarmasin Cavalry"
+		type=cavalry
+		home=1423
 	}
 }
 
 navy = {
 	name="6th Fleet"
-	location=1424
+	location=1423
 	ship = {
-		name="1st Tarakan Man'o'war"
+		name="1st Ipoh Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Malacca Man'o'war"
+		name="1st Kuantan Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -552,51 +552,35 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Malacca Man'o'war"
+		name="1st Tarakan Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Kirikiriroa Man'o'war"
+		name="2nd Tarakan Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Malacca Man'o'war"
+		name="2nd Tanjung Puteri Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Siak Frigate"
+		name="1st Malacca Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Malacca Frigate"
+		name="1st Tanjungpinang Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Malacca Clipper Transport"
+		name="1st Tapaktuan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Taliabu Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="1st Siak Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Georgetown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Malacca Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Malacca Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Tanjungpinang Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Singapore Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -608,7 +592,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Malacca Clipper Transport"
+		name="1st Malacca Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -616,23 +600,39 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Georgetown Clipper Transport"
+		name="1st Inderagiri Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Van Diemen's Land Clipper Transport"
+		name="1st Kelang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Tanjung Puteri Man'o'war"
+		name="2nd Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Siak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Taliabu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kirikiriroa Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Malacca Frigate"
+		name="1st Kirikiriroa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="7th Georgetown Clipper Transport"
+		name="5th Georgetown Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -641,27 +641,27 @@ navy = {
 	name="2nd Fleet"
 	location=2813
 	ship = {
-		name="2nd Ipoh Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Tanjungpinang Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Malaccan Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Ipoh Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Ipoh Frigate"
+		name="2nd Malacca Frigate"
 		type=frigate
 	}
 	ship = {
 		name="1st Bulon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ipswich Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malaccan Frigate"
 		type=frigate
 	}
 }
@@ -670,15 +670,15 @@ navy = {
 	name="5th Fleet"
 	location=3217
 	ship = {
-		name="3rd Malacca Frigate"
+		name="2nd Davao Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Tanjungpinang Frigate"
+		name="3rd Davao Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Tarakan Frigate"
+		name="1st Tanjung Puteri Frigate"
 		type=frigate
 	}
 }
@@ -687,11 +687,11 @@ navy = {
 	name="1st Fleet"
 	location=1423
 	ship = {
-		name="5th Ipoh Frigate"
+		name="2nd Tanjung Puteri Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Malacca Frigate"
+		name="3rd Kelang Frigate"
 		type=frigate
 	}
 }

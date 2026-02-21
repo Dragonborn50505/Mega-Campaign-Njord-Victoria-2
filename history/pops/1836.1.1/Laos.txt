@@ -122,7 +122,7 @@
 	{
 		culture = lao
 		religion = animist
-		size= 1033
+		size= 469
 	}
 
 	artisans=
@@ -164,7 +164,7 @@
 	{
 		culture = lao
 		religion = animist
-		size= 18950
+		size= 19514
 	}
 
 }
@@ -236,7 +236,7 @@
 	{
 		culture = lao
 		religion = theravada
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -278,7 +278,7 @@
 	{
 		culture = lao
 		religion = theravada
-		size= 8838
+		size= 5738
 	}
 
 }
@@ -287,7 +287,7 @@
 	{
 		culture = lao
 		religion = animist
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -329,7 +329,7 @@
 	{
 		culture = lao
 		religion = animist
-		size= 10935
+		size= 14035
 	}
 
 }
@@ -396,7 +396,7 @@
 	{
 		culture = lao
 		religion = animist
-		size= 1033
+		size= 799
 	}
 
 	artisans=
@@ -438,7 +438,7 @@
 	{
 		culture = lao
 		religion = animist
-		size= 31503
+		size= 31737
 	}
 
 }

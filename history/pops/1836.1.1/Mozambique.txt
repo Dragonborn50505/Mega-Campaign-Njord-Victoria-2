@@ -965,7 +965,7 @@
 	{
 		culture = nyasa
 		religion = shamanism
-		size= 306
+		size= 1033
 	}
 
 	artisans=
@@ -1007,7 +1007,7 @@
 	{
 		culture = nyasa
 		religion = shamanism
-		size= 11489
+		size= 10762
 	}
 
 	slaves=
@@ -2295,7 +2295,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 898
+		size= 1033
 	}
 
 	artisans=
@@ -2337,7 +2337,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 39329
+		size= 39194
 	}
 
 	slaves=
@@ -2465,7 +2465,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -2507,7 +2507,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 21122
+		size= 24222
 	}
 
 	slaves=

@@ -3,7 +3,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 16533
+		size= 7233
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 23394
+		size= 32694
 	}
 
 	clergymen=
@@ -161,7 +161,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2635
+		size= 4133
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 40231
+		size= 38733
 	}
 
 	soldiers=
@@ -547,7 +547,7 @@
 	{
 		culture = dynamic-greek-culture-num3
 		religion = orthodox
-		size= 9305
+		size= 10333
 	}
 
 	artisans=
@@ -589,7 +589,7 @@
 	{
 		culture = dynamic-greek-culture-num3
 		religion = orthodox
-		size= 74270
+		size= 73242
 	}
 
 	soldiers=
@@ -977,7 +977,7 @@
 	{
 		culture = dynamic-greek-culture-num3
 		religion = orthodox
-		size= 4133
+		size= 1355
 	}
 
 	artisans=
@@ -1019,7 +1019,7 @@
 	{
 		culture = dynamic-greek-culture-num3
 		religion = orthodox
-		size= 26476
+		size= 29254
 	}
 
 	soldiers=
@@ -1070,7 +1070,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7233
+		size= 16533
 	}
 
 	craftsmen=
@@ -1133,7 +1133,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 25375
+		size= 16075
 	}
 
 	soldiers=
@@ -1419,7 +1419,7 @@
 	{
 		culture = dynamic-greek-culture-num1
 		religion = mahayana
-		size= 1033
+		size= 502
 	}
 
 	artisans=
@@ -1461,7 +1461,7 @@
 	{
 		culture = dynamic-greek-culture-num1
 		religion = mahayana
-		size= 11655
+		size= 12186
 	}
 
 	soldiers=
@@ -1899,7 +1899,7 @@
 	{
 		culture = dynamic-greek-culture-num1
 		religion = catholic
-		size= 1261
+		size= 4133
 	}
 
 	artisans=
@@ -1941,7 +1941,7 @@
 	{
 		culture = dynamic-greek-culture-num1
 		religion = catholic
-		size= 20314
+		size= 17442
 	}
 
 	soldiers=
@@ -2197,7 +2197,7 @@
 	{
 		culture = dynamic-greek-culture-num3
 		religion = orthodox
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -2239,7 +2239,7 @@
 	{
 		culture = dynamic-greek-culture-num3
 		religion = orthodox
-		size= 23377
+		size= 20277
 	}
 
 	soldiers=
@@ -2812,7 +2812,7 @@
 	{
 		culture = turkish
 		religion = orthodox
-		size= 4133
+		size= 1579
 	}
 
 	artisans=
@@ -2854,7 +2854,7 @@
 	{
 		culture = turkish
 		religion = orthodox
-		size= 33596
+		size= 36150
 	}
 
 	soldiers=
@@ -2912,7 +2912,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4133
+		size= 2482
 	}
 
 	artisans=
@@ -2954,7 +2954,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 57624
+		size= 59275
 	}
 
 	soldiers=
@@ -3012,7 +3012,7 @@
 	{
 		culture = dynamic-greek-culture-num3
 		religion = orthodox
-		size= 13433
+		size= 4133
 	}
 
 	artisans=
@@ -3054,7 +3054,7 @@
 	{
 		culture = dynamic-greek-culture-num3
 		religion = orthodox
-		size= 7108
+		size= 16408
 	}
 
 }
@@ -3212,7 +3212,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4133
+		size= 1763
 	}
 
 	artisans=
@@ -3254,7 +3254,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 39671
+		size= 42041
 	}
 
 	soldiers=
@@ -3305,7 +3305,7 @@
 	{
 		culture = greek
 		religion = sunni
-		size= 1033
+		size= 601
 	}
 
 	artisans=
@@ -3347,7 +3347,7 @@
 	{
 		culture = greek
 		religion = sunni
-		size= 14541
+		size= 14973
 	}
 
 	soldiers=
@@ -3847,7 +3847,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 1033
+		size= 497
 	}
 
 	artisans=
@@ -3889,7 +3889,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 12010
+		size= 12546
 	}
 
 	soldiers=
@@ -4632,7 +4632,7 @@
 	{
 		culture = dynamic-al_suryah_arabic-culture-num3
 		religion = sunni
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -4674,7 +4674,7 @@
 	{
 		culture = dynamic-al_suryah_arabic-culture-num3
 		religion = sunni
-		size= 39779
+		size= 42879
 	}
 
 	soldiers=
@@ -4965,7 +4965,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 1033
+		size= 441
 	}
 
 	artisans=
@@ -5007,7 +5007,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 10105
+		size= 10697
 	}
 
 	soldiers=
@@ -5114,7 +5114,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 4133
+		size= 1637
 	}
 
 	artisans=
@@ -5156,7 +5156,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 38315
+		size= 40811
 	}
 
 	soldiers=

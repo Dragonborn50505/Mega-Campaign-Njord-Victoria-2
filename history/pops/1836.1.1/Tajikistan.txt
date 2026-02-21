@@ -215,7 +215,7 @@
 	{
 		culture = tajik
 		religion = mahayana
-		size= 370
+		size= 1033
 	}
 
 	artisans=
@@ -257,7 +257,7 @@
 	{
 		culture = tajik
 		religion = mahayana
-		size= 12009
+		size= 11346
 	}
 
 }

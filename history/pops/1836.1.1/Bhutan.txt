@@ -66,7 +66,7 @@
 	{
 		culture = nepali
 		religion = hindu
-		size= 4133
+		size= 1296
 	}
 
 	artisans=
@@ -108,7 +108,7 @@
 	{
 		culture = nepali
 		religion = hindu
-		size= 13065
+		size= 15902
 	}
 
 }

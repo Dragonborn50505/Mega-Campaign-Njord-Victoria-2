@@ -3,7 +3,7 @@
 	{
 		culture = galician
 		religion = catholic
-		size= 10333
+		size= 8554
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = galician
 		religion = catholic
-		size= 74140
+		size= 75919
 	}
 
 	soldiers=
@@ -103,7 +103,7 @@
 	{
 		culture = galician
 		religion = catholic
-		size= 3971
+		size= 4133
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = galician
 		religion = catholic
-		size= 35247
+		size= 35085
 	}
 
 	soldiers=

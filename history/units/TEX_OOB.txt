@@ -409,9 +409,9 @@ army = {
 	name="3rd Army"
 	location=116
 	regiment = {
-		name="1st Chicago Artillery"
+		name="1st Fayetteville Artillery"
 		type=artillery
-		home=163
+		home=145
 	}
 	regiment = {
 		name="1st Evansville Artillery"
@@ -424,8 +424,18 @@ army = {
 	name="1st Army"
 	location=144
 	regiment = {
-		name="1st New Orleans Infantry"
+		name="1st Chicago Infantry"
 		type=infantry
+		home=163
+	}
+	regiment = {
+		name="1st Peoria Artillery"
+		type=artillery
+		home=166
+	}
+	regiment = {
+		name="1st New Orleans Artillery"
+		type=artillery
 		home=139
 	}
 	regiment = {
@@ -434,24 +444,14 @@ army = {
 		home=169
 	}
 	regiment = {
-		name="1st Peoria Artillery"
-		type=artillery
-		home=166
-	}
-	regiment = {
-		name="1st Fayetteville Artillery"
-		type=artillery
-		home=145
-	}
-	regiment = {
 		name="1st Kansas City Infantry"
 		type=infantry
 		home=150
 	}
 	regiment = {
-		name="1st Champaign Artillery"
+		name="1st St Louis Artillery"
 		type=artillery
-		home=165
+		home=146
 	}
 }
 
@@ -459,24 +459,24 @@ army = {
 	name="6th Army"
 	location=120
 	regiment = {
-		name="1st Indianapolis Infantry"
+		name="1st Peoria Infantry"
 		type=infantry
-		home=169
+		home=166
+	}
+	regiment = {
+		name="1st Champaign Artillery"
+		type=artillery
+		home=165
+	}
+	regiment = {
+		name="1st Chicago Artillery"
+		type=artillery
+		home=163
 	}
 	regiment = {
 		name="2nd Chicago Artillery"
 		type=artillery
 		home=163
-	}
-	regiment = {
-		name="3rd Chicago Artillery"
-		type=artillery
-		home=163
-	}
-	regiment = {
-		name="1st Jefferson City Artillery"
-		type=artillery
-		home=149
 	}
 }
 
@@ -484,17 +484,17 @@ army = {
 	name="Republican Guard"
 	location=116
 	regiment = {
-		name="1st Chicago Infantry"
-		type=infantry
-		home=163
-	}
-	regiment = {
 		name="2nd Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
 		name="3rd Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
+		name="4th Chicago Infantry"
 		type=infantry
 		home=163
 	}

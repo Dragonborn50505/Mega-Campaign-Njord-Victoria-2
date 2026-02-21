@@ -373,7 +373,7 @@ navy = {
 	name="1st Fleet"
 	location=2454
 	ship = {
-		name="1st Wallis and Futuna Clipper Transport"
+		name="1st Taveuni Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -382,7 +382,7 @@ navy = {
 	name="3rd Fleet"
 	location=3179
 	ship = {
-		name="1st Wallis and Futuna Frigate"
+		name="1st Taveuni Frigate"
 		type=frigate
 	}
 	ship = {

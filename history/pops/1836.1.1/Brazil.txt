@@ -2808,7 +2808,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1033
+		size= 52
 	}
 
 	artisans=
@@ -2850,7 +2850,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 336
+		size= 1317
 	}
 
 	soldiers=
@@ -3122,7 +3122,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -3164,7 +3164,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 5309
+		size= 8409
 	}
 
 }
@@ -3764,7 +3764,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 9702
+		size= 7055
 	}
 
 	slaves=
@@ -3778,7 +3778,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1486
+		size= 4133
 	}
 
 	artisans=
@@ -4078,7 +4078,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 7749
+		size= 8129
 	}
 
 	artisans=
@@ -4120,7 +4120,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1033
+		size= 653
 	}
 
 }
@@ -4157,14 +4157,14 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 37591
+		size= 40270
 	}
 
 	soldiers=
 	{
 		culture = platinean
 		religion = protestant
-		size= 4133
+		size= 1454
 	}
 
 	artisans=
@@ -4257,7 +4257,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 5520
+		size= 4988
 	}
 
 	artisans=
@@ -4299,7 +4299,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 501
+		size= 1033
 	}
 
 	artisans=
@@ -5765,7 +5765,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 5165
+		size= 4286
 	}
 
 	slaves=
@@ -5814,7 +5814,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 154
+		size= 1033
 	}
 
 	soldiers=
@@ -5949,7 +5949,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 666
+		size= 1033
 	}
 
 	artisans=
@@ -5991,7 +5991,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 29016
+		size= 28649
 	}
 
 }

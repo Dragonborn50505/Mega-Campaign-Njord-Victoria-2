@@ -399,7 +399,7 @@ leader = {
 #Armies
 navy = {
 	name="1st Fleet"
-	location=2508
+	location=2509
 	ship = {
 		name="1st Auckland Clipper Transport"
 		type=clipper_transport
@@ -408,13 +408,13 @@ navy = {
 
 navy = {
 	name="2nd Fleet"
-	location=2876
+	location=2878
 	ship = {
-		name="1st Tauranga Frigate"
+		name="1st Auckland Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Auckland Frigate"
+		name="1st Tauranga Frigate"
 		type=frigate
 	}
 }

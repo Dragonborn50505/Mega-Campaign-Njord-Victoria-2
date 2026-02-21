@@ -3,7 +3,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -45,14 +45,14 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 618
+		size= 1550
 	}
 
 	soldiers=
 	{
 		culture = maghrebi
 		religion = protestant
-		size= 1033
+		size= 116
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = maghrebi
 		religion = protestant
-		size= 532
+		size= 1449
 	}
 
 }

@@ -103,7 +103,7 @@
 	{
 		culture = albanian
 		religion = orthodox
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = albanian
 		religion = orthodox
-		size= 25128
+		size= 28228
 	}
 
 	soldiers=
@@ -303,7 +303,7 @@
 	{
 		culture = albanian
 		religion = orthodox
-		size= 1340
+		size= 4133
 	}
 
 	artisans=
@@ -345,7 +345,7 @@
 	{
 		culture = albanian
 		religion = orthodox
-		size= 12965
+		size= 10172
 	}
 
 	soldiers=
@@ -403,7 +403,7 @@
 	{
 		culture = albanian
 		religion = orthodox
-		size= 1375
+		size= 7233
 	}
 
 	artisans=
@@ -445,7 +445,7 @@
 	{
 		culture = albanian
 		religion = orthodox
-		size= 13298
+		size= 7440
 	}
 
 	soldiers=

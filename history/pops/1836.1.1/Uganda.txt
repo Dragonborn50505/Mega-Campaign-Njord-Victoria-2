@@ -399,7 +399,7 @@
 	{
 		culture = luo
 		religion = shamanism
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -441,7 +441,7 @@
 	{
 		culture = luo
 		religion = shamanism
-		size= 13958
+		size= 10858
 	}
 
 	slaves=

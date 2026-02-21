@@ -352,7 +352,7 @@ leader = {
 #Armies
 army = {
 	name="1st Army"
-	location=3319
+	location=3321
 	regiment = {
 		name="1st Aru Irregulars"
 		type=irregular
@@ -387,15 +387,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Davao Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Cebu Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Zamboanga Frigate"
+		name="1st Davao Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aru Frigate"
 		type=frigate
 	}
 	ship = {
@@ -403,15 +403,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Aru Man'o'war"
+		name="1st Marquesas Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Taliabu Frigate"
+		name="1st Zamboanga Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Cebu Clipper Transport"
+		name="2nd Zamboanga Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -424,7 +424,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Davao Frigate"
+		name="2nd Aru Frigate"
 		type=frigate
 	}
 }

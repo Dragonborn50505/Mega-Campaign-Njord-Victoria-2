@@ -409,23 +409,23 @@ navy = {
 	name="2nd Fleet"
 	location=2336
 	ship = {
-		name="1st Palau Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Singapore Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Yap Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Yap Frigate"
+		name="1st Ternate Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palau Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Malacca Clipper Transport"
+		name="1st Ternate Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ternate Clipper Transport"
 		type=clipper_transport
 	}
 }

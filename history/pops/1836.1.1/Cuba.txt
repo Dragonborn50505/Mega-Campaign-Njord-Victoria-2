@@ -138,14 +138,14 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 13433
+		size= 16533
 	}
 
 	farmers=
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 20144
+		size= 17044
 	}
 
 	artisans=

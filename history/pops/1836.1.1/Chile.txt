@@ -1304,7 +1304,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 396
+		size= 1033
 	}
 
 	artisans=
@@ -1346,7 +1346,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 12460
+		size= 11823
 	}
 
 }
@@ -2119,7 +2119,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1033
+		size= 19
 	}
 
 	artisans=
@@ -2161,7 +2161,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 684
+		size= 1698
 	}
 
 }

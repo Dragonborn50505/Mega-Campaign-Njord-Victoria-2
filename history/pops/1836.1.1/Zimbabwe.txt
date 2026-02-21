@@ -3,7 +3,7 @@
 	{
 		culture = shona
 		religion = shamanism
-		size= 1033
+		size= 930
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = shona
 		religion = shamanism
-		size= 8899
+		size= 9002
 	}
 
 	soldiers=
@@ -799,7 +799,7 @@
 	{
 		culture = shona
 		religion = shamanism
-		size= 294
+		size= 1033
 	}
 
 	artisans=
@@ -841,7 +841,7 @@
 	{
 		culture = shona
 		religion = shamanism
-		size= 4734
+		size= 3995
 	}
 
 	soldiers=

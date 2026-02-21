@@ -257,7 +257,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 35133
+		size= 25833
 	}
 
 	artisans=
@@ -299,7 +299,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 20025
+		size= 29325
 	}
 
 }
@@ -2483,7 +2483,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 681
+		size= 1033
 	}
 
 	artisans=
@@ -2525,7 +2525,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 9148
+		size= 8796
 	}
 
 }
@@ -3009,7 +3009,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 36
+		size= 1033
 	}
 
 	artisans=
@@ -3051,7 +3051,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 2763
+		size= 1766
 	}
 
 }
@@ -3123,7 +3123,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 32
+		size= 1033
 	}
 
 	artisans=
@@ -3165,7 +3165,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 2931
+		size= 1930
 	}
 
 }
@@ -3723,7 +3723,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 128
+		size= 1033
 	}
 
 	artisans=
@@ -3765,7 +3765,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 2304
+		size= 1399
 	}
 
 }
@@ -4093,7 +4093,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1033
+		size= 105
 	}
 
 	artisans=
@@ -4135,7 +4135,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 437
+		size= 1365
 	}
 
 }
@@ -5345,7 +5345,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1033
+		size= 38
 	}
 
 	artisans=
@@ -5387,7 +5387,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 206
+		size= 1201
 	}
 
 }
@@ -6108,7 +6108,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 90
+		size= 1033
 	}
 
 	artisans=
@@ -6150,7 +6150,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1454
+		size= 511
 	}
 
 }

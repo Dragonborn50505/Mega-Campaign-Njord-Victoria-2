@@ -3065,28 +3065,28 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 16533
+		size= 10333
 	}
 
 	farmers=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 6563
+		size= 12763
 	}
 
 	soldiers=
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 1033
+		size= 558
 	}
 
 	farmers=
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 16553
+		size= 17028
 	}
 
 	artisans=
@@ -3509,7 +3509,7 @@
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 1276
+		size= 283
 	}
 
 	artisans=
@@ -3537,7 +3537,7 @@
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 40
+		size= 1033
 	}
 
 	bureaucrats=
@@ -4762,7 +4762,7 @@
 	{
 		culture = iroquoian
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -4804,7 +4804,7 @@
 	{
 		culture = iroquoian
 		religion = catholic
-		size= 14751
+		size= 17851
 	}
 
 }
@@ -5428,7 +5428,7 @@
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 1820
+		size= 851
 	}
 
 	artisans=
@@ -5449,7 +5449,7 @@
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 64
+		size= 1033
 	}
 
 	bureaucrats=
@@ -6073,7 +6073,7 @@
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 3994
+		size= 3004
 	}
 
 	artisans=
@@ -6108,7 +6108,7 @@
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 43
+		size= 1033
 	}
 
 	officers=
@@ -6287,7 +6287,7 @@
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 4491
+		size= 1391
 	}
 
 	artisans=
@@ -6322,7 +6322,7 @@
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	officers=

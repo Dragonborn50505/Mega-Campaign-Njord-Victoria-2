@@ -10,14 +10,14 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 536
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = wolof
 		religion = sunni
-		size= 23946
+		size= 23449
 	}
 
 	slaves=

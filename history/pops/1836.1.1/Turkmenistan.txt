@@ -334,7 +334,7 @@
 	{
 		culture = tajik
 		religion = mahayana
-		size= 1033
+		size= 348
 	}
 
 	artisans=
@@ -376,7 +376,7 @@
 	{
 		culture = tajik
 		religion = mahayana
-		size= 5038
+		size= 5723
 	}
 
 	soldiers=
@@ -485,7 +485,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 1033
+		size= 686
 	}
 
 	artisans=
@@ -527,7 +527,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 6174
+		size= 6521
 	}
 
 	soldiers=
@@ -585,7 +585,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4133
+		size= 1711
 	}
 
 	artisans=
@@ -627,7 +627,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 12824
+		size= 15246
 	}
 
 	soldiers=

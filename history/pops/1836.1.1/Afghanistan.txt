@@ -294,7 +294,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 6397
+		size= 7233
 	}
 
 	artisans=
@@ -336,7 +336,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 81047
+		size= 80211
 	}
 
 	slaves=
@@ -517,7 +517,7 @@
 	{
 		culture = persian
 		religion = mahayana
-		size= 2003
+		size= 4133
 	}
 
 	artisans=
@@ -559,7 +559,7 @@
 	{
 		culture = persian
 		religion = mahayana
-		size= 72421
+		size= 70291
 	}
 
 	slaves=
@@ -631,7 +631,7 @@
 	{
 		culture = persian
 		religion = mahayana
-		size= 4133
+		size= 3541
 	}
 
 	artisans=
@@ -673,7 +673,7 @@
 	{
 		culture = persian
 		religion = mahayana
-		size= 75180
+		size= 75772
 	}
 
 }
@@ -689,7 +689,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 1830
+		size= 4133
 	}
 
 	artisans=
@@ -731,7 +731,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 42592
+		size= 40289
 	}
 
 	slaves=

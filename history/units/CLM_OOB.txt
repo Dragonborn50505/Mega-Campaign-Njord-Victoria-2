@@ -466,19 +466,9 @@ army = {
 	name="7th Army"
 	location=2247
 	regiment = {
-		name="1st Casanare Infantry"
-		type=infantry
-		home=2262
-	}
-	regiment = {
 		name="1st Barranquilla Infantry"
 		type=infantry
 		home=2255
-	}
-	regiment = {
-		name="1st Cumaná Infantry"
-		type=infantry
-		home=2267
 	}
 	regiment = {
 		name="1st Curiapo Infantry"
@@ -486,14 +476,24 @@ army = {
 		home=2276
 	}
 	regiment = {
-		name="1st Bogotá Cavalry"
-		type=cavalry
-		home=2247
+		name="1st Tena Infantry"
+		type=infantry
+		home=2284
 	}
 	regiment = {
-		name="1st Angostura Artillery"
+		name="1st Casanare Infantry"
+		type=infantry
+		home=2262
+	}
+	regiment = {
+		name="1st Pasto Cavalry"
+		type=cavalry
+		home=2259
+	}
+	regiment = {
+		name="1st Calabozo Artillery"
 		type=artillery
-		home=2275
+		home=2266
 	}
 	regiment = {
 		name="1st Pasto Infantry"
@@ -501,14 +501,14 @@ army = {
 		home=2259
 	}
 	regiment = {
-		name="1st Managua Cavalry"
+		name="1st Apetina Cavalry"
 		type=cavalry
-		home=2197
+		home=2245
 	}
 	regiment = {
-		name="1st Barranquilla Artillery"
+		name="1st Curiapo Artillery"
 		type=artillery
-		home=2255
+		home=2276
 	}
 }
 
@@ -516,14 +516,14 @@ army = {
 	name="2nd Army"
 	location=2199
 	regiment = {
-		name="1st San Felipe Infantry"
+		name="1st El Encanto Infantry"
 		type=infantry
-		home=2268
+		home=2263
 	}
 	regiment = {
-		name="2nd Casanare Infantry"
+		name="1st Angostura Infantry"
 		type=infantry
-		home=2262
+		home=2275
 	}
 	regiment = {
 		name="1st San José del Guaviare Cavalry"
@@ -531,24 +531,24 @@ army = {
 		home=2260
 	}
 	regiment = {
-		name="1st Cúcuta Artillery"
+		name="1st Obando Artillery"
 		type=artillery
-		home=2251
-	}
-	regiment = {
-		name="2nd Cúcuta Artillery"
-		type=artillery
-		home=2251
-	}
-	regiment = {
-		name="1st Medellín Artillery"
-		type=artillery
-		home=2252
-	}
-	regiment = {
-		name="1st Obando Cavalry"
-		type=cavalry
 		home=2261
+	}
+	regiment = {
+		name="1st Valera Artillery"
+		type=artillery
+		home=2271
+	}
+	regiment = {
+		name="1st Bogotá Artillery"
+		type=artillery
+		home=2247
+	}
+	regiment = {
+		name="1st Maracaibo Cavalry"
+		type=cavalry
+		home=2270
 	}
 }
 
@@ -556,14 +556,14 @@ army = {
 	name="10th Army"
 	location=2280
 	regiment = {
+		name="1st San José del Guaviare Infantry"
+		type=infantry
+		home=2260
+	}
+	regiment = {
 		name="1st Medellín Infantry"
 		type=infantry
 		home=2252
-	}
-	regiment = {
-		name="1st Caracas Infantry"
-		type=infantry
-		home=2264
 	}
 	regiment = {
 		name="1st Barranquilla Cavalry"
@@ -571,19 +571,19 @@ army = {
 		home=2255
 	}
 	regiment = {
-		name="1st El Encanto Artillery"
+		name="1st Coro Artillery"
 		type=artillery
-		home=2263
+		home=2272
 	}
 	regiment = {
-		name="1st Cartagena de Indias Infantry"
+		name="2nd Medellín Infantry"
 		type=infantry
-		home=2254
+		home=2252
 	}
 	regiment = {
-		name="1st Puca Urco Artillery"
+		name="1st Cartagena de Indias Artillery"
 		type=artillery
-		home=2289
+		home=2254
 	}
 }
 
@@ -596,29 +596,29 @@ army = {
 		home=2250
 	}
 	regiment = {
-		name="2nd Bogotá Cavalry"
+		name="1st Puca Urco Cavalry"
 		type=cavalry
-		home=2247
+		home=2289
 	}
 	regiment = {
-		name="1st Coro Artillery"
+		name="1st Caracas Artillery"
 		type=artillery
-		home=2272
+		home=2264
 	}
 	regiment = {
-		name="1st Bogotá Artillery"
+		name="1st Casanare Artillery"
 		type=artillery
-		home=2247
+		home=2262
 	}
 	regiment = {
-		name="1st Calabozo Artillery"
+		name="1st San Felipe Artillery"
 		type=artillery
-		home=2266
+		home=2268
 	}
 	regiment = {
-		name="2nd Barranquilla Infantry"
+		name="1st Caracas Infantry"
 		type=infantry
-		home=2255
+		home=2264
 	}
 }
 
@@ -626,34 +626,34 @@ army = {
 	name="1st Army"
 	location=2246
 	regiment = {
+		name="1st Bogotá Infantry"
+		type=infantry
+		home=2247
+	}
+	regiment = {
+		name="2nd Tena Infantry"
+		type=infantry
+		home=2284
+	}
+	regiment = {
+		name="1st Manizales Cavalry"
+		type=cavalry
+		home=2250
+	}
+	regiment = {
+		name="1st Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+	regiment = {
 		name="1st Zamora Infantry"
 		type=infantry
 		home=2283
 	}
 	regiment = {
-		name="1st Popayán Infantry"
-		type=infantry
-		home=2257
-	}
-	regiment = {
-		name="1st Caracas Cavalry"
+		name="1st Medellín Cavalry"
 		type=cavalry
-		home=2264
-	}
-	regiment = {
-		name="1st Maracaibo Artillery"
-		type=artillery
-		home=2270
-	}
-	regiment = {
-		name="1st Valera Infantry"
-		type=infantry
-		home=2271
-	}
-	regiment = {
-		name="3rd Barranquilla Cavalry"
-		type=cavalry
-		home=2255
+		home=2252
 	}
 }
 
@@ -661,14 +661,14 @@ army = {
 	name="4th Army"
 	location=2255
 	regiment = {
-		name="1st Medellín Cavalry"
+		name="1st Bogotá Cavalry"
 		type=cavalry
-		home=2252
+		home=2247
 	}
 	regiment = {
-		name="2nd Barranquilla Cavalry"
+		name="1st Curiapo Cavalry"
 		type=cavalry
-		home=2255
+		home=2276
 	}
 }
 
@@ -704,7 +704,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Guayaquil Frigate"
+		name="2nd Barranquilla Frigate"
 		type=frigate
 	}
 }
@@ -725,7 +725,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Caracas Frigate"
+		name="2nd Caracas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd David Frigate"
 		type=frigate
 	}
 	ship = {
@@ -733,15 +737,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Paramaribo Frigate"
+		name="2nd Limón Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd KNARKFOLK Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st David Frigate"
+		name="1st San Felipe Frigate"
 		type=frigate
 	}
 }
@@ -750,7 +750,7 @@ navy = {
 	name="13th Fleet"
 	location=2984
 	ship = {
-		name="1st San Felipe Frigate"
+		name="1st Güiria Frigate"
 		type=frigate
 	}
 }
@@ -759,15 +759,11 @@ navy = {
 	name="1st Fleet"
 	location=2922
 	ship = {
-		name="2nd Caracas Frigate"
+		name="1st Cayenne Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Maracaibo Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Guayaquil Frigate"
+		name="1st Georgetown Frigate"
 		type=frigate
 	}
 	ship = {
@@ -775,15 +771,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Coro Frigate"
+		name="1st Buenaventura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Caracas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Essequibo Frigate"
 		type=frigate
 	}
 	ship = {
 		name="1st Matamoros Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Georgetown Frigate"
 		type=frigate
 	}
 }
@@ -792,15 +792,15 @@ navy = {
 	name="8th Fleet"
 	location=2973
 	ship = {
-		name="3rd KNARKFOLK Frigate"
+		name="1st Coro Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Coro Frigate"
+		name="2nd Georgetown Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Maracaibo Frigate"
+		name="1st KNARKFOLK Frigate"
 		type=frigate
 	}
 }
@@ -809,32 +809,32 @@ navy = {
 	name="17th Fleet"
 	location=2970
 	ship = {
-		name="2nd Cartagena de Indias Frigate"
+		name="1st Bluefields Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Penonomé Frigate"
+		name="2nd Bluefields Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Penonomé Frigate"
+		name="1st Barranquilla Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Rivas Frigate"
+		name="1st León Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Managua Frigate"
+		name="1st Liberia Frigate"
 		type=frigate
 	}
 }
 
 navy = {
 	name="16th Fleet"
-	location=2983
+	location=2985
 	ship = {
-		name="2nd Essequibo Frigate"
+		name="3rd Essequibo Frigate"
 		type=frigate
 	}
 }
@@ -871,11 +871,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Limón Frigate"
+		name="4th Essequibo Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Quibdó Frigate"
+		name="1st Paramaribo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Limón Frigate"
 		type=frigate
 	}
 	ship = {
@@ -883,11 +887,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Trinidad Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd San Felipe Frigate"
+		name="2nd Havana Frigate"
 		type=frigate
 	}
 	ship = {
@@ -971,23 +971,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Barranquilla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="4th Georgetown Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Güiria Clipper Transport"
+		name="3rd Curiapo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Essequibo Clipper Transport"
+		name="2nd Coro Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Paramaribo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Tobago Man'o'war"
+		name="4th Essequibo Man'o'war"
 		type=manowar
 	}
 }
@@ -1009,7 +1009,7 @@ navy = {
 	name="6th Fleet"
 	location=2975
 	ship = {
-		name="2nd Essequibo Man'o'war"
+		name="1st Maracaibo Man'o'war"
 		type=manowar
 	}
 }

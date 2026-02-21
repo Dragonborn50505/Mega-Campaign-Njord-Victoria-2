@@ -3,7 +3,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 10333
+		size= 5158
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 36881
+		size= 42056
 	}
 
 	aristocrats=
@@ -194,7 +194,7 @@
 	{
 		culture = bosniak
 		religion = orthodox
-		size= 1033
+		size= 702
 	}
 
 	artisans=
@@ -236,7 +236,7 @@
 	{
 		culture = bosniak
 		religion = orthodox
-		size= 10672
+		size= 11003
 	}
 
 	soldiers=
@@ -287,7 +287,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 1033
+		size= 768
 	}
 
 	artisans=
@@ -329,7 +329,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 12530
+		size= 12795
 	}
 
 	soldiers=
@@ -385,7 +385,7 @@
 	{
 		culture = bosniak
 		religion = orthodox
-		size= 7233
+		size= 1033
 	}
 
 	artisans=
@@ -427,7 +427,7 @@
 	{
 		culture = bosniak
 		religion = orthodox
-		size= 6302
+		size= 12502
 	}
 
 	soldiers=
@@ -478,7 +478,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 16533
+		size= 13433
 	}
 
 	artisans=
@@ -520,7 +520,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 13552
+		size= 16652
 	}
 
 	soldiers=
@@ -762,7 +762,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 724
+		size= 1033
 	}
 
 	artisans=
@@ -804,7 +804,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 11118
+		size= 10809
 	}
 
 	soldiers=
@@ -862,7 +862,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 4133
+		size= 1567
 	}
 
 	artisans=
@@ -904,7 +904,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 12216
+		size= 14782
 	}
 
 	soldiers=

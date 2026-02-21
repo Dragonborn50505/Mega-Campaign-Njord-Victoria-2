@@ -3,7 +3,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 13433
+		size= 16533
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 28099
+		size= 24999
 	}
 
 	soldiers=
@@ -103,7 +103,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 19633
+		size= 7233
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5206
+		size= 17606
 	}
 
 	soldiers=
@@ -203,7 +203,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -245,7 +245,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 12265
+		size= 15365
 	}
 
 	soldiers=
@@ -389,7 +389,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 13433
+		size= 7233
 	}
 
 	artisans=
@@ -431,7 +431,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 22479
+		size= 28679
 	}
 
 	soldiers=
@@ -489,7 +489,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 13433
+		size= 7233
 	}
 
 	artisans=
@@ -531,7 +531,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 23031
+		size= 29231
 	}
 
 	soldiers=
@@ -817,7 +817,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4133
+		size= 2395
 	}
 
 	artisans=
@@ -859,7 +859,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 36212
+		size= 37950
 	}
 
 	soldiers=
@@ -1701,7 +1701,7 @@
 	{
 		culture = dutch
 		religion = animist
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1743,7 +1743,7 @@
 	{
 		culture = dutch
 		religion = animist
-		size= 8682
+		size= 5582
 	}
 
 	soldiers=
@@ -2199,7 +2199,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 4133
+		size= 13433
 	}
 
 	artisans=
@@ -2241,7 +2241,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 13884
+		size= 4584
 	}
 
 	soldiers=
@@ -2297,7 +2297,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 709
+		size= 1033
 	}
 
 	artisans=
@@ -2339,14 +2339,14 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5587
+		size= 5263
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 919
+		size= 1033
 	}
 
 	artisans=
@@ -2388,7 +2388,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5049
+		size= 4935
 	}
 
 }
@@ -2397,7 +2397,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 10333
+		size= 13433
 	}
 
 	artisans=
@@ -2439,7 +2439,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 76366
+		size= 73266
 	}
 
 	soldiers=
@@ -2730,7 +2730,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7233
+		size= 13433
 	}
 
 	artisans=
@@ -2772,7 +2772,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 30409
+		size= 24209
 	}
 
 	soldiers=
@@ -2972,7 +2972,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 8417
+		size= 10333
 	}
 
 	artisans=
@@ -3014,7 +3014,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 76633
+		size= 74717
 	}
 
 	soldiers=
@@ -3221,7 +3221,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 10333
+		size= 4133
 	}
 
 	artisans=
@@ -3263,7 +3263,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 8931
+		size= 15131
 	}
 
 	soldiers=
@@ -3421,7 +3421,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2345
+		size= 10333
 	}
 
 	artisans=
@@ -3463,7 +3463,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 21258
+		size= 13270
 	}
 
 	soldiers=
@@ -3640,7 +3640,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7233
+		size= 7057
 	}
 
 	craftsmen=
@@ -3703,7 +3703,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 57192
+		size= 57368
 	}
 
 	soldiers=
@@ -5508,7 +5508,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 10333
+		size= 22733
 	}
 
 	artisans=
@@ -5550,7 +5550,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 59164
+		size= 46764
 	}
 
 	soldiers=
@@ -7797,7 +7797,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 2330
+		size= 10333
 	}
 
 	artisans=
@@ -7839,7 +7839,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 20825
+		size= 12822
 	}
 
 	soldiers=
@@ -7997,7 +7997,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 50633
+		size= 22733
 	}
 
 	artisans=
@@ -8039,7 +8039,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 35583
+		size= 63483
 	}
 
 	soldiers=

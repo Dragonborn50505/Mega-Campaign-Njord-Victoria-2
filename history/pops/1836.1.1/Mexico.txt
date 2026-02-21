@@ -872,14 +872,14 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 40
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 4054
+		size= 3061
 	}
 
 	farmers=
@@ -4286,7 +4286,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 316
+		size= 1033
 	}
 
 	artisans=
@@ -4328,7 +4328,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 11015
+		size= 10298
 	}
 
 }
@@ -7042,7 +7042,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 4133
+		size= 1714
 	}
 
 	artisans=
@@ -7084,7 +7084,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 13731
+		size= 16150
 	}
 
 	soldiers=
@@ -8081,7 +8081,7 @@
 	{
 		culture = zapotec
 		religion = protestant
-		size= 450
+		size= 1033
 	}
 
 	artisans=
@@ -8123,7 +8123,7 @@
 	{
 		culture = zapotec
 		religion = protestant
-		size= 3178
+		size= 2595
 	}
 
 }
@@ -8316,7 +8316,7 @@
 	{
 		culture = zapotec
 		religion = protestant
-		size= 1033
+		size= 245
 	}
 
 	artisans=
@@ -8358,7 +8358,7 @@
 	{
 		culture = zapotec
 		religion = protestant
-		size= 2329
+		size= 3117
 	}
 
 	bureaucrats=
@@ -8556,7 +8556,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -8598,7 +8598,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 28316
+		size= 25216
 	}
 
 }

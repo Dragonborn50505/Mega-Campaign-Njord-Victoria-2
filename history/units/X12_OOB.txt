@@ -436,12 +436,12 @@ army = {
 		home=1270
 	}
 	regiment = {
-		name="1st Udaipur Irregulars"
+		name="2nd Gwalior Irregulars"
 		type=irregular
-		home=1269
+		home=1270
 	}
 	regiment = {
-		name="2nd Gwalior Irregulars"
+		name="3rd Gwalior Irregulars"
 		type=irregular
 		home=1270
 	}
@@ -451,19 +451,19 @@ army = {
 		home=1269
 	}
 	regiment = {
-		name="1st Gwalior Artillery"
+		name="1st Udaipur Artillery"
 		type=artillery
-		home=1270
+		home=1269
 	}
 	regiment = {
-		name="3rd Gwalior Irregulars"
+		name="4th Gwalior Irregulars"
 		type=irregular
 		home=1270
 	}
 	regiment = {
-		name="1st Gwalior Cavalry"
+		name="2nd Udaipur Cavalry"
 		type=cavalry
-		home=1270
+		home=1269
 	}
 	regiment = {
 		name="3rd Udaipur Artillery"
@@ -476,14 +476,14 @@ army = {
 	name="3rd Army"
 	location=1270
 	regiment = {
-		name="1st Udaipur Artillery"
+		name="2nd Udaipur Artillery"
 		type=artillery
 		home=1269
 	}
 	regiment = {
-		name="2nd Udaipur Artillery"
+		name="1st Indore Artillery"
 		type=artillery
-		home=1269
+		home=1271
 	}
 }
 

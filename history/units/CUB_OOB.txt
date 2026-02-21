@@ -447,28 +447,53 @@ army = {
 		home=2210
 	}
 	regiment = {
-		name="1st Port Au Prince Infantry"
-		type=infantry
-		home=2213
-	}
-	regiment = {
 		name="1st Jamaica Infantry"
 		type=infantry
 		home=2217
 	}
 	regiment = {
-		name="1st Jagua Cavalry"
-		type=cavalry
-		home=2210
+		name="2nd Jamaica Infantry"
+		type=infantry
+		home=2217
 	}
 	regiment = {
-		name="1st Jamaica Cavalry"
+		name="1st Port Au Prince Cavalry"
 		type=cavalry
-		home=2217
+		home=2213
+	}
+	regiment = {
+		name="1st Havana Cavalry"
+		type=cavalry
+		home=2209
+	}
+	regiment = {
+		name="1st Jagua Artillery"
+		type=artillery
+		home=2210
 	}
 	regiment = {
 		name="1st Havana Artillery"
 		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="1st Guadeloupe Artillery"
+		type=artillery
+		home=2230
+	}
+	regiment = {
+		name="1st Puerto Rico Artillery"
+		type=artillery
+		home=2222
+	}
+	regiment = {
+		name="1st Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
+		name="2nd Havana Cavalry"
+		type=cavalry
 		home=2209
 	}
 	regiment = {
@@ -478,31 +503,6 @@ army = {
 	}
 	regiment = {
 		name="3rd Havana Artillery"
-		type=artillery
-		home=2209
-	}
-	regiment = {
-		name="4th Havana Artillery"
-		type=artillery
-		home=2209
-	}
-	regiment = {
-		name="1st Guadeloupe Infantry"
-		type=infantry
-		home=2230
-	}
-	regiment = {
-		name="1st Puerto Rico Cavalry"
-		type=cavalry
-		home=2222
-	}
-	regiment = {
-		name="1st Port Au Prince Artillery"
-		type=artillery
-		home=2213
-	}
-	regiment = {
-		name="5th Havana Artillery"
 		type=artillery
 		home=2209
 	}
@@ -584,7 +584,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Puerto Rico Man'o'war"
+		name="3rd Aruba Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -633,7 +633,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Curacao Man'o'war"
+		name="4th Puerto Rico Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -677,15 +677,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st La Vega Frigate"
+		name="2nd Recife Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Barbados Frigate"
+		name="1st Antigua & Barbuda Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Georgetown Frigate"
+		name="1st New Orleans Frigate"
 		type=frigate
 	}
 }

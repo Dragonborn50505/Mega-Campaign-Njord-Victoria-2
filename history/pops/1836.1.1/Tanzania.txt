@@ -513,7 +513,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 240
+		size= 1033
 	}
 
 	artisans=
@@ -555,7 +555,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 8288
+		size= 7495
 	}
 
 	slaves=
@@ -676,7 +676,7 @@
 	{
 		culture = yao
 		religion = shamanism
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -718,7 +718,7 @@
 	{
 		culture = yao
 		religion = shamanism
-		size= 11809
+		size= 8709
 	}
 
 	slaves=
@@ -888,7 +888,7 @@
 	{
 		culture = makua
 		religion = shamanism
-		size= 1033
+		size= 518
 	}
 
 	artisans=
@@ -930,7 +930,7 @@
 	{
 		culture = makua
 		religion = shamanism
-		size= 18165
+		size= 18680
 	}
 
 	slaves=
@@ -1988,7 +1988,7 @@
 	{
 		culture = swahili
 		religion = shamanism
-		size= 1033
+		size= 531
 	}
 
 	artisans=
@@ -2030,7 +2030,7 @@
 	{
 		culture = swahili
 		religion = shamanism
-		size= 18457
+		size= 18959
 	}
 
 	slaves=

@@ -402,9 +402,24 @@ army = {
 	name="6th Army"
 	location=2141
 	regiment = {
-		name="1st Los Angeles Infantry"
+		name="1st Nogales Infantry"
 		type=infantry
-		home=89
+		home=2137
+	}
+	regiment = {
+		name="1st Guaymas Cavalry"
+		type=cavalry
+		home=2141
+	}
+	regiment = {
+		name="1st Nogales Artillery"
+		type=artillery
+		home=2137
+	}
+	regiment = {
+		name="1st Sacramento Infantry"
+		type=infantry
+		home=84
 	}
 	regiment = {
 		name="1st Nogales Cavalry"
@@ -412,24 +427,9 @@ army = {
 		home=2137
 	}
 	regiment = {
-		name="1st Sacramento Artillery"
+		name="1st Guaymas Artillery"
 		type=artillery
-		home=84
-	}
-	regiment = {
-		name="1st Guaymas Infantry"
-		type=infantry
 		home=2141
-	}
-	regiment = {
-		name="2nd Nogales Cavalry"
-		type=cavalry
-		home=2137
-	}
-	regiment = {
-		name="1st Nogales Artillery"
-		type=artillery
-		home=2137
 	}
 }
 

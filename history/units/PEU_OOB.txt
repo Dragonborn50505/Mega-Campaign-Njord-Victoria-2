@@ -416,19 +416,19 @@ army = {
 	name="1st Army"
 	location=2315
 	regiment = {
-		name="1st Ica Infantry"
+		name="1st San Ignacio Infantry"
 		type=infantry
-		home=2297
+		home=2317
 	}
 	regiment = {
-		name="1st Pucallpa Infantry"
+		name="1st Puno Infantry"
 		type=infantry
-		home=2300
+		home=2303
 	}
 	regiment = {
-		name="1st Arequipa Cavalry"
+		name="1st Iquitos Cavalry"
 		type=cavalry
-		home=2304
+		home=2286
 	}
 	regiment = {
 		name="1st Puno Artillery"
@@ -436,24 +436,24 @@ army = {
 		home=2303
 	}
 	regiment = {
-		name="1st Chuquisaca Artillery"
+		name="1st Iquitos Artillery"
 		type=artillery
-		home=2313
+		home=2286
 	}
 	regiment = {
-		name="2nd Arequipa Cavalry"
+		name="1st Potosí Cavalry"
 		type=cavalry
-		home=2304
+		home=2314
 	}
 	regiment = {
-		name="3rd Arequipa Cavalry"
+		name="1st La Paz Cavalry"
 		type=cavalry
-		home=2304
+		home=2310
 	}
 	regiment = {
-		name="1st Cusco Artillery"
+		name="1st Cobija Artillery"
 		type=artillery
-		home=2302
+		home=2321
 	}
 }
 
@@ -486,14 +486,14 @@ army = {
 	name="2nd Army"
 	location=2295
 	regiment = {
+		name="2nd Puno Infantry"
+		type=infantry
+		home=2303
+	}
+	regiment = {
 		name="1st La Paz Infantry"
 		type=infantry
 		home=2310
-	}
-	regiment = {
-		name="1st Cusco Infantry"
-		type=infantry
-		home=2302
 	}
 	regiment = {
 		name="2nd La Paz Infantry"
@@ -501,24 +501,24 @@ army = {
 		home=2310
 	}
 	regiment = {
-		name="1st Ayacucho Artillery"
+		name="1st Cochabamba Artillery"
 		type=artillery
+		home=2311
+	}
+	regiment = {
+		name="1st Chuquisaca Artillery"
+		type=artillery
+		home=2313
+	}
+	regiment = {
+		name="1st Ayacucho Infantry"
+		type=infantry
 		home=2299
 	}
 	regiment = {
-		name="1st La Paz Artillery"
+		name="1st Pucallpa Artillery"
 		type=artillery
-		home=2310
-	}
-	regiment = {
-		name="1st Puno Infantry"
-		type=infantry
-		home=2303
-	}
-	regiment = {
-		name="2nd La Paz Artillery"
-		type=artillery
-		home=2310
+		home=2300
 	}
 }
 

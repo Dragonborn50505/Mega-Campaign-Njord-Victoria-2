@@ -585,7 +585,7 @@
 	{
 		culture = dynamic-scottish-culture-num1
 		religion = catholic
-		size= 10333
+		size= 845
 	}
 
 	artisans=
@@ -627,7 +627,7 @@
 	{
 		culture = dynamic-scottish-culture-num1
 		religion = catholic
-		size= 61631
+		size= 71119
 	}
 
 	soldiers=
@@ -829,7 +829,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 4602
+		size= 10333
 	}
 
 	artisans=
@@ -871,7 +871,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 43286
+		size= 37555
 	}
 
 	soldiers=
@@ -978,7 +978,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -1020,7 +1020,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 8804
+		size= 11904
 	}
 
 	soldiers=
@@ -1120,7 +1120,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 16533
+		size= 10333
 	}
 
 	artisans=
@@ -1162,14 +1162,14 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 6641
+		size= 12841
 	}
 
 	soldiers=
 	{
 		culture = welsh
 		religion = protestant
-		size= 4133
+		size= 1392
 	}
 
 	artisans=
@@ -1211,7 +1211,7 @@
 	{
 		culture = welsh
 		religion = protestant
-		size= 8699
+		size= 11440
 	}
 
 	soldiers=
@@ -1269,7 +1269,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 7233
+		size= 13433
 	}
 
 	artisans=
@@ -1311,7 +1311,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 24009
+		size= 17809
 	}
 
 	soldiers=
@@ -1804,7 +1804,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 35133
+		size= 22733
 	}
 
 	artisans=
@@ -1846,7 +1846,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 27455
+		size= 39855
 	}
 
 	soldiers=
@@ -1904,7 +1904,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 19633
+		size= 7233
 	}
 
 	artisans=
@@ -1946,7 +1946,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 33627
+		size= 46027
 	}
 
 	soldiers=
@@ -2004,7 +2004,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 13433
+		size= 7927
 	}
 
 	artisans=
@@ -2046,7 +2046,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 67051
+		size= 72557
 	}
 
 	soldiers=
@@ -2304,7 +2304,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 4133
+		size= 3656
 	}
 
 	artisans=
@@ -2346,7 +2346,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 32242
+		size= 32719
 	}
 
 	soldiers=
@@ -2504,7 +2504,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 5741
+		size= 19633
 	}
 
 	artisans=
@@ -2546,7 +2546,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 51345
+		size= 37453
 	}
 
 	soldiers=
@@ -2604,7 +2604,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 28933
+		size= 4822
 	}
 
 	artisans=
@@ -2646,7 +2646,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 18995
+		size= 43106
 	}
 
 	soldiers=
@@ -2704,7 +2704,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 22733
+		size= 25833
 	}
 
 	artisans=
@@ -2746,7 +2746,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 21171
+		size= 18071
 	}
 
 	soldiers=
@@ -2804,7 +2804,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 25833
+		size= 3421
 	}
 
 	artisans=
@@ -2846,7 +2846,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 9779
+		size= 32191
 	}
 
 	soldiers=
@@ -2902,7 +2902,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 19633
+		size= 13433
 	}
 
 	artisans=
@@ -2944,7 +2944,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 7917
+		size= 14117
 	}
 
 }
@@ -3302,7 +3302,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -3344,7 +3344,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 29285
+		size= 32385
 	}
 
 	soldiers=
@@ -3402,7 +3402,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 7233
+		size= 16533
 	}
 
 	artisans=
@@ -3444,7 +3444,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 39388
+		size= 30088
 	}
 
 	soldiers=
@@ -3602,7 +3602,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 13433
+		size= 19633
 	}
 
 	artisans=
@@ -3644,7 +3644,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 34480
+		size= 28280
 	}
 
 	soldiers=
@@ -3751,7 +3751,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 19633
+		size= 32033
 	}
 
 	artisans=
@@ -3793,7 +3793,7 @@
 	{
 		culture = welsh
 		religion = catholic
-		size= 81193
+		size= 68793
 	}
 
 	soldiers=
@@ -4142,7 +4142,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 13433
+		size= 25833
 	}
 
 	artisans=
@@ -4184,7 +4184,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 32988
+		size= 20588
 	}
 
 	soldiers=
@@ -4242,7 +4242,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -4284,7 +4284,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 30572
+		size= 33672
 	}
 
 	soldiers=

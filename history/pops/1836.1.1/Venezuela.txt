@@ -373,7 +373,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 2026
+		size= 2709
 	}
 
 	slaves=
@@ -408,7 +408,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 1033
+		size= 350
 	}
 
 	bureaucrats=
@@ -1518,7 +1518,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 11501
+		size= 5301
 	}
 
 	slaves=
@@ -1553,7 +1553,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 1033
+		size= 7233
 	}
 
 	bureaucrats=

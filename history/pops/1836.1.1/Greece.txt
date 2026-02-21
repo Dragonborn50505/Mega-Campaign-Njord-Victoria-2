@@ -3,7 +3,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4133
+		size= 7233
 	}
 
 	craftsmen=
@@ -59,7 +59,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 51311
+		size= 48211
 	}
 
 	clergymen=
@@ -342,7 +342,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2759
+		size= 4133
 	}
 
 	artisans=
@@ -384,7 +384,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 39121
+		size= 37747
 	}
 
 	soldiers=
@@ -688,7 +688,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2513
+		size= 4133
 	}
 
 	artisans=
@@ -730,7 +730,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 34477
+		size= 32857
 	}
 
 }
@@ -1556,7 +1556,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 457
+		size= 1033
 	}
 
 	artisans=
@@ -1598,7 +1598,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 10583
+		size= 10007
 	}
 
 	soldiers=

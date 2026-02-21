@@ -387,9 +387,9 @@ leader = {
 #Armies
 navy = {
 	name="1st Fleet"
-	location=2546
+	location=2544
 	ship = {
-		name="1st Pago Pago Clipper Transport"
+		name="1st Tongareva Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -371,9 +371,9 @@ army = {
 	name="4th Army"
 	location=1307
 	regiment = {
-		name="1st Warangal Irregulars"
+		name="1st Gulbarga Irregulars"
 		type=irregular
-		home=1287
+		home=1286
 	}
 	regiment = {
 		name="1st Hyderabad Irregulars"
@@ -386,19 +386,19 @@ army = {
 		home=1283
 	}
 	regiment = {
-		name="1st Warangal Artillery"
-		type=artillery
-		home=1287
-	}
-	regiment = {
-		name="2nd Warangal Irregulars"
-		type=irregular
-		home=1287
-	}
-	regiment = {
-		name="2nd Gulbarga Artillery"
+		name="1st Gulbarga Artillery"
 		type=artillery
 		home=1286
+	}
+	regiment = {
+		name="2nd Gulbarga Irregulars"
+		type=irregular
+		home=1286
+	}
+	regiment = {
+		name="2nd Hyderabad Artillery"
+		type=artillery
+		home=1283
 	}
 }
 
@@ -406,14 +406,14 @@ army = {
 	name="1st Army"
 	location=1286
 	regiment = {
-		name="2nd Hyderabad Irregulars"
+		name="1st Kurnool Irregulars"
 		type=irregular
-		home=1283
+		home=1308
 	}
 	regiment = {
-		name="1st Nellore Irregulars"
+		name="1st Warangal Irregulars"
 		type=irregular
-		home=1307
+		home=1287
 	}
 	regiment = {
 		name="1st Kurnool Artillery"
@@ -421,14 +421,14 @@ army = {
 		home=1308
 	}
 	regiment = {
-		name="1st Gulbarga Artillery"
+		name="2nd Kurnool Artillery"
 		type=artillery
-		home=1286
+		home=1308
 	}
 	regiment = {
-		name="2nd Warangal Artillery"
+		name="2nd Gulbarga Artillery"
 		type=artillery
-		home=1287
+		home=1286
 	}
 }
 

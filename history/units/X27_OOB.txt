@@ -411,22 +411,22 @@ army = {
 		home=22
 	}
 	regiment = {
-		name="1st Buckingham House Cavalry"
+		name="1st Fort Bonneville Cavalry"
 		type=cavalry
-		home=22
-	}
-	regiment = {
-		name="1st Fort Bonneville Artillery"
-		type=artillery
 		home=111
 	}
 	regiment = {
-		name="3rd Buckingham House Infantry"
-		type=infantry
+		name="1st Buckingham House Artillery"
+		type=artillery
 		home=22
 	}
 	regiment = {
-		name="2nd Buckingham House Cavalry"
+		name="1st Fort Hall Infantry"
+		type=infantry
+		home=93
+	}
+	regiment = {
+		name="1st Buckingham House Cavalry"
 		type=cavalry
 		home=22
 	}
@@ -436,12 +436,12 @@ army = {
 		home=81
 	}
 	regiment = {
-		name="1st Buckingham House Artillery"
+		name="2nd Buckingham House Artillery"
 		type=artillery
 		home=22
 	}
 	regiment = {
-		name="2nd Buckingham House Artillery"
+		name="3rd Buckingham House Artillery"
 		type=artillery
 		home=22
 	}
@@ -456,7 +456,7 @@ army = {
 		home=22
 	}
 	regiment = {
-		name="4th Buckingham House Infantry"
+		name="3rd Buckingham House Infantry"
 		type=infantry
 		home=22
 	}
@@ -464,21 +464,21 @@ army = {
 
 navy = {
 	name="4th Fleet"
-	location=3133
+	location=3132
 	ship = {
-		name="3rd Oregon City Frigate"
+		name="2nd Oregon City Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Oregon City Frigate"
+		name="4th New Arkhangelsk Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Oregon City Frigate"
+		name="1st Fort Umpqua Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Oregon City Frigate"
+		name="2nd Fort Vancouver Frigate"
 		type=frigate
 	}
 }
@@ -491,7 +491,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Tanjore Clipper Transport"
+		name="1st Fort Nisqually Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort Umpqua Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -499,11 +503,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Oregon City Clipper Transport"
+		name="1st New Arkhangelsk Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kasilof Clipper Transport"
+		name="2nd Fort Umpqua Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -511,19 +515,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Pondicherry Clipper Transport"
+		name="3rd Fort Umpqua Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st New Arkhangelsk Clipper Transport"
+		name="4th Fort Umpqua Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Kasilof Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Oregon City Clipper Transport"
+		name="5th Fort Umpqua Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -477,7 +477,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Meakan Clipper Transport"
+		name="1st Kobe Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -485,27 +485,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sendai Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Shizuoka Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Matsuyama Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Kastamonu Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Shizuoka Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Aomori Clipper Transport"
+		name="1st Fukushima Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -513,19 +493,47 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Shizuoka Clipper Transport"
+		name="1st Al Arish Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Morioka Clipper Transport"
+		name="1st Sendai Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Wakayama Clipper Transport"
+		name="1st Matsuyama Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Fukushima Clipper Transport"
+		name="2nd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chios Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Matsuyama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kobe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kastamonu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yokohama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hiroshima Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -533,35 +541,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Wakayama Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Shizuoka Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Okayama Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Sendai Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Hakodate Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Okayama Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Aomori Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Hakodate Clipper Transport"
+		name="1st Chiba Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -569,12 +549,32 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Kagoshima Man'o'war"
+		name="4th Fukushima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sendai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chios Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kumamoto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Meakan Man'o'war"
 		type=manowar
 	}
 	ship = {
 		name="Momo"
 		type=frigate
+	}
+	ship = {
+		name="1st Kochi Clipper Transport"
+		type=clipper_transport
 	}
 }
 
@@ -582,24 +582,24 @@ army = {
 	name="JP PMCs"
 	location=1462
 	regiment = {
-		name="1st Kyoto Irregulars"
+		name="1st Niigata Irregulars"
 		type=irregular
-		home=1657
+		home=1645
 	}
 	regiment = {
-		name="1st Shizuoka Irregulars"
+		name="1st Kanazawa Irregulars"
 		type=irregular
-		home=1676
+		home=1646
 	}
 	regiment = {
-		name="1st Fukui Irregulars"
+		name="1st Nara Irregulars"
 		type=irregular
-		home=1647
+		home=1658
 	}
 	regiment = {
-		name="1st Yamagata Irregulars"
+		name="1st Nagoya Irregulars"
 		type=irregular
-		home=1673
+		home=1675
 	}
 }
 
@@ -611,15 +611,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Sendai Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Yokohama Clipper Transport"
+		name="1st Yamagata Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="2nd Akita Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aomori Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -628,29 +628,29 @@ army = {
 	name="Mauritius Gun"
 	location=2121
 	regiment = {
-		name="1st Kochi Irregulars"
+		name="2nd Nara Irregulars"
 		type=irregular
-		home=1665
-	}
-	regiment = {
-		name="1st Yamagata Artillery"
-		type=artillery
-		home=1673
-	}
-	regiment = {
-		name="1st Tokushima Irregulars"
-		type=irregular
-		home=1667
-	}
-	regiment = {
-		name="1st Akita Artillery"
-		type=artillery
-		home=1671
+		home=1658
 	}
 	regiment = {
 		name="1st Kochi Artillery"
 		type=artillery
 		home=1665
+	}
+	regiment = {
+		name="1st Kochi Irregulars"
+		type=irregular
+		home=1665
+	}
+	regiment = {
+		name="1st Nara Artillery"
+		type=artillery
+		home=1658
+	}
+	regiment = {
+		name="1st Chiba Artillery"
+		type=artillery
+		home=1650
 	}
 }
 

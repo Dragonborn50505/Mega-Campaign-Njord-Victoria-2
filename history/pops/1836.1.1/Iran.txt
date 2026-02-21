@@ -787,7 +787,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 874
+		size= 1033
 	}
 
 	artisans=
@@ -829,7 +829,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 20782
+		size= 20623
 	}
 
 }
@@ -1393,7 +1393,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 1033
+		size= 209
 	}
 
 	artisans=
@@ -1435,7 +1435,7 @@
 	{
 		culture = turkish
 		religion = mahayana
-		size= 4099
+		size= 4923
 	}
 
 	soldiers=
@@ -1642,7 +1642,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4133
+		size= 2805
 	}
 
 	artisans=
@@ -1684,7 +1684,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 40096
+		size= 41424
 	}
 
 }
@@ -2697,7 +2697,7 @@
 	{
 		culture = turkmen
 		religion = zoroastrian_heresy
-		size= 123
+		size= 1033
 	}
 
 	artisans=
@@ -2739,7 +2739,7 @@
 	{
 		culture = turkmen
 		religion = zoroastrian_heresy
-		size= 5649
+		size= 4739
 	}
 
 	soldiers=
@@ -2897,7 +2897,7 @@
 	{
 		culture = persian
 		religion = mahayana
-		size= 1033
+		size= 764
 	}
 
 	artisans=
@@ -2939,7 +2939,7 @@
 	{
 		culture = persian
 		religion = mahayana
-		size= 16888
+		size= 17157
 	}
 
 }
@@ -2948,7 +2948,7 @@
 	{
 		culture = turkmen
 		religion = mahayana
-		size= 201
+		size= 1033
 	}
 
 	artisans=
@@ -2990,14 +2990,14 @@
 	{
 		culture = turkmen
 		religion = mahayana
-		size= 4811
+		size= 3979
 	}
 
 	soldiers=
 	{
 		culture = turkmen
 		religion = zoroastrian_heresy
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -3039,7 +3039,7 @@
 	{
 		culture = turkmen
 		religion = zoroastrian_heresy
-		size= 7886
+		size= 4786
 	}
 
 }
@@ -3478,7 +3478,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 2846
+		size= 4133
 	}
 
 	artisans=
@@ -3520,7 +3520,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 55098
+		size= 53811
 	}
 
 	slaves=
@@ -3683,7 +3683,7 @@
 	{
 		culture = persian
 		religion = mahayana
-		size= 911
+		size= 10333
 	}
 
 	artisans=
@@ -3725,7 +3725,7 @@
 	{
 		culture = persian
 		religion = mahayana
-		size= 14404
+		size= 4982
 	}
 
 	soldiers=

@@ -585,7 +585,7 @@
 	{
 		culture = berber
 		religion = protestant
-		size= 707
+		size= 1033
 	}
 
 	artisans=
@@ -620,7 +620,7 @@
 	{
 		culture = berber
 		religion = protestant
-		size= 9121
+		size= 8795
 	}
 
 }
@@ -1648,7 +1648,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 794
+		size= 1033
 	}
 
 	artisans=
@@ -1690,7 +1690,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 12150
+		size= 11911
 	}
 
 	soldiers=

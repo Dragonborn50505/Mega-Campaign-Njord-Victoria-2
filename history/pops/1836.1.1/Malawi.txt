@@ -334,7 +334,7 @@
 	{
 		culture = nyasa
 		religion = shamanism
-		size= 4133
+		size= 939
 	}
 
 	artisans=
@@ -376,7 +376,7 @@
 	{
 		culture = nyasa
 		religion = shamanism
-		size= 4623
+		size= 7817
 	}
 
 	soldiers=

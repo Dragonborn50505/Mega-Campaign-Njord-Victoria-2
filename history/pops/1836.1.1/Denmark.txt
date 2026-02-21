@@ -280,7 +280,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 7233
+		size= 1033
 	}
 
 	artisans=
@@ -322,7 +322,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 2970
+		size= 9170
 	}
 
 	soldiers=
@@ -478,7 +478,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 688
+		size= 1033
 	}
 
 	artisans=
@@ -520,7 +520,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5421
+		size= 5076
 	}
 
 	soldiers=
@@ -678,7 +678,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1524
+		size= 4133
 	}
 
 	artisans=
@@ -720,7 +720,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 13773
+		size= 11164
 	}
 
 	soldiers=
@@ -976,7 +976,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 2111
+		size= 7233
 	}
 
 	artisans=
@@ -1018,7 +1018,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 20588
+		size= 15466
 	}
 
 	soldiers=
@@ -1309,7 +1309,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1033
+		size= 802
 	}
 
 	artisans=
@@ -1351,7 +1351,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4224
+		size= 4455
 	}
 
 }

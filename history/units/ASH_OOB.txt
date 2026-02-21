@@ -352,7 +352,7 @@ leader = {
 #Armies
 army = {
 	name="2nd Army"
-	location=1915
+	location=1911
 	regiment = {
 		name="1st Bondouku Irregulars"
 		type=irregular
@@ -364,14 +364,14 @@ army = {
 		home=1911
 	}
 	regiment = {
-		name="2nd Bondouku Irregulars"
+		name="1st Ho Irregulars"
 		type=irregular
-		home=1899
+		home=1915
 	}
 	regiment = {
-		name="1st Ho Artillery"
+		name="2nd Kintampo Artillery"
 		type=artillery
-		home=1915
+		home=1911
 	}
 }
 

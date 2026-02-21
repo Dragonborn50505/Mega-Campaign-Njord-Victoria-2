@@ -3,7 +3,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 19633
+		size= 16533
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 4529
+		size= 7629
 	}
 
 	soldiers=
@@ -96,7 +96,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 2622
+		size= 19633
 	}
 
 	artisans=
@@ -138,7 +138,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 25437
+		size= 8426
 	}
 
 	soldiers=
@@ -245,7 +245,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 41333
+		size= 22733
 	}
 
 	artisans=
@@ -287,7 +287,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 11963
+		size= 30563
 	}
 
 	soldiers=
@@ -345,7 +345,7 @@
 	{
 		culture = aromanian
 		religion = orthodox
-		size= 22733
+		size= 41333
 	}
 
 	artisans=
@@ -387,7 +387,7 @@
 	{
 		culture = aromanian
 		religion = orthodox
-		size= 27704
+		size= 9104
 	}
 
 }
@@ -396,7 +396,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 32033
+		size= 25833
 	}
 
 	artisans=
@@ -438,7 +438,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 6260
+		size= 12460
 	}
 
 	soldiers=
@@ -489,7 +489,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -531,7 +531,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 5282
+		size= 2182
 	}
 
 }
@@ -540,7 +540,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 25833
+		size= 16533
 	}
 
 	artisans=
@@ -582,7 +582,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 34786
+		size= 44086
 	}
 
 	soldiers=
@@ -726,7 +726,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 4846
+		size= 7233
 	}
 
 	artisans=
@@ -768,7 +768,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 39086
+		size= 36699
 	}
 
 	farmers=
@@ -784,7 +784,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 5338
+		size= 13433
 	}
 
 	artisans=
@@ -826,7 +826,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 42792
+		size= 34697
 	}
 
 	farmers=
@@ -842,7 +842,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 28933
+		size= 16533
 	}
 
 	artisans=
@@ -884,7 +884,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 7808
+		size= 20208
 	}
 
 }

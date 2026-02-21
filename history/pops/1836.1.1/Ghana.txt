@@ -725,7 +725,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 2600
+		size= 4133
 	}
 
 	artisans=
@@ -767,7 +767,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 93917
+		size= 92384
 	}
 
 }

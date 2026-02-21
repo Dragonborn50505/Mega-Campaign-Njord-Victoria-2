@@ -416,9 +416,9 @@ army = {
 	name="6th Army"
 	location=1368
 	regiment = {
-		name="1st Luang Prabang Irregulars"
+		name="1st Udon Thani Irregulars"
 		type=irregular
-		home=1356
+		home=1358
 	}
 	regiment = {
 		name="1st Vientiane Artillery"
@@ -426,17 +426,17 @@ army = {
 		home=1357
 	}
 	regiment = {
-		name="1st Xiangabouli Artillery"
+		name="2nd Vientiane Artillery"
 		type=artillery
-		home=1360
+		home=1357
 	}
 	regiment = {
-		name="1st Salavan Irregulars"
+		name="2nd Udon Thani Irregulars"
 		type=irregular
-		home=1362
+		home=1358
 	}
 	regiment = {
-		name="2nd Xiangabouli Artillery"
+		name="1st Xiangabouli Artillery"
 		type=artillery
 		home=1360
 	}

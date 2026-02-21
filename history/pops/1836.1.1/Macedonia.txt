@@ -3,7 +3,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 38233
+		size= 13433
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 55144
+		size= 79944
 	}
 
 	aristocrats=

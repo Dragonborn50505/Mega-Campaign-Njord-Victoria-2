@@ -316,7 +316,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 1033
+		size= 139
 	}
 
 	artisans=
@@ -358,7 +358,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 1195
+		size= 2089
 	}
 
 	slaves=
@@ -430,7 +430,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 10333
+		size= 13433
 	}
 
 	artisans=
@@ -472,7 +472,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 30503
+		size= 27403
 	}
 
 }
@@ -546,7 +546,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -588,7 +588,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 15672
+		size= 12572
 	}
 
 }

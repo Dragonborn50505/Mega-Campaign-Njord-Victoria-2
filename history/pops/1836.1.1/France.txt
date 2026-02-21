@@ -3,7 +3,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 10333
+		size= 22733
 	}
 
 	craftsmen=
@@ -66,7 +66,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 58123
+		size= 45723
 	}
 
 	soldiers=
@@ -215,7 +215,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 19633
+		size= 22733
 	}
 
 	artisans=
@@ -257,7 +257,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 27841
+		size= 24741
 	}
 
 	soldiers=
@@ -413,7 +413,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 7233
+		size= 22733
 	}
 
 	artisans=
@@ -455,7 +455,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 29153
+		size= 13653
 	}
 
 }
@@ -562,7 +562,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 22733
+		size= 10333
 	}
 
 	artisans=
@@ -604,7 +604,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 24313
+		size= 36713
 	}
 
 }
@@ -664,7 +664,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 10333
+		size= 3248
 	}
 
 	artisans=
@@ -706,7 +706,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 23475
+		size= 30560
 	}
 
 	soldiers=
@@ -864,7 +864,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -906,7 +906,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 41761
+		size= 44861
 	}
 
 }
@@ -1501,7 +1501,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 13433
+		size= 5618
 	}
 
 	artisans=
@@ -1543,7 +1543,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 36804
+		size= 44619
 	}
 
 }
@@ -2065,7 +2065,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 10333
+		size= 13433
 	}
 
 	artisans=
@@ -2107,7 +2107,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 43050
+		size= 39950
 	}
 
 }
@@ -2260,7 +2260,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 10333
+		size= 9292
 	}
 
 	artisans=
@@ -2302,7 +2302,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 73224
+		size= 74265
 	}
 
 }
@@ -2738,7 +2738,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 13433
+		size= 8795
 	}
 
 	artisans=
@@ -2780,7 +2780,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 66020
+		size= 70658
 	}
 
 }
@@ -3240,7 +3240,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 5603
+		size= 7233
 	}
 
 	artisans=
@@ -3282,7 +3282,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 44499
+		size= 42869
 	}
 
 }
@@ -3291,7 +3291,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 10333
+		size= 6900
 	}
 
 	artisans=
@@ -3333,7 +3333,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 52060
+		size= 55493
 	}
 
 }
@@ -3393,7 +3393,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 7233
+		size= 6624
 	}
 
 	artisans=
@@ -3435,7 +3435,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 51426
+		size= 52035
 	}
 
 }
@@ -3444,7 +3444,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 28933
+		size= 19633
 	}
 
 	artisans=
@@ -3486,7 +3486,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 43819
+		size= 53119
 	}
 
 	soldiers=
@@ -3544,7 +3544,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 10333
+		size= 6624
 	}
 
 	artisans=
@@ -3586,7 +3586,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 48958
+		size= 52667
 	}
 
 }
@@ -3646,7 +3646,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 13470
+		size= 19633
 	}
 
 	artisans=
@@ -3688,7 +3688,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 109868
+		size= 103705
 	}
 
 	soldiers=
@@ -3841,7 +3841,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 10333
+		size= 7298
 	}
 
 	artisans=
@@ -3883,7 +3883,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 54927
+		size= 57962
 	}
 
 }
@@ -5061,7 +5061,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 10333
+		size= 4133
 	}
 
 	artisans=
@@ -5103,7 +5103,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 21737
+		size= 27937
 	}
 
 	soldiers=

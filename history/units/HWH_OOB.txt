@@ -362,7 +362,7 @@ navy = {
 	name="1st Fleet"
 	location=2526
 	ship = {
-		name="1st Hawaii Clipper Transport"
+		name="1st Palmyra and Line Islands Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -375,7 +375,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Hawaii Frigate"
+		name="1st Palmyra and Line Islands Frigate"
 		type=frigate
 	}
 }

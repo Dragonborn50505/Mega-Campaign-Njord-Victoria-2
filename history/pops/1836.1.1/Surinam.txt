@@ -166,7 +166,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 1293
+		size= 402
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 142
+		size= 1033
 	}
 
 	bureaucrats=

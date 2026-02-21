@@ -1116,7 +1116,7 @@
 	{
 		culture = somali
 		religion = sunni
-		size= 451
+		size= 1033
 	}
 
 	artisans=
@@ -1158,7 +1158,7 @@
 	{
 		culture = somali
 		religion = sunni
-		size= 12750
+		size= 12168
 	}
 
 }

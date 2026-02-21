@@ -1120,7 +1120,7 @@
 	{
 		culture = kirgiz
 		religion = sunni
-		size= 75
+		size= 1033
 	}
 
 	artisans=
@@ -1162,7 +1162,7 @@
 	{
 		culture = kirgiz
 		religion = sunni
-		size= 3094
+		size= 2136
 	}
 
 	soldiers=
@@ -2260,7 +2260,7 @@
 	{
 		culture = tibetan
 		religion = sunni
-		size= 3078
+		size= 4133
 	}
 
 	artisans=
@@ -2302,7 +2302,7 @@
 	{
 		culture = tibetan
 		religion = sunni
-		size= 27941
+		size= 26886
 	}
 
 	soldiers=

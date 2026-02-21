@@ -194,7 +194,7 @@
 	{
 		culture = dynamic-al_suryah_arabic-culture-num3
 		religion = sunni
-		size= 1033
+		size= 310
 	}
 
 	artisans=
@@ -236,7 +236,7 @@
 	{
 		culture = dynamic-al_suryah_arabic-culture-num3
 		religion = sunni
-		size= 13717
+		size= 14440
 	}
 
 	soldiers=
@@ -443,7 +443,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 4133
+		size= 1043
 	}
 
 	artisans=
@@ -485,7 +485,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 19767
+		size= 22857
 	}
 
 }
@@ -878,7 +878,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 4133
+		size= 249
 	}
 
 	artisans=
@@ -906,7 +906,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 2250
+		size= 6134
 	}
 
 	soldiers=

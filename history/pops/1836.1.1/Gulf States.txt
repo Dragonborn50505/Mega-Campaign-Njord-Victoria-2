@@ -110,7 +110,7 @@
 	{
 		culture = mashriqi
 		religion = mahayana
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = mashriqi
 		religion = mahayana
-		size= 1905
+		size= 5005
 	}
 
 	farmers=

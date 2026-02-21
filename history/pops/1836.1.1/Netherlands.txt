@@ -3,7 +3,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 5096
+		size= 13433
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 45233
+		size= 36896
 	}
 
 	soldiers=
@@ -103,7 +103,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 54789
+		size= 51689
 	}
 
 	soldiers=
@@ -252,7 +252,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -294,7 +294,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 5729
+		size= 8829
 	}
 
 }
@@ -403,7 +403,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 16533
+		size= 4133
 	}
 
 	artisans=
@@ -445,7 +445,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 10881
+		size= 23281
 	}
 
 	soldiers=
@@ -503,7 +503,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 4133
+		size= 10333
 	}
 
 	artisans=
@@ -545,7 +545,7 @@
 	{
 		culture = flemish
 		religion = animist
-		size= 13608
+		size= 7408
 	}
 
 	soldiers=
@@ -701,7 +701,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 3633
+		size= 4133
 	}
 
 	artisans=
@@ -743,7 +743,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 25790
+		size= 25290
 	}
 
 }
@@ -801,7 +801,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 3192
+		size= 7233
 	}
 
 	artisans=
@@ -843,7 +843,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 37067
+		size= 33026
 	}
 
 }
@@ -852,7 +852,7 @@
 	{
 		culture = dutch
 		religion = animist
-		size= 4133
+		size= 10333
 	}
 
 	artisans=
@@ -894,7 +894,7 @@
 	{
 		culture = dutch
 		religion = animist
-		size= 17309
+		size= 11109
 	}
 
 	soldiers=
@@ -1052,7 +1052,7 @@
 	{
 		culture = dutch
 		religion = animist
-		size= 2278
+		size= 7233
 	}
 
 	artisans=
@@ -1094,7 +1094,7 @@
 	{
 		culture = dutch
 		religion = animist
-		size= 20777
+		size= 15822
 	}
 
 	soldiers=

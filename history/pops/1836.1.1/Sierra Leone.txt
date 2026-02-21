@@ -31,14 +31,14 @@
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 1033
+		size= 705
 	}
 
 	farmers=
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 29779
+		size= 30107
 	}
 
 	artisans=

@@ -66,7 +66,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 1033
+		size= 618
 	}
 
 	artisans=
@@ -108,7 +108,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 27306
+		size= 27721
 	}
 
 }
@@ -166,7 +166,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 353
+		size= 10333
 	}
 
 	artisans=
@@ -208,7 +208,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 16069
+		size= 6089
 	}
 
 }
@@ -394,7 +394,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 1033
+		size= 113
 	}
 
 	artisans=
@@ -436,7 +436,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 835
+		size= 1755
 	}
 
 }

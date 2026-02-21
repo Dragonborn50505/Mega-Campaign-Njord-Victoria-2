@@ -227,7 +227,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 10333
+		size= 842
 	}
 
 	artisans=
@@ -269,7 +269,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 28727
+		size= 38218
 	}
 
 	artisans=
@@ -509,7 +509,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 773
+		size= 4133
 	}
 
 	artisans=
@@ -551,7 +551,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 10770
+		size= 7410
 	}
 
 	slaves=
@@ -565,7 +565,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -607,7 +607,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 9776
+		size= 6676
 	}
 
 	slaves=
@@ -621,7 +621,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 664
+		size= 1033
 	}
 
 	artisans=
@@ -663,7 +663,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 9836
+		size= 9467
 	}
 
 }
@@ -679,7 +679,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 4133
+		size= 1092
 	}
 
 	artisans=
@@ -721,7 +721,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 13621
+		size= 16662
 	}
 
 	slaves=
@@ -849,7 +849,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 1102
+		size= 7233
 	}
 
 	artisans=
@@ -891,7 +891,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 12504
+		size= 6373
 	}
 
 	slaves=
@@ -1075,7 +1075,7 @@
 	{
 		culture = kirgiz
 		religion = sunni
-		size= 1033
+		size= 83
 	}
 
 	artisans=
@@ -1117,7 +1117,7 @@
 	{
 		culture = kirgiz
 		religion = sunni
-		size= 1542
+		size= 2492
 	}
 
 }
@@ -1126,7 +1126,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 1033
+		size= 416
 	}
 
 	artisans=
@@ -1168,7 +1168,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 6341
+		size= 6958
 	}
 
 	soldiers=
@@ -1324,7 +1324,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 811
+		size= 4133
 	}
 
 	artisans=
@@ -1366,14 +1366,14 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 12884
+		size= 9562
 	}
 
 	soldiers=
 	{
 		culture = mongol
 		religion = sunni
-		size= 1033
+		size= 7233
 	}
 
 	artisans=
@@ -1415,7 +1415,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 10570
+		size= 4370
 	}
 
 }
@@ -1424,7 +1424,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 1033
+		size= 90
 	}
 
 	artisans=
@@ -1452,7 +1452,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 3406
+		size= 4349
 	}
 
 	soldiers=
@@ -1508,7 +1508,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 1033
+		size= 79
 	}
 
 	artisans=
@@ -1550,14 +1550,14 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 2407
+		size= 3361
 	}
 
 	soldiers=
 	{
 		culture = yakut
 		religion = nestorian
-		size= 1033
+		size= 92
 	}
 
 	artisans=
@@ -1599,7 +1599,7 @@
 	{
 		culture = yakut
 		religion = nestorian
-		size= 3542
+		size= 4483
 	}
 
 	soldiers=

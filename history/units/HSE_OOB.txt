@@ -383,14 +383,14 @@ army = {
 	name="1st Army"
 	location=1338
 	regiment = {
-		name="1st Myitkyina Artillery"
+		name="1st Taunggyi Artillery"
 		type=artillery
-		home=1342
+		home=1338
 	}
 	regiment = {
-		name="2nd Myitkyina Artillery"
+		name="2nd Taunggyi Artillery"
 		type=artillery
-		home=1342
+		home=1338
 	}
 }
 

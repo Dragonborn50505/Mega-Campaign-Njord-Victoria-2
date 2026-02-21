@@ -10,7 +10,7 @@
 	{
 		culture = tigray
 		religion = coptic
-		size= 1033
+		size= 198
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = tigray
 		religion = coptic
-		size= 14892
+		size= 15727
 	}
 
 	slaves=
@@ -259,7 +259,7 @@
 	{
 		culture = tigray
 		religion = coptic
-		size= 1033
+		size= 76
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = tigray
 		religion = coptic
-		size= 4288
+		size= 5245
 	}
 
 	slaves=

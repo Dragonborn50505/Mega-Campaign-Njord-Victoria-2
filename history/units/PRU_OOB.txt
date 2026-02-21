@@ -589,87 +589,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Aabenraa Clipper Transport"
+		name="2nd Stade Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Stralsund Clipper Transport"
+		name="1st Göteborg Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Stralsund Clipper Transport"
+		name="3rd Schwerin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Aalborg Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Odense Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Stade Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Christianssand Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Heligoland Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Aalborg Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Aalborg Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Stralsund Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="9th Schwerin Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Karlskrona Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Stralsund Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Ribe Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Trondheim Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Copenhagen Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Odense Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="10th Schwerin Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Ribe Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Malmö Clipper Transport"
+		name="1st Kolberg Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -677,15 +609,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Stralsund Clipper Transport"
+		name="4th Schwerin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Hamburg Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Kiel Clipper Transport"
+		name="3rd Hamburg Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -693,11 +621,67 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bremen Clipper Transport"
+		name="2nd Copenhagen Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Aabenraa Clipper Transport"
+		name="1st Greifswald Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aabenraa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Aalborg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Hamburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kiel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Ribe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Ribe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Hamburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Aarhus Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Ribe Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -705,7 +689,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Heligoland Clipper Transport"
+		name="4th Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Aarhus Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bremen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Karlskrona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Aarhus Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -714,9 +714,9 @@ army = {
 	name="Armee von Lüneburg"
 	location=1794
 	regiment = {
-		name="1st Ribe Infantry"
+		name="1st Flensburg Infantry"
 		type=infantry
-		home=368
+		home=370
 	}
 	regiment = {
 		name="1st Esbjerg Infantry"
@@ -724,29 +724,29 @@ army = {
 		home=2557
 	}
 	regiment = {
-		name="2nd Esbjerg Infantry"
-		type=infantry
-		home=2557
-	}
-	regiment = {
-		name="1st Flensburg Infantry"
+		name="2nd Flensburg Infantry"
 		type=infantry
 		home=370
 	}
 	regiment = {
-		name="1st Aarhus Infantry"
-		type=infantry
-		home=366
-	}
-	regiment = {
-		name="3rd Ribe Infantry"
+		name="1st Ribe Infantry"
 		type=infantry
 		home=368
 	}
 	regiment = {
-		name="2nd Leipzig Infantry"
+		name="2nd Stettin Infantry"
 		type=infantry
-		home=559
+		home=546
+	}
+	regiment = {
+		name="5th Esbjerg Infantry"
+		type=infantry
+		home=2557
+	}
+	regiment = {
+		name="5th Dresden Infantry"
+		type=infantry
+		home=558
 	}
 }
 
@@ -754,19 +754,29 @@ army = {
 	name="Armee von Hamburg"
 	location=372
 	regiment = {
-		name="1st Nienburg Infantry"
+		name="1st Stralsund Infantry"
 		type=infantry
-		home=535
+		home=548
 	}
 	regiment = {
-		name="1st Prenzlau Infantry"
+		name="1st Magdeburg Infantry"
 		type=infantry
-		home=550
+		home=553
 	}
 	regiment = {
-		name="1st Schwerin Infantry"
+		name="1st Stade Infantry"
 		type=infantry
-		home=544
+		home=531
+	}
+	regiment = {
+		name="1st Stendal Infantry"
+		type=infantry
+		home=557
+	}
+	regiment = {
+		name="1st Kiel Infantry"
+		type=infantry
+		home=369
 	}
 	regiment = {
 		name="1st Hamburg Infantry"
@@ -774,49 +784,39 @@ army = {
 		home=528
 	}
 	regiment = {
-		name="1st Dessau Infantry"
-		type=infantry
-		home=555
-	}
-	regiment = {
-		name="1st Borås Artillery"
+		name="1st Göttingen Artillery"
 		type=artillery
-		home=330
-	}
-	regiment = {
-		name="1st Hamburg Artillery"
-		type=artillery
-		home=528
-	}
-	regiment = {
-		name="1st Esbjerg Artillery"
-		type=artillery
-		home=2557
-	}
-	regiment = {
-		name="2nd Hamburg Artillery"
-		type=artillery
-		home=528
-	}
-	regiment = {
-		name="5th Stade Infantry"
-		type=infantry
-		home=531
-	}
-	regiment = {
-		name="2nd Stralsund Infantry"
-		type=infantry
-		home=548
-	}
-	regiment = {
-		name="2nd Dresden Artillery"
-		type=artillery
-		home=558
+		home=537
 	}
 	regiment = {
 		name="1st Odense Artillery"
 		type=artillery
 		home=373
+	}
+	regiment = {
+		name="1st Ribe Artillery"
+		type=artillery
+		home=368
+	}
+	regiment = {
+		name="1st Lübeck Artillery"
+		type=artillery
+		home=530
+	}
+	regiment = {
+		name="3rd Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="2nd Leipzig Artillery"
+		type=artillery
+		home=559
+	}
+	regiment = {
+		name="1st Deutsch Krone Artillery"
+		type=artillery
+		home=692
 	}
 }
 
@@ -852,35 +852,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Kolberg Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="3rd Hamburg Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Lübeck Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Bremen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Schwerin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Stralsund Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Stade Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Schwerin Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -888,7 +860,39 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Lübeck Man'o'war"
+		name="2nd Lübeck Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chabahar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bremen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Heligoland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Köslin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Schwerin Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -896,23 +900,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Lübeck Man'o'war"
+		name="4th Schwerin Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Emden Man'o'war"
+		name="1st Stade Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th Hamburg Man'o'war"
+		name="4th Bremen Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Mukalla Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Stade Man'o'war"
+		name="3rd Stettin Man'o'war"
 		type=manowar
 	}
 }
@@ -921,14 +921,19 @@ army = {
 	name="Armee von Seeland"
 	location=550
 	regiment = {
-		name="1st Lüneburg Infantry"
+		name="1st Göttingen Infantry"
 		type=infantry
-		home=532
+		home=537
 	}
 	regiment = {
-		name="1st Halle Infantry"
+		name="1st Pritzwalk Infantry"
 		type=infantry
-		home=556
+		home=551
+	}
+	regiment = {
+		name="1st Küstrin Infantry"
+		type=infantry
+		home=681
 	}
 	regiment = {
 		name="1st Dresden Infantry"
@@ -936,12 +941,102 @@ army = {
 		home=558
 	}
 	regiment = {
-		name="5th Dresden Infantry"
+		name="1st Lübeck Infantry"
+		type=infantry
+		home=530
+	}
+	regiment = {
+		name="1st Bremen Infantry"
+		type=infantry
+		home=539
+	}
+	regiment = {
+		name="6th Dresden Infantry"
 		type=infantry
 		home=558
 	}
+}
+
+army = {
+	name="Armee von Mzizima"
+	location=1358
+	regiment = {
+		name="1st Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="1st Drammen Infantry"
+		type=infantry
+		home=312
+	}
+	regiment = {
+		name="1st Hanover Infantry"
+		type=infantry
+		home=534
+	}
 	regiment = {
 		name="1st Copenhagen Infantry"
+		type=infantry
+		home=372
+	}
+	regiment = {
+		name="1st Östersund Infantry"
+		type=infantry
+		home=319
+	}
+	regiment = {
+		name="2nd Stendal Infantry"
+		type=infantry
+		home=557
+	}
+	regiment = {
+		name="1st Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="1st Magdeburg Artillery"
+		type=artillery
+		home=553
+	}
+	regiment = {
+		name="1st Greifswald Artillery"
+		type=artillery
+		home=547
+	}
+	regiment = {
+		name="1st Pritzwalk Artillery"
+		type=artillery
+		home=551
+	}
+	regiment = {
+		name="1st Schwerin Artillery"
+		type=artillery
+		home=544
+	}
+	regiment = {
+		name="2nd Aabenraa Infantry"
+		type=infantry
+		home=371
+	}
+	regiment = {
+		name="2nd Greifswald Artillery"
+		type=artillery
+		home=547
+	}
+}
+
+army = {
+	name="Armee von Kilwa"
+	location=1358
+	regiment = {
+		name="2nd Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="2nd Copenhagen Infantry"
 		type=infantry
 		home=372
 	}
@@ -951,149 +1046,54 @@ army = {
 		home=692
 	}
 	regiment = {
-		name="6th Stade Infantry"
+		name="2nd Magdeburg Infantry"
 		type=infantry
-		home=531
-	}
-}
-
-army = {
-	name="Armee von Mzizima"
-	location=1358
-	regiment = {
-		name="1st Stade Infantry"
-		type=infantry
-		home=531
+		home=553
 	}
 	regiment = {
-		name="1st Aalborg Infantry"
-		type=infantry
-		home=367
-	}
-	regiment = {
-		name="2nd Nienburg Infantry"
-		type=infantry
-		home=535
-	}
-	regiment = {
-		name="2nd Flensburg Infantry"
-		type=infantry
-		home=370
-	}
-	regiment = {
-		name="2nd Aalborg Infantry"
-		type=infantry
-		home=367
-	}
-	regiment = {
-		name="1st Dessau Artillery"
-		type=artillery
-		home=555
-	}
-	regiment = {
-		name="1st Bremen Artillery"
-		type=artillery
-		home=539
-	}
-	regiment = {
-		name="1st Schwerin Artillery"
-		type=artillery
-		home=544
-	}
-	regiment = {
-		name="1st Lüneburg Artillery"
-		type=artillery
-		home=532
-	}
-	regiment = {
-		name="2nd Dessau Artillery"
-		type=artillery
-		home=555
-	}
-	regiment = {
-		name="1st Växjö Infantry"
-		type=infantry
-		home=333
-	}
-	regiment = {
-		name="1st Borås Infantry"
-		type=infantry
-		home=330
-	}
-	regiment = {
-		name="1st Lauenburg Artillery"
-		type=artillery
-		home=529
-	}
-}
-
-army = {
-	name="Armee von Kilwa"
-	location=1358
-	regiment = {
-		name="2nd Prenzlau Infantry"
-		type=infantry
-		home=550
-	}
-	regiment = {
-		name="2nd Lüneburg Infantry"
-		type=infantry
-		home=532
-	}
-	regiment = {
-		name="2nd Stade Infantry"
-		type=infantry
-		home=531
-	}
-	regiment = {
-		name="1st Stralsund Infantry"
+		name="2nd Stralsund Infantry"
 		type=infantry
 		home=548
 	}
 	regiment = {
-		name="1st Kiel Infantry"
-		type=infantry
-		home=369
-	}
-	regiment = {
-		name="2nd Kiel Infantry"
-		type=infantry
-		home=369
-	}
-	regiment = {
-		name="1st Pritzwalk Artillery"
+		name="2nd Odense Artillery"
 		type=artillery
+		home=373
+	}
+	regiment = {
+		name="1st Kiel Artillery"
+		type=artillery
+		home=369
+	}
+	regiment = {
+		name="2nd Kiel Artillery"
+		type=artillery
+		home=369
+	}
+	regiment = {
+		name="4th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="4th Pritzwalk Infantry"
+		type=infantry
 		home=551
 	}
 	regiment = {
-		name="3rd Hamburg Artillery"
+		name="1st Hamar Artillery"
 		type=artillery
-		home=528
+		home=314
 	}
 	regiment = {
-		name="1st Deutsch Krone Artillery"
+		name="3rd Schwerin Artillery"
 		type=artillery
-		home=692
+		home=544
 	}
 	regiment = {
-		name="1st Aalborg Artillery"
+		name="1st Stralsund Artillery"
 		type=artillery
-		home=367
-	}
-	regiment = {
-		name="1st Copenhagen Artillery"
-		type=artillery
-		home=372
-	}
-	regiment = {
-		name="2nd Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="4th Berlin Artillery"
-		type=artillery
-		home=549
+		home=548
 	}
 }
 
@@ -1101,104 +1101,24 @@ army = {
 	name="26th Army"
 	location=544
 	regiment = {
-		name="2nd Schwerin Infantry"
+		name="1st Odense Infantry"
+		type=infantry
+		home=373
+	}
+	regiment = {
+		name="2nd Ribe Infantry"
+		type=infantry
+		home=368
+	}
+	regiment = {
+		name="1st Dessau Infantry"
+		type=infantry
+		home=555
+	}
+	regiment = {
+		name="1st Schwerin Infantry"
 		type=infantry
 		home=544
-	}
-	regiment = {
-		name="3rd Schwerin Infantry"
-		type=infantry
-		home=544
-	}
-	regiment = {
-		name="1st Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="1st Lübeck Infantry"
-		type=infantry
-		home=530
-	}
-	regiment = {
-		name="2nd Halle Infantry"
-		type=infantry
-		home=556
-	}
-	regiment = {
-		name="2nd Greifswald Infantry"
-		type=infantry
-		home=547
-	}
-	regiment = {
-		name="7th Schwerin Infantry"
-		type=infantry
-		home=544
-	}
-}
-
-army = {
-	name="8th Army"
-	location=553
-	regiment = {
-		name="1st Brunswick Infantry"
-		type=infantry
-		home=536
-	}
-	regiment = {
-		name="1st Lauenburg Infantry"
-		type=infantry
-		home=529
-	}
-	regiment = {
-		name="2nd Lauenburg Infantry"
-		type=infantry
-		home=529
-	}
-	regiment = {
-		name="1st Göttingen Infantry"
-		type=infantry
-		home=537
-	}
-	regiment = {
-		name="3rd Kiel Infantry"
-		type=infantry
-		home=369
-	}
-	regiment = {
-		name="3rd Stade Infantry"
-		type=infantry
-		home=531
-	}
-	regiment = {
-		name="8th Schwerin Infantry"
-		type=infantry
-		home=544
-	}
-}
-
-army = {
-	name="39th Army"
-	location=528
-	regiment = {
-		name="1st Magdeburg Infantry"
-		type=infantry
-		home=553
-	}
-	regiment = {
-		name="1st Kolberg Infantry"
-		type=infantry
-		home=679
-	}
-	regiment = {
-		name="2nd Kolberg Infantry"
-		type=infantry
-		home=679
-	}
-	regiment = {
-		name="1st Stettin Infantry"
-		type=infantry
-		home=546
 	}
 	regiment = {
 		name="1st Leipzig Infantry"
@@ -1206,14 +1126,94 @@ army = {
 		home=559
 	}
 	regiment = {
+		name="2nd Dessau Infantry"
+		type=infantry
+		home=555
+	}
+	regiment = {
+		name="6th Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+}
+
+army = {
+	name="8th Army"
+	location=553
+	regiment = {
+		name="2nd Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
 		name="2nd Göttingen Infantry"
 		type=infantry
 		home=537
 	}
 	regiment = {
-		name="9th Schwerin Infantry"
+		name="1st Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="2nd Esbjerg Infantry"
+		type=infantry
+		home=2557
+	}
+	regiment = {
+		name="1st Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="3rd Göttingen Infantry"
+		type=infantry
+		home=537
+	}
+	regiment = {
+		name="2nd Halle Infantry"
+		type=infantry
+		home=556
+	}
+}
+
+army = {
+	name="39th Army"
+	location=528
+	regiment = {
+		name="1st Kolberg Infantry"
+		type=infantry
+		home=679
+	}
+	regiment = {
+		name="2nd Schwerin Infantry"
 		type=infantry
 		home=544
+	}
+	regiment = {
+		name="2nd Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="3rd Schwerin Infantry"
+		type=infantry
+		home=544
+	}
+	regiment = {
+		name="4th Stendal Infantry"
+		type=infantry
+		home=557
+	}
+	regiment = {
+		name="3rd Dessau Infantry"
+		type=infantry
+		home=555
 	}
 }
 
@@ -1373,11 +1373,35 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Drammen Frigate"
+		name="1st Danzig Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Malmö Frigate"
+		name="1st Hamburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Odense Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ribe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Alesund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aarhus Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1385,55 +1409,31 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Göteborg Frigate"
+		name="3rd Isle of Man Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Ribe Frigate"
+		name="4th Schwerin Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Flensburg Frigate"
+		name="2nd Greifswald Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Bremen Frigate"
+		name="2nd Christianssand Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Prussian Frigate"
+		name="3rd Lübeck Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Kolberg Frigate"
+		name="2nd Hamburg Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Stettin Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Esbjerg Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Trondheim Frigate"
-		type=frigate
-	}
-	ship = {
-		name="7th Kolberg Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Schwerin Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Kiel Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Malmö Frigate"
+		name="3rd Christianssand Frigate"
 		type=frigate
 	}
 }
@@ -1442,39 +1442,39 @@ army = {
 	name="5th Army"
 	location=531
 	regiment = {
-		name="4th Stade Infantry"
+		name="3rd Stade Infantry"
 		type=infantry
 		home=531
 	}
 	regiment = {
-		name="1st Greifswald Infantry"
-		type=infantry
-		home=547
-	}
-	regiment = {
-		name="1st Pritzwalk Infantry"
-		type=infantry
-		home=551
-	}
-	regiment = {
-		name="1st Hanover Infantry"
+		name="2nd Hanover Infantry"
 		type=infantry
 		home=534
 	}
 	regiment = {
-		name="1st Küstrin Infantry"
+		name="2nd Deutsch Krone Infantry"
 		type=infantry
-		home=681
-	}
-	regiment = {
-		name="4th Lüneburg Infantry"
-		type=infantry
-		home=532
+		home=692
 	}
 	regiment = {
 		name="3rd Pritzwalk Infantry"
 		type=infantry
 		home=551
+	}
+	regiment = {
+		name="3rd Magdeburg Infantry"
+		type=infantry
+		home=553
+	}
+	regiment = {
+		name="2nd Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="3rd Stettin Infantry"
+		type=infantry
+		home=546
 	}
 }
 
@@ -1482,39 +1482,39 @@ army = {
 	name="25th Army"
 	location=544
 	regiment = {
-		name="2nd Lübeck Infantry"
-		type=infantry
-		home=530
-	}
-	regiment = {
-		name="1st Stendal Infantry"
+		name="3rd Stendal Infantry"
 		type=infantry
 		home=557
 	}
 	regiment = {
-		name="3rd Lübeck Infantry"
+		name="2nd Lüneburg Infantry"
 		type=infantry
-		home=530
+		home=532
 	}
 	regiment = {
-		name="2nd Küstrin Infantry"
+		name="2nd Dresden Infantry"
 		type=infantry
-		home=681
+		home=558
 	}
 	regiment = {
-		name="1st Berlin Infantry"
+		name="3rd Stralsund Infantry"
 		type=infantry
-		home=549
+		home=548
 	}
 	regiment = {
-		name="3rd Berlin Infantry"
+		name="4th Magdeburg Infantry"
 		type=infantry
-		home=549
+		home=553
 	}
 	regiment = {
-		name="3rd Kolberg Infantry"
+		name="5th Schwerin Infantry"
 		type=infantry
-		home=679
+		home=544
+	}
+	regiment = {
+		name="3rd Lauenburg Infantry"
+		type=infantry
+		home=529
 	}
 }
 
@@ -1527,34 +1527,34 @@ army = {
 		home=2063
 	}
 	regiment = {
-		name="1st Kilwa Infantry"
+		name="1st Boffa Infantry"
 		type=infantry
-		home=2038
+		home=1879
 	}
 	regiment = {
-		name="4th Kiel Infantry"
+		name="2nd Kiel Infantry"
 		type=infantry
 		home=369
 	}
 	regiment = {
-		name="2nd Ibo Infantry"
+		name="1st Lindi Infantry"
+		type=infantry
+		home=2039
+	}
+	regiment = {
+		name="1st Timbo Infantry"
+		type=infantry
+		home=1880
+	}
+	regiment = {
+		name="1st Angoche Infantry"
+		type=infantry
+		home=2061
+	}
+	regiment = {
+		name="4th Ibo Infantry"
 		type=infantry
 		home=2063
-	}
-	regiment = {
-		name="1st Freetown Infantry"
-		type=infantry
-		home=1884
-	}
-	regiment = {
-		name="3rd Ibo Infantry"
-		type=infantry
-		home=2063
-	}
-	regiment = {
-		name="2nd Kilwa Infantry"
-		type=infantry
-		home=2038
 	}
 }
 
@@ -1562,24 +1562,24 @@ army = {
 	name="3rd Army"
 	location=2045
 	regiment = {
-		name="3rd Flensburg Infantry"
+		name="1st Aalborg Infantry"
 		type=infantry
-		home=370
+		home=367
 	}
 	regiment = {
-		name="2nd Dresden Infantry"
+		name="3rd Esbjerg Infantry"
 		type=infantry
-		home=558
+		home=2557
 	}
 	regiment = {
-		name="1st Odense Infantry"
-		type=infantry
-		home=373
-	}
-	regiment = {
-		name="2nd Ribe Infantry"
+		name="3rd Ribe Infantry"
 		type=infantry
 		home=368
+	}
+	regiment = {
+		name="3rd Dresden Infantry"
+		type=infantry
+		home=558
 	}
 	regiment = {
 		name="4th Esbjerg Infantry"
@@ -1587,12 +1587,12 @@ army = {
 		home=2557
 	}
 	regiment = {
-		name="5th Esbjerg Infantry"
+		name="1st Aabenraa Infantry"
 		type=infantry
-		home=2557
+		home=371
 	}
 	regiment = {
-		name="2nd Odense Infantry"
+		name="3rd Odense Infantry"
 		type=infantry
 		home=373
 	}
@@ -1602,49 +1602,44 @@ army = {
 	name="1st Army"
 	location=1357
 	regiment = {
+		name="4th Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
 		name="3rd Lüneburg Infantry"
 		type=infantry
 		home=532
 	}
 	regiment = {
-		name="2nd Stettin Infantry"
+		name="3rd Berlin Infantry"
 		type=infantry
-		home=546
+		home=549
 	}
 	regiment = {
-		name="2nd Magdeburg Infantry"
-		type=infantry
-		home=553
-	}
-	regiment = {
-		name="3rd Lauenburg Infantry"
+		name="2nd Lauenburg Infantry"
 		type=infantry
 		home=529
 	}
 	regiment = {
-		name="2nd Hamburg Infantry"
+		name="3rd Flensburg Infantry"
 		type=infantry
-		home=528
+		home=370
 	}
 	regiment = {
-		name="4th Lauenburg Infantry"
+		name="1st Halle Infantry"
 		type=infantry
-		home=529
+		home=556
 	}
 	regiment = {
-		name="1st Kiel Artillery"
+		name="3rd Kiel Artillery"
 		type=artillery
 		home=369
 	}
 	regiment = {
-		name="4th Hamburg Artillery"
+		name="4th Kiel Artillery"
 		type=artillery
-		home=528
-	}
-	regiment = {
-		name="1st Berlin Artillery"
-		type=artillery
-		home=549
+		home=369
 	}
 	regiment = {
 		name="1st Karlskrona Artillery"
@@ -1652,19 +1647,24 @@ army = {
 		home=335
 	}
 	regiment = {
-		name="1st Göttingen Artillery"
+		name="1st Hanover Artillery"
 		type=artillery
-		home=537
+		home=534
 	}
 	regiment = {
-		name="3rd Göttingen Infantry"
+		name="4th Lauenburg Infantry"
 		type=infantry
-		home=537
+		home=529
 	}
 	regiment = {
-		name="1st Küstrin Artillery"
+		name="1st Malmö Artillery"
 		type=artillery
-		home=681
+		home=334
+	}
+	regiment = {
+		name="1st Växjö Artillery"
+		type=artillery
+		home=333
 	}
 }
 
@@ -1672,298 +1672,48 @@ army = {
 	name="4th Army"
 	location=1349
 	regiment = {
-		name="2nd Dessau Infantry"
+		name="1st Aarhus Infantry"
 		type=infantry
-		home=555
+		home=366
 	}
 	regiment = {
-		name="3rd Magdeburg Infantry"
-		type=infantry
-		home=553
-	}
-	regiment = {
-		name="2nd Brunswick Infantry"
+		name="1st Brunswick Infantry"
 		type=infantry
 		home=536
 	}
 	regiment = {
-		name="3rd Esbjerg Infantry"
+		name="2nd Odense Infantry"
 		type=infantry
-		home=2557
+		home=373
 	}
 	regiment = {
-		name="2nd Lüneburg Artillery"
-		type=artillery
-		home=532
-	}
-	regiment = {
-		name="2nd Deutsch Krone Artillery"
-		type=artillery
-		home=692
-	}
-	regiment = {
-		name="2nd Göttingen Artillery"
-		type=artillery
-		home=537
-	}
-	regiment = {
-		name="1st Dresden Artillery"
-		type=artillery
+		name="4th Dresden Infantry"
+		type=infantry
 		home=558
 	}
 	regiment = {
-		name="2nd Pritzwalk Infantry"
+		name="2nd Lübeck Infantry"
 		type=infantry
+		home=530
+	}
+	regiment = {
+		name="2nd Pritzwalk Artillery"
+		type=artillery
 		home=551
 	}
 	regiment = {
-		name="3rd Dessau Infantry"
-		type=infantry
-		home=555
-	}
-	regiment = {
-		name="3rd Nienburg Infantry"
-		type=infantry
-		home=535
-	}
-	regiment = {
-		name="2nd Kiel Artillery"
+		name="1st Leipzig Artillery"
 		type=artillery
-		home=369
+		home=559
 	}
 	regiment = {
-		name="5th Hamburg Artillery"
+		name="1st Stade Artillery"
 		type=artillery
-		home=528
-	}
-}
-
-navy = {
-	name="1st Fleet"
-	location=334
-	ship = {
-		name="1st Christianssand Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Köslin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Christiania Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Stettin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Schwerin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Bremen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Aabenraa Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Aarhus Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Karlskrona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Göteborg Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Kolberg Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Aabenraa Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Stettin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Prussian Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Odense Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Kalmar Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Malmö Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Schwerin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Bodo Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Alesund Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Karlskrona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Greifswald Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Bergen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Christianssand Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Stettin Man'o'war"
-		type=manowar
-	}
-}
-
-navy = {
-	name="6th Fleet"
-	location=335
-	ship = {
-		name="1st Heligoland Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Schwerin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Kolberg Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Esbjerg Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Malmö Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Heligoland Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Köslin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Odense Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Malmö Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Karlskrona Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Kolberg Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Malmö Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Copenhagen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Christiania Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Lübeck Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Copenhagen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Frederiksstad Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Malmö Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Köslin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Kalmar Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Stralsund Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Kolberg Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Kolberg Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Kalmar Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Bremen Man'o'war"
-		type=manowar
-	}
-}
-
-army = {
-	name="Königliche Armee"
-	location=1361
-	regiment = {
-		name="2nd Berlin Infantry"
-		type=infantry
-		home=549
+		home=531
 	}
 	regiment = {
-		name="4th Schwerin Infantry"
-		type=infantry
-		home=544
-	}
-	regiment = {
-		name="5th Schwerin Infantry"
-		type=infantry
+		name="2nd Schwerin Artillery"
+		type=artillery
 		home=544
 	}
 	regiment = {
@@ -1972,19 +1722,264 @@ army = {
 		home=544
 	}
 	regiment = {
-		name="3rd Dresden Infantry"
+		name="6th Berlin Infantry"
 		type=infantry
-		home=558
+		home=549
 	}
 	regiment = {
-		name="1st Kalmar Artillery"
+		name="1st Prenzlau Artillery"
 		type=artillery
-		home=332
+		home=550
 	}
 	regiment = {
-		name="1st Stettin Artillery"
+		name="2nd Göttingen Artillery"
 		type=artillery
+		home=537
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=334
+	ship = {
+		name="5th Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Frederiksstad Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aalborg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Flensburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Frederiksstad Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bodo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kiel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Esbjerg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Esbjerg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Esbjerg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bergen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Christianssand Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Stade Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stralsund Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stettin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Stettin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Flensburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kalmar Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=335
+	ship = {
+		name="2nd Kiel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Drammen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Karlskrona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kiel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Köslin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Lübeck Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kalmar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Greifswald Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Christianssand Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Frederiksstad Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Lübeck Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Norrköping Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kalmar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Bremen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Greifswald Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Göteborg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Christiania Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Alesund Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Christianssand Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Malmö Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Karlskrona Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Königliche Armee"
+	location=1361
+	regiment = {
+		name="4th Schwerin Infantry"
+		type=infantry
+		home=544
+	}
+	regiment = {
+		name="5th Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
+		name="1st Stettin Infantry"
+		type=infantry
 		home=546
+	}
+	regiment = {
+		name="4th Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="5th Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="2nd Karlskrona Artillery"
+		type=artillery
+		home=335
 	}
 	regiment = {
 		name="2nd Berlin Artillery"
@@ -1992,19 +1987,24 @@ army = {
 		home=549
 	}
 	regiment = {
-		name="1st Leipzig Artillery"
+		name="2nd Magdeburg Artillery"
 		type=artillery
-		home=559
+		home=553
 	}
 	regiment = {
-		name="3rd Berlin Artillery"
+		name="5th Kiel Artillery"
 		type=artillery
-		home=549
+		home=369
 	}
 	regiment = {
-		name="2nd Hanover Infantry"
+		name="1st Borås Artillery"
+		type=artillery
+		home=330
+	}
+	regiment = {
+		name="7th Schwerin Infantry"
 		type=infantry
-		home=534
+		home=544
 	}
 }
 
@@ -2012,19 +2012,19 @@ army = {
 	name="6th Army"
 	location=2036
 	regiment = {
-		name="4th Dresden Infantry"
+		name="2nd Ibo Infantry"
 		type=infantry
-		home=558
+		home=2063
 	}
 	regiment = {
-		name="1st Morogoro Infantry"
+		name="1st Kilwa Infantry"
 		type=infantry
-		home=2045
+		home=2038
 	}
 	regiment = {
-		name="1st Masasi Infantry"
+		name="2nd Kilwa Infantry"
 		type=infantry
-		home=2041
+		home=2038
 	}
 	regiment = {
 		name="1st Songea Infantry"
@@ -2032,14 +2032,14 @@ army = {
 		home=2040
 	}
 	regiment = {
-		name="4th Ibo Infantry"
+		name="3rd Ibo Infantry"
 		type=infantry
 		home=2063
 	}
 	regiment = {
-		name="5th Ibo Infantry"
+		name="2nd Songea Infantry"
 		type=infantry
-		home=2063
+		home=2040
 	}
 }
 
