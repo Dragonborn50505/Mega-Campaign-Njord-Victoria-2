@@ -10,14 +10,7 @@
 	{
 		culture = russian
 		religion = totemism
-		size= 260
-	}
-
-	farmers=
-	{
-		culture = russian
-		religion = catholic
-		size= 142
+		size= 400
 	}
 
 	soldiers=
@@ -78,7 +71,7 @@
 
 	farmers=
 	{
-		culture = russian
+		culture = celtic_american
 		religion = orthodox
 		size= 140
 	}
@@ -122,14 +115,14 @@
 	{
 		culture = russian
 		religion = catholic
-		size= 208
+		size= 209
 	}
 
 	artisans=
 	{
 		culture = geheimnisdeutsch
 		religion = catholic
-		size= 9
+		size= 8
 	}
 
 	soldiers=
@@ -213,7 +206,7 @@
 
 	farmers=
 	{
-		culture = russian
+		culture = inuit
 		religion = totemism
 		size= 90
 	}
@@ -234,7 +227,7 @@
 
 	farmers=
 	{
-		culture = russian
+		culture = celtic_american
 		religion = catholic
 		size= 49
 	}
