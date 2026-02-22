@@ -8,14 +8,14 @@
 
 	farmers=
 	{
-		culture = inuit
+		culture = russian
 		religion = totemism
 		size= 260
 	}
 
 	farmers=
 	{
-		culture = celtic_american
+		culture = russian
 		religion = catholic
 		size= 142
 	}
@@ -78,7 +78,7 @@
 
 	farmers=
 	{
-		culture = celtic_american
+		culture = russian
 		religion = orthodox
 		size= 140
 	}
@@ -120,7 +120,7 @@
 
 	farmers=
 	{
-		culture = geheimnisdeutsch
+		culture = russian
 		religion = catholic
 		size= 208
 	}
@@ -197,7 +197,7 @@
 
 	farmers=
 	{
-		culture = geheimnisdeutsch
+		culture = russian
 		religion = protestant
 		size= 568
 	}
@@ -213,7 +213,7 @@
 
 	farmers=
 	{
-		culture = inuit
+		culture = russian
 		religion = totemism
 		size= 90
 	}
@@ -234,7 +234,7 @@
 
 	farmers=
 	{
-		culture = celtic_american
+		culture = russian
 		religion = catholic
 		size= 49
 	}
@@ -304,7 +304,7 @@
 
 	farmers=
 	{
-		culture = geheimnisdeutsch
+		culture = russian
 		religion = catholic
 		size= 71
 	}
@@ -374,7 +374,7 @@
 
 	farmers=
 	{
-		culture = geheimnisdeutsch
+		culture = russian
 		religion = protestant
 		size= 195
 	}
