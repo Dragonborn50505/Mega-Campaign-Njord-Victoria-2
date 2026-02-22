@@ -1,6 +1,8 @@
 capital = 345
 primary_culture = russian
 culture = ugrian
+culture = finnish
+culture = swedish
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy
@@ -71,3 +73,4 @@ set_country_flag = religi
 decision = RUS_setup_1836
 set_country_flag = vic2_country_RUS
 set_country_flag = eu4_country_RUS
+
