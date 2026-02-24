@@ -1,7 +1,7 @@
-owner=PRU
-controller=PRU
+owner=RUS
+controller=RUS
 add_core=NOR
-add_core=PRU
+add_core=RUS
 add_core=SCA
 trade_goods = iron
 life_rating = 20
