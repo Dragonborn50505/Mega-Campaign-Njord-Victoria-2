@@ -1,7 +1,7 @@
-owner=UKR
-controller=UKR
+owner=RUS
+controller=RUS
 add_core=GRH
-add_core=UKR
+add_core=RUS
 add_core=X11
 trade_goods = cattle
 life_rating = 35
