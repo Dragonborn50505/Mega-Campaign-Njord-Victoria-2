@@ -5,12 +5,12 @@ political_decisions = {
 
         potential = {
             owns = 251    # one Greenland province ID
+			NOT = { has_country_flag = arctic_population_boom }
         }
 
         allow = {
             owns = 251
 			owns = 2636
-			NOT = { has_country_flag = arctic_population_boom }
 			industrial_score = 30
         }
 
@@ -90,12 +90,13 @@ political_decisions = {
 
         potential = {
 		TAG = RUS
+		NOT = { has_country_flag = arctic_canada_taken}
         }
 
         allow = {
             military_score = 50
 			has_country_flag = arctic_population_boom
-			industrial_score = 30
+			industrial_score = 40
         }
 
         effect = {
@@ -104,10 +105,10 @@ political_decisions = {
         colonizer = THIS
     }
             # Example province IDs — replace these!
-            2595 = { change_owner = THIS }
-            2596 = { change_owner = THIS }
-            11 = { change_owner = THIS }
-
+            #2595 = { change_owner = THIS }
+            #2596 = { change_owner = THIS }
+            #11 = { change_owner = THIS }
+		country_event = {id = 10000001}
             set_country_flag = arctic_canada_taken
         }
 
@@ -131,9 +132,12 @@ political_decisions = {
 
         allow = {
 			has_country_flag = arctic_canada_taken
+			industrial_score = 60
         }
 
         effect = {
+
+		country_event = {id = 10000002}
 		#do stuff
 		#X27 is the alaskan colony
 		IRE = {
@@ -156,14 +160,86 @@ political_decisions = {
         ai_will_do = { factor = 0 }
     }
 
+	mental_refreshment = {
+	picture = outwor1
+
+        potential = {
+		TAG = JAP
+        }
+
+        allow = {
+			#what
+			civilized = yes
+        }
+
+        effect = {
+			any_pop = {
+				limit = {
+					NOT = {
+						has_pop_culture = russian
+					}
+				}
+				militancy = 1
+				
+				consciousness = -5
+			}
+		}
+
+        ai_will_do = { factor = 0 }
+    }
+
+an_elephant_for_america = {
+		potential = {
+			tag = JAP
+			exists = IRE
+			NOT = {
+				has_country_flag = sent_an_elephant_to_america
+			}
+		}
+		allow = {
+			relation = {
+				who = IRE
+				value = 100
+			}
+		}
+		effect = {
+			IRE = {
+				country_event = { id=13350 days=0 }
+			}
+			set_country_flag = sent_an_elephant_to_america
+		}
+	}
 	
 	
 	
 	
 	
+	#teleport 1662 to 1453
 	
-	
-	
+	teleport_away = {
+	picture = outwor2
+
+        potential = {
+		TAG = JAP
+        }
+
+        allow = {
+			owns = 1662
+			owns = 1453
+			1662 = {units_in_province = 3}
+        }
+
+        effect = {
+			#if army on province then teleport
+			1662 = { any_unit = {disband_unit = THIS}}
+			# Spawns rebels to kill all teleported units
+			country_event = { id=10000004 days=0 }
+			1453 = {sub_unit = {type = irregular value = current}} #spawns 100 at target location
+			
+		}
+
+        ai_will_do = { factor = 0 }
+    }
 	
 	
 	
