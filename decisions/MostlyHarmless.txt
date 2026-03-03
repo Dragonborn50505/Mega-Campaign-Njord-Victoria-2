@@ -190,7 +190,10 @@ political_decisions = {
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 
@@ -262,6 +265,9 @@ londoner_estonia2 = {
     }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -292,7 +298,11 @@ londoner_estonia2 = {
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         ai_will_do = { factor = 0 }
+=======
+        ai_will_do = { factor = 1 }
+>>>>>>> Stashed changes
 =======
         ai_will_do = { factor = 1 }
 >>>>>>> Stashed changes
