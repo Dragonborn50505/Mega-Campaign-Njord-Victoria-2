@@ -265,8 +265,14 @@ FRO_communist;Kommunistiski Flokkur Føroya;;;;;;;;;;;;;
 FRO_fascist;Loysingarflokkurin;;;;;;;;;;;;;
 RUS_proletarian_dictatorship;The GGC;;;;;;;;;;;;;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 RUS;The Great Arctic Empire;;;;;;;;;;;;;
 RUS_absolute_monarchy;The Great Generator Cities;;;;;;;;;;;;;
+=======
+RUS;The Great Generator Commonwealth;;;;;;;;;;;;;
+RUS_semi-constitutional_monarchy;The Great Arctic Empire;;;;;;;;;;;;;
+RUS_absolute_monarchy;The Great Generator Commonwealth;;;;;;;;;;;;;
+>>>>>>> Stashed changes
 =======
 RUS;The Great Generator Commonwealth;;;;;;;;;;;;;
 RUS_semi-constitutional_monarchy;The Great Arctic Empire;;;;;;;;;;;;;
