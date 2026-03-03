@@ -188,15 +188,6 @@ political_decisions = {
         ai_will_do = { factor = 0 }
     }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-
 londoner_estonia = {
 	picture = frostpunk5
 
@@ -264,13 +255,6 @@ londoner_estonia2 = {
         ai_will_do = { factor = 1 }
     }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 	mental_refreshment = {
 	picture = outwor1
 
@@ -296,19 +280,9 @@ londoner_estonia2 = {
 			}
 		}
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        ai_will_do = { factor = 0 }
-=======
+
         ai_will_do = { factor = 1 }
->>>>>>> Stashed changes
-=======
-        ai_will_do = { factor = 1 }
->>>>>>> Stashed changes
-=======
-        ai_will_do = { factor = 1 }
->>>>>>> Stashed changes
+
     }
 
 an_elephant_for_america = {
