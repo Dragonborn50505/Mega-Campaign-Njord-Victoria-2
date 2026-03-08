@@ -85,6 +85,56 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 	
+	massive_trade_deal_commonwealth = {
+		picture = frostpunk1
+
+        potential = {
+			tag=BYZ
+			
+        }
+
+        allow = {
+            RUS = {
+            owns = 251    # one Greenland province ID
+			has_country_flag = arctic_population_boom 
+			}
+			money = 50000
+        }
+
+        effect = {
+            
+			2468 = {
+				add_province_modifier = {
+                    name = great_generator
+                    duration = 200
+				}
+			}
+			2482 = {
+				add_province_modifier = {
+                    name = great_generator
+                    duration = 200
+				}
+			}
+			2488 = {
+				add_province_modifier = {
+                    name = great_generator
+                    duration = 200
+				}
+			}
+			2507 = {
+				add_province_modifier = {
+                    name = great_generator
+                    duration = 200
+				}
+			}
+			money = - 50000
+
+            set_country_flag = arctic_population_boom
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+	
 	arctic_expansion_into_canada = {
 	picture = frostpunk4
 
@@ -188,6 +238,7 @@ political_decisions = {
         ai_will_do = { factor = 0 }
     }
 
+
 londoner_estonia = {
 	picture = frostpunk5
 
@@ -280,9 +331,7 @@ londoner_estonia2 = {
 			}
 		}
 
-
         ai_will_do = { factor = 1 }
-
     }
 
 an_elephant_for_america = {
