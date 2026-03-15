@@ -1,7 +1,7 @@
-owner=X00
-controller=X00
+owner=YUA
+controller=YUA
 add_core=KHA
 add_core=MGL
-add_core=X00
+add_core=YUA
 trade_goods = timber
 life_rating = 32

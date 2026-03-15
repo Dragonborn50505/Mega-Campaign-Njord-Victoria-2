@@ -1,7 +1,7 @@
-owner=CHI
-controller=CHI
+owner=YUA
+controller=YUA
 add_core=KHA
 add_core=MGL
-add_core=CHI
+add_core=YUA
 trade_goods = iron
 life_rating = 32

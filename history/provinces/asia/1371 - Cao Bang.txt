@@ -1,6 +1,6 @@
-owner=YUA
-controller=YUA
+owner=CHI
+controller=CHI
 add_core=CHI
-add_core=YUA
+add_core=CHI
 trade_goods = grain
 life_rating = 33
