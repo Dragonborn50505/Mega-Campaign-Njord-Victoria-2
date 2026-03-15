@@ -1,6 +1,4 @@
-owner=X15
-controller=X15
-add_core=X15
+add_core=u
 trade_goods = cattle
 life_rating = 32
 terrain = semidesert
