@@ -1,8 +1,5 @@
-owner=YEM
-controller=YEM
-add_core=ETH
-add_core=YEM
-trade_goods = fish
-life_rating = 32
-terrain = semidesert
-naval_base = 2
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = fruit
+life_rating = 35

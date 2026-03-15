@@ -1,7 +1,6 @@
-owner=X02
-controller=X02
-add_core=TUR
-add_core=X02
-add_core=X06
+owner = PER
+controller = PER
+add_core = PER
+add_core = AZB
 trade_goods = wool
 life_rating = 35

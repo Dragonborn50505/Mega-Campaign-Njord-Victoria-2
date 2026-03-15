@@ -1,6 +1,5 @@
-owner=CLM
-controller=CLM
-add_core=CLM
+owner = ENG
+controller = ENG
 trade_goods = fruit
-life_rating = 35
-terrain = jungle
+life_rating = 30
+colonial = 2

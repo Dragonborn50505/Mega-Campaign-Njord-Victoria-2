@@ -1,6 +1,5 @@
-owner=ITA
-controller=ITA
-add_core=HAU
-trade_goods = fruit
+owner = SOK
+controller = SOK
+add_core = SOK
+trade_goods = cattle
 life_rating = 35
-colonial=2

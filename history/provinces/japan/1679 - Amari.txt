@@ -1,6 +1,5 @@
-owner=JAP
-controller=JAP
-add_core=JAP
-trade_goods = fish
+owner = JAP
+controller = JAP
+add_core = JAP
+trade_goods = iron
 life_rating = 35
-terrain = small_island

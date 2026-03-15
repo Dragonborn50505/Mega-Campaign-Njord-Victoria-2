@@ -1,5 +1,2 @@
-owner=PRU
-controller=PRU
-add_core=MOR
-trade_goods = grain
-life_rating = 35
+trade_goods = tropical_wood
+life_rating = 15

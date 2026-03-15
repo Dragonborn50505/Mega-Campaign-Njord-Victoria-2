@@ -1,7 +1,6 @@
-owner=UKR
-controller=UKR
-add_core=GEO
-add_core=IME
-add_core=UKR
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = GEO
 trade_goods = wool
 life_rating = 35

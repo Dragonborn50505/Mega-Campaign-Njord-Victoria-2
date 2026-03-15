@@ -1,4 +1,5 @@
-owner=X18
-controller=X18
+owner = TUR
+controller = TUR
+add_core = TUR
 trade_goods = iron
 life_rating = 35

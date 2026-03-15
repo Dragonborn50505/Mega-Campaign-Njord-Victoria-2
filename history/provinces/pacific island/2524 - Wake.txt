@@ -1,7 +1,2 @@
-owner=MLC
-controller=MLC
-add_core=AOT
-add_core=NZN
 trade_goods = fish
-life_rating = 31
-fort = 1
+life_rating = 10

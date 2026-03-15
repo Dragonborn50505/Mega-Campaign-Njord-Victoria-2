@@ -1,7 +1,5 @@
-owner=MLC
-controller=MLC
-add_core=MLC
-trade_goods = fish
-life_rating = 31
-naval_base = 2
-fort = 1
+owner = NET
+controller = NET
+trade_goods = grain
+life_rating = 30
+colonial = 2

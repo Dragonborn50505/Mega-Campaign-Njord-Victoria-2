@@ -1,7 +1,5 @@
-owner=PRU
-controller=PRU
-add_core=TKS
-trade_goods = fish
-life_rating = 35
-terrain = semidesert
-colonial=2
+owner = RUS
+controller = RUS
+add_core = RUS
+trade_goods = timber
+life_rating = 15

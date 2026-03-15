@@ -1,6 +1,10 @@
-owner=GER
-controller=GER
-add_core=GER
-add_core=WES
-trade_goods = cattle
-life_rating = 40
+owner = TRI
+controller = TRI
+add_core = TRI
+trade_goods = wool
+life_rating = 25
+1861.1.1 = {
+	owner = TUR
+	controller = TUR
+	colonial = 0
+}

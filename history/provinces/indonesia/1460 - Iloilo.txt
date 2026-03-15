@@ -1,7 +1,6 @@
-owner=GUJ
-controller=GUJ
-add_core=GUJ
-add_core=PHL
-trade_goods = fruit
-life_rating = 35
-naval_base = 2
+owner = SPA
+controller = SPA
+add_core = PHI
+trade_goods = fish
+life_rating = 30
+colonial = 2

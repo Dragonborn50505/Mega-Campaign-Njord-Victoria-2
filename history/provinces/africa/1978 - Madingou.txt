@@ -1,4 +1,2 @@
-owner=NET
-controller=NET
-trade_goods = grain
-life_rating = 31
+trade_goods = iron
+life_rating = 15

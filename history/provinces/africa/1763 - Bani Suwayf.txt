@@ -1,6 +1,5 @@
-owner=ITA
-controller=ITA
-add_core=EGY
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = grain
-life_rating = 40
-terrain = farmlands
+life_rating = 35

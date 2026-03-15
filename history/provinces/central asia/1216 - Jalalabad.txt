@@ -1,6 +1,5 @@
-owner=X02
-controller=X02
-add_core=HND
-add_core=X02
+owner = AFG
+controller = AFG
+add_core = AFG
 trade_goods = grain
 life_rating = 35

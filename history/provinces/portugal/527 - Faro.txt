@@ -1,7 +1,5 @@
-owner=X01
-controller=X01
-add_core=POR
-add_core=X01
+owner = POR
+controller = POR
+add_core = POR
 trade_goods = fruit
 life_rating = 35
-naval_base = 1

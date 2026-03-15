@@ -1,6 +1,5 @@
-owner=JAP
-controller=JAP
-add_core=JAP
-add_core=KOR
-trade_goods = fruit
-life_rating = 31
+owner = KOR
+controller = KOR
+add_core = KOR
+trade_goods = iron
+life_rating = 35

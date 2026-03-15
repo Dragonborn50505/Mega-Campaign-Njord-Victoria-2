@@ -1,7 +1,5 @@
-owner=CUB
-controller=CUB
-add_core=CUB
+owner = ENG
+controller = ENG
 trade_goods = tobacco
 life_rating = 35
-terrain = new_world_plains
-naval_base = 1
+colonial = 2

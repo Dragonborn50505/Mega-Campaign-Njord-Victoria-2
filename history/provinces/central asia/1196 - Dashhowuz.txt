@@ -1,7 +1,5 @@
-owner=YUA
-controller=YUA
-add_core=TKS
-add_core=YUA
-trade_goods = cattle
+owner = KHI
+controller = KHI
+add_core = KHI
+trade_goods = wool
 life_rating = 35
-terrain = semidesert

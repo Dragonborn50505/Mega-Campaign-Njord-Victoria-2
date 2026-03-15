@@ -1,8 +1,6 @@
-owner=BYZ
-controller=BYZ
-add_core=AUL
-add_core=BYZ
-add_core=TIW
+owner = ENG
+controller = ENG
+add_core = AST
 trade_goods = grain
-life_rating = 31
-terrain = semidesert
+life_rating = 30
+colonial = 2

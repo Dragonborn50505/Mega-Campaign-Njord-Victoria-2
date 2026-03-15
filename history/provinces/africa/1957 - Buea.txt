@@ -1,6 +1,2 @@
-owner=PRU
-controller=PRU
-add_core=MOR
 trade_goods = timber
-life_rating = 10
-colonial=2
+life_rating = 15

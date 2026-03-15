@@ -1,6 +1,6 @@
-owner=YUA
-controller=YUA
-add_core=CHI
-add_core=YUA
-trade_goods = grain
-life_rating = 35
+owner = GXI
+controller = GXI
+add_core = CHI
+add_core = GXI
+trade_goods = tea
+life_rating = 32

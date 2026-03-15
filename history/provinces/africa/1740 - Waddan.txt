@@ -1,5 +1,2 @@
-owner=ITA
-controller=ITA
 trade_goods = wool
-life_rating = 32
-colonial=2
+life_rating = 10

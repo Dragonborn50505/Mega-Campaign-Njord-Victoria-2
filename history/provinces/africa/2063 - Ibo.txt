@@ -1,6 +1,5 @@
-owner=PRU
-controller=PRU
-add_core=SWA
+owner = POR
+controller = POR
 trade_goods = grain
 life_rating = 35
-colonial=2
+colonial = 2

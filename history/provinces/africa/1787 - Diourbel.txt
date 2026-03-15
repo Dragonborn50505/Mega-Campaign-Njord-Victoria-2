@@ -1,5 +1,2 @@
-owner=PRU
-controller=PRU
-trade_goods = cattle
-life_rating = 35
-terrain = semidesert
+trade_goods = grain
+life_rating = 15

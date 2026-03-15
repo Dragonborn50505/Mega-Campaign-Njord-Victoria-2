@@ -1,6 +1,5 @@
-owner=DOM
-controller=DOM
-add_core=DOM
+owner = ENG
+controller = ENG
 trade_goods = cotton
 life_rating = 35
-terrain = new_world_plains
+colonial = 2

@@ -1,7 +1,6 @@
-owner=TRT
-controller=TRT
-add_core=HND
-add_core=TRT
+owner = ENG
+controller = ENG
+add_core = HND
 trade_goods = fruit
-life_rating = 35
-naval_base = 2
+life_rating = 32
+colonial = 2

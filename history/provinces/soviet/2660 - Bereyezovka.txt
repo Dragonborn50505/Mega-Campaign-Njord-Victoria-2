@@ -1,6 +1,3 @@
-owner=YUA
-controller=YUA
-add_core=YUA
+add_core = RUS
 trade_goods = grain
 life_rating = 15
-terrain = boreal

@@ -1,8 +1,2 @@
-owner=HWH
-controller=HWH
-add_core=HWH
-add_core=HWK
-add_core=HWM
-add_core=HWO
-trade_goods = sulphur
-life_rating = 10
+trade_goods = fish
+life_rating = 15

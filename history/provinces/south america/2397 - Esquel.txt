@@ -1,6 +1,5 @@
-owner=SBA
-controller=SBA
-add_core=SBA
+owner = ARG
+controller = ARG
+add_core = ARG
 trade_goods = wool
-life_rating = 15
-terrain = dryhills
+life_rating = 25

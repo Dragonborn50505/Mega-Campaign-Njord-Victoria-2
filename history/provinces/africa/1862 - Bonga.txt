@@ -1,4 +1,5 @@
-owner=YEM
-controller=YEM
-trade_goods = coffee
-life_rating = 35
+owner = ETH
+controller = ETH
+add_core = ETH
+trade_goods = grain
+life_rating = 30

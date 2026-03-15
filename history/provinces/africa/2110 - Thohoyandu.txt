@@ -1,6 +1,6 @@
-owner=NET
-controller=NET
-trade_goods = wool
-life_rating = 15
-terrain = mountain
-colonial=2
+owner = TRN
+controller = TRN
+add_core = TRN
+add_core = SAF
+trade_goods = grain
+life_rating = 35

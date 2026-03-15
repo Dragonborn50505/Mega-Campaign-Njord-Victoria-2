@@ -1,6 +1,6 @@
-owner=YUA
-controller=YUA
-add_core=TIB
-add_core=YUA
-trade_goods = cattle
+owner = XBI
+controller = XBI
+add_core = CHI
+add_core = XBI
+trade_goods = coal
 life_rating = 32

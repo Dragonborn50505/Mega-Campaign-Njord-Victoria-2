@@ -1,5 +1,2 @@
-owner=ITA
-controller=ITA
-trade_goods = cattle
+trade_goods = fruit
 life_rating = 10
-colonial=2

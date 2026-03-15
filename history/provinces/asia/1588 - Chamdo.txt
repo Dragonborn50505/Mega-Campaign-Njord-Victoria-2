@@ -1,6 +1,5 @@
-owner=YUA
-controller=YUA
-add_core=YUA
+owner = TIB
+controller = TIB
+add_core = TIB
 trade_goods = cattle
 life_rating = 30
-fort = 1

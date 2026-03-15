@@ -1,7 +1,5 @@
-owner=JER
-controller=JER
-add_core=HLR
-add_core=JER
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = fruit
-life_rating = 20
-terrain = semidesert
+life_rating = 35

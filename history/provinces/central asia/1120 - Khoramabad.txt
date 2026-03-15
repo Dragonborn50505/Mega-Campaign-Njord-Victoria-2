@@ -1,6 +1,5 @@
-owner=X02
-controller=X02
-add_core=SRN
-add_core=X02
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = cotton
 life_rating = 35

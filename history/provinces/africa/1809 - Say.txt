@@ -1,6 +1,2 @@
-owner=ITA
-controller=ITA
-trade_goods = fruit
-life_rating = 35
-terrain = semidesert
-colonial=2
+trade_goods = grain
+life_rating = 15

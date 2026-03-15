@@ -1,8 +1,5 @@
-owner=YUA
-controller=YUA
-add_core=GUG
-add_core=PER
-add_core=X02
-trade_goods = grain
+owner = PER
+controller = PER
+add_core = PER
+trade_goods = cotton
 life_rating = 35
-terrain = dryhills

@@ -1,6 +1,4 @@
-owner=MLC
-controller=MLC
-add_core=MJP
-add_core=MLC
+owner = NET
+controller = NET
 trade_goods = timber
-life_rating = 31
+life_rating = 30

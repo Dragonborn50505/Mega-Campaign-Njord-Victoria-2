@@ -1,6 +1,5 @@
-owner=PRU
-controller=PRU
-add_core=TUR
-trade_goods = fruit
-life_rating = 31
-terrain = semidesert
+owner = ABU
+controller = ABU
+add_core = ABU
+trade_goods = grain
+life_rating = 35

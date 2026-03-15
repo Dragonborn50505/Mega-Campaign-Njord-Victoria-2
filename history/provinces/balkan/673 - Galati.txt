@@ -1,8 +1,11 @@
-owner=UKR
-controller=UKR
-add_core=KHA
-add_core=MGL
-add_core=UKR
+owner = MOL
+controller = MOL
+add_core = MOL
+add_core = ROM
 trade_goods = grain
 life_rating = 35
-fort = 1
+
+1861.1.1 = {
+	controller = ROM
+	owner = ROM
+}

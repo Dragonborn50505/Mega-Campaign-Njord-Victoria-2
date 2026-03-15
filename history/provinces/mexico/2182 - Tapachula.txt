@@ -1,7 +1,5 @@
-owner=X26
-controller=X26
-add_core=X26
-add_core=ZAP
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = cotton
-life_rating = 31
-fort = 1
+life_rating = 30

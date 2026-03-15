@@ -1,5 +1,2 @@
-owner=PRU
-controller=PRU
 trade_goods = fruit
-life_rating = 35
-fort = 1
+life_rating = 15

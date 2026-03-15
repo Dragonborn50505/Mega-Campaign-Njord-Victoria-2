@@ -1,8 +1,5 @@
-owner=X02
-controller=X02
-add_core=IRQ
-add_core=SYR
-add_core=X02
-trade_goods = fish
-life_rating = 34
-terrain = semidesert
+owner = ABU
+controller = ABU
+add_core = ABU
+trade_goods = grain
+life_rating = 35

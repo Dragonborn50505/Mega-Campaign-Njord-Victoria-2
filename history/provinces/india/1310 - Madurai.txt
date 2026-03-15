@@ -1,6 +1,7 @@
-owner=VIJ
-controller=VIJ
-add_core=HND
-add_core=VIJ
+owner = ENG
+controller = ENG
+add_core = HYD
+add_core = HND
 trade_goods = dye
 life_rating = 32
+colonial = 2

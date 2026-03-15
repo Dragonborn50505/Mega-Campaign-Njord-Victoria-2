@@ -1,7 +1,7 @@
-owner=PRU
-controller=PRU
-add_core=NOR
-add_core=PRU
-add_core=SCA
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = SCA
+add_core = NOR
 trade_goods = timber
 life_rating = 35

@@ -1,6 +1,6 @@
-owner=BYZ
-controller=REB
-add_core=AST
-add_core=BYZ
+owner = ENG
+controller = ENG
+add_core = AST
 trade_goods = cattle
-life_rating = 31
+life_rating = 30
+colonial = 2

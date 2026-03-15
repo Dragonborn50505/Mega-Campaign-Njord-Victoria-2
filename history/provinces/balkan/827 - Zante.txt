@@ -1,7 +1,6 @@
-owner=AUG
-controller=AUG
-add_core=AUG
-add_core=GRE
-trade_goods = fruit
-life_rating = 34
-terrain = small_island
+owner = ION
+controller = ION
+add_core = ION
+add_core = GRE
+trade_goods = fish
+life_rating = 35

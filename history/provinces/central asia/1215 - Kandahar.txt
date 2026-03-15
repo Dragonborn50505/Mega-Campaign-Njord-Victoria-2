@@ -1,8 +1,5 @@
-owner=X02
-controller=X02
-add_core=KHO
-add_core=PER
-add_core=X02
+owner = AFG
+controller = AFG
+add_core = AFG
 trade_goods = wool
 life_rating = 35
-terrain = dryhills

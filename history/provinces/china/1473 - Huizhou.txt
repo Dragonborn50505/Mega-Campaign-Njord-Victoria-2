@@ -1,6 +1,11 @@
-owner=YUA
-controller=YUA
-add_core=CHI
-add_core=YUA
-trade_goods = silk
+owner = CHI
+controller = CHI
+add_core = CHI
+add_core = TPG
+trade_goods = tea
 life_rating = 32
+1861.1.1 = {
+	controller = TPG
+	owner = TPG
+	
+}

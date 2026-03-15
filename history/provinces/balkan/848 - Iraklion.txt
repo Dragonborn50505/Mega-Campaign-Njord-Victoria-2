@@ -1,7 +1,12 @@
-owner=AUG
-controller=AUG
-add_core=AUG
-add_core=GRE
-add_core=HLR
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = CRE
+add_core = GRE
 trade_goods = fruit
 life_rating = 35
+
+1861.1.1 = {
+	controller = TUR 
+	owner = TUR
+}

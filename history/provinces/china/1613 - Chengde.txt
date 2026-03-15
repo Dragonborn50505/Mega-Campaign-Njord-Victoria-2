@@ -1,9 +1,5 @@
-owner=YUA
-controller=YUA
-add_core=CHI
-add_core=MNX
-add_core=YAN
-add_core=YUA
-trade_goods = grain
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = iron
 life_rating = 32
-fort = 1

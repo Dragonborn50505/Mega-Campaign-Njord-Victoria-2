@@ -1,6 +1,5 @@
-owner=YEM
-controller=YEM
-add_core=MED
-trade_goods = fruit
-life_rating = 32
-terrain = semidesert
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = tropical_wood
+life_rating = 30

@@ -1,9 +1,10 @@
-owner=AVA
-controller=AVA
-add_core=AVA
-add_core=BUR
-add_core=IDO
-add_core=PEG
+owner = BUR
+controller = BUR
+add_core = BUR
 trade_goods = grain
-life_rating = 35
-fort = 1
+life_rating = 30
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}

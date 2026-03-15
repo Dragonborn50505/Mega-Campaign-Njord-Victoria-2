@@ -1,5 +1,9 @@
-owner=LOU
-controller=LOU
-add_core=LOU
-trade_goods = fish
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = iron
 life_rating = 35
+colony = 2
+1861.1.1 = {
+	colony = 0
+	}
