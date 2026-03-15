@@ -1,5 +1,3 @@
-owner=X15
-controller=X15
-add_core=X15
+add_core=u
 trade_goods = grain
 life_rating = 35

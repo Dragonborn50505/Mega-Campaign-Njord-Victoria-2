@@ -1,6 +1,6 @@
-owner=YUA
-controller=YUA
-add_core=YUA
+owner=CHI
+controller=CHI
+add_core=CHI
 trade_goods = fish
 life_rating = 32
 fort = 1
