@@ -1,0 +1,50 @@
+song = {
+    name = "forgodandqueen.mp3"
+
+    chance = { modifier = { factor = 0.1 } }
+}
+song = {
+    name = "adayatthecourt.mp3"
+
+    chance = { modifier = { factor = 0.1 } }
+}
+song = {
+    name = "WheeWhooDays.mp3"
+
+    chance = { modifier = { factor = 0.1 } }
+}
+song = {
+    name = "battlehymnoftherepublic.mp3"
+
+    chance = { modifier = { factor = 0.1 } }
+}
+song = {
+    name = "buckinghampalace.mp3"
+
+    chance = { modifier = { factor = 0.1 } }
+}
+song = {
+    name = "countryside.mp3"
+
+    chance = { modifier = { factor = 0.1 } }
+}
+song = {
+    name = "deathofprincealbert.mp3"
+
+    chance = { modifier = { factor = 0.1 } }
+}
+song = {
+    name = "WheeWhooDays.mp3"
+
+    chance = { modifier = { factor = 1.0 } }
+}
+song = {
+    name = "forgodandqueen.mp3"
+
+    chance = { modifier = { factor = 1 } }
+}
+song = {
+    name = "marchingthroughgeorgia.mp3"
+
+    chance = { modifier = { factor = 6 } }
+}
