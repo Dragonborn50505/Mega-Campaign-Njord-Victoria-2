@@ -59,4 +59,12 @@ STEP 3 – Launch the game
 2. Enable "NjordVictoria2" in the launcher
 3. Start the game
 
+-----------------------------------------------------------
+
+STEP 4 – Switch to windowed
+
+1. Go to settings
+2. Switch to windowed
+3. Restart the Game
+
 ===========================================================
