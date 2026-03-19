@@ -1,7 +1,7 @@
-owner=UKR
-controller=UKR
+owner=RYA
+controller=RYA
 add_core=GRH
-add_core=UKR
+add_core=RYA
 add_core=X11
 trade_goods = grain
 life_rating = 35

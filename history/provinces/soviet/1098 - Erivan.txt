@@ -1,5 +1,5 @@
-owner=UKR
-controller=UKR
+owner=GEO
+controller=GEO
 add_core=ARM
 trade_goods = iron
 life_rating = 35
