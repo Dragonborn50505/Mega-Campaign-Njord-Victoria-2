@@ -1,4 +1,8 @@
 #cb_types.txt;;;;;;;;;;;;;;
+take_capital;Take Capital;Prendre territoire clé;Kernprovinz erwerben;;;;;;;;;;;
+take_capital_short;Take Capital;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
+take_capital_desc;Sieze the enemies capital state;Prendre un §YÉtat§W ennemi où nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;;;;;;;;;;
+take_capital_setup;Take Capital $STATE$ from $RECIPIENT$;Prendre État clé $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
 dismantle_cb;Dismantle Nation;Grande Guerre;Gesamtkrieg;;;;;;;;;;;
 dismantle_cb_short;Force $RECIPIENT$ to dismantle their empire;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;;;;;
 dismantle_cb_desc;Force an enemy §Ygreat power§W to dismantle their empire and pay reparations;Obliger un autre §Ypays§W à se désarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrüstung und zu Reparationszahlungen an uns.;;;;;;;;;;;

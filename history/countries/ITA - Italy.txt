@@ -7,7 +7,7 @@ culture = zzz_religion_orthodox
 religion = orthodox
 government = presidential_dictatorship
 plurality = 0
-nationalvalue = nv_productivity
+nationalvalue = nv_order
 literacy = 0.303622
 
 civilized = yes
