@@ -1,15 +1,13 @@
-song = {
-    name = "forgodandqueen.mp3"
+# Silences
 
-    chance = { modifier = { factor = 0.1 } }
-}
+# For reasons unknow to man, if there are less than 7 songs for any given occasion, the game wont properly play said songs.
+# They will only play once and never loop, I believe the game is still trying to make a full playlist, which has to have at least 7 songs,
+# and so, the unfinished playlist glitches out and the game goes silence.
+# Those 7 silence mp3s are here to ensure the game has at least 7 things to play, I'm 100% sure this will never happen, but who knows all the edge cases...
+# And yes, they will some times play during normal gameplay, but it's fine, it's actually good to have moments of silence from time to time
+
 song = {
     name = "adayatthecourt.mp3"
-
-    chance = { modifier = { factor = 0.1 } }
-}
-song = {
-    name = "WheeWhooDays.mp3"
 
     chance = { modifier = { factor = 0.1 } }
 }
@@ -34,56 +32,23 @@ song = {
     chance = { modifier = { factor = 0.1 } }
 }
 song = {
-    name = "WheeWhooDays.mp3"
+    name = "europeanno1850.mp3"
 
-    chance = { modifier = { factor = 1.0 } }
+    chance = { modifier = { factor = 0.1 } }
 }
 song = {
     name = "forgodandqueen.mp3"
 
-    chance = { modifier = { factor = 1 } }
-}
-song = {
-    name = "marchingthroughgeorgia.mp3"
-
-    chance = { modifier = { factor = 1 } }
+    chance = { modifier = { factor = 0.1 } }
 }
 
-######################################################
 
+####################################################################################################################################
+ 
 # Generic Peace
  
 song = {
 	name = "Peace/OutsiderNoMore.mp3"
-	chance = {
-		modifier = { factor = 1 }
-		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
-	}
-}
-song = {
-	name = "03. Drizzle.mp3"
-	chance = {
-		modifier = { factor = 1.5 }
-		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
-	}
-}
-song = {
-	name = "02. I Will Beat on Your Behind.mp3"
-	chance = {
-		modifier = { factor = 1.5 }
-		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
-	}
-}
-song = {
-	name = "01. Shamburger.mp3"
-	chance = {
-		modifier = { factor = 1.5 }
-		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
-	}
-}
-
-song = {
-	name = "countryside.mp3"
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
@@ -137,63 +102,23 @@ song = {
 		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
 	}
 }
-
-
-
-song = {
-	name = "marchingthroughgeorgia.mp3"
-	chance = {
-		modifier = { factor = 0.1 }
-		modifier = { factor = 5 ruling_party_ideology = communist }
-	}
-}
-
-song = {
-	name = "adayatthecourt.mp3"
-	chance = {
-		modifier = { factor = 0.1 }
-		modifier = { factor = 2 OR = { tag = JAP tag = RUS ruling_party_ideology = communist}  }
-	}
-}
-
-song = {
-	name = "01. Main Theme.mp3"
-	chance = {
-		modifier = { factor = 0.1 }
-		modifier = { factor = 2 OR = { tag = JAP tag = NET tag = RUS ruling_party_ideology = communist}  }
-	}
-}
-
  
+
+song = {
+	name = "Indashades/02. I Will Beat on Your Behind.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
+}
+
+
 ####################################################################################################################################
  
 # Generic War
  
- song = {
-	name = "12. The Great Old Enemy.mp3"
-	chance = {
-		modifier = { factor = 12 }
-		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass }  }
-	}
-}
- 
 song = {
 	name = "War/Zoltraak.mp3"
-	chance = {
-		modifier = { factor = 10 }
-		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
-	}
-}
-song = {
-	name = "thecoronation_titletheme.mp3"
-	chance = {
-		modifier = { factor = 10 }
-		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
-	}
-}
-
-song = {
-	name = "battlehymnoftherepublic.mp3"
 	chance = {
 		modifier = { factor = 10 }
 		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
@@ -283,8 +208,32 @@ song = {
 song = {
 	name = "War/Taking Down the Paintress (Instrumental).mp3"
 	chance = {
-		modifier = { factor = 10 }
+		modifier = { factor = 100 }
 		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+song = {
+	name = "Indashades/12. The Great Old Enemy.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass }  }
+	}
+}
+
+song = {
+	name = "Indashades/The_City_Must_Survive.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass }  }
+	}
+}
+
+song = {
+	name = "Indashades/The_Great_Old_Enemy.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass }  }
 	}
 }
 
@@ -303,7 +252,9 @@ song = {
     name = "Troll/Anime/BlingBangBangBorn.mp3"
     chance = {
         modifier = { factor = 0.01 }
-        modifier = { factor = 10 tag = JAP }
+        modifier = { factor = 2 tag = JAP }
+		modifier = { factor = 2 tag = POL }
+		modifier = { factor = 2 tag = FRA }
     }
 }
 
@@ -311,7 +262,9 @@ song = {
 	name = "Troll/Anime/Idol YOASOBI.mp3"
 	chance = {
 		modifier = { factor = 0.01 }
-        modifier = { factor = 10 tag = JAP }
+        modifier = { factor = 2 tag = JAP }
+        modifier = { factor = 2 tag = POL }
+		modifier = { factor = 2 tag = FRA }
 	}
 }
 
@@ -319,7 +272,9 @@ song = {
 	name = "Troll/Anime/La La La.mp3"
 	chance = {
 		modifier = { factor = 0.01 }
-        modifier = { factor = 10 tag = JAP }
+        modifier = { factor = 2 tag = JAP }
+		modifier = { factor = 2 tag = POL }
+		modifier = { factor = 2 tag = FRA }
 	}
 }
 
@@ -327,6 +282,8 @@ song = {
 	name = "Troll/Anime/Pain.mp3"
 	chance = {
 		modifier = { factor = 0.01 }
+		modifier = { factor = 0.5 tag = POL }
+		modifier = { factor = 0.5 tag = FRA }
 	}
 }
 
@@ -334,6 +291,7 @@ song = {
 	name = "Troll/Expedition/Pour que Naisse un Bouquet.mp3"
 	chance = {
 		modifier = { factor = 0.1 }
+		modifier = { factor = 1 tag = NET }
 	}
 }
 
@@ -341,6 +299,7 @@ song = {
 	name = "Troll/Expedition/Monoco.mp3"
 	chance = {
 		modifier = { factor = 0.1 }
+		modifier = { factor = 100 tag = FRA }
 	}
 }
 
@@ -348,6 +307,7 @@ song = {
 	name = "Troll/Expedition/Alicia.mp3"
 	chance = {
 		modifier = { factor = 0.1 }
+		modifier = { factor = 100 tag = NET }
 	}
 }
 
@@ -380,8 +340,9 @@ song = {
 song = {
 	name = "Poland/Ich Bin Soldat.mp3"
 	chance = {
-		modifier = { factor = 1 }
-        modifier = { factor = 0 NOT = { OR = { tag = PRU tag = GER } } }
+		modifier = { factor = 0 }
+		modifier = { factor = 1 tag = PRU }
+		modifier = { factor = 1 tag = GER }
         modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
 	}
 }
@@ -403,5 +364,71 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
         modifier = { factor = 0 NOT = { tag = FRA } }
+	}
+}
+
+####################################################################################################################################
+ 
+# Russia
+
+# Peace
+
+song = {
+	name = "Indashades/03. Drizzle.mp3"
+	chance = {
+		modifier = { factor = 1.5 }
+        modifier = { factor = 0 NOT = { tag = RUS } }
+	}
+}
+
+song = {
+	name = "Indashades/01. Shamburger.mp3"
+	chance = {
+		modifier = { factor = 1.5 }
+        modifier = { factor = 0 NOT = { tag = RUS } }
+	}
+}
+
+song = {
+	name = "Indashades/KILLYOURSELFSONG.mp3"
+	chance = {
+		modifier = { factor = 100 }
+        modifier = { factor = 0 NOT = { tag = RUS } }
+	}
+}
+
+song = {
+	name = "France/Degeneration.mp3"
+	chance = {
+		modifier = { factor = 1 }
+        modifier = { factor = 0 NOT = { tag = RUS } }
+	}
+}
+
+####################################################################################################################################
+ 
+# Communist
+
+song = {
+	name = "Indashades/Red_Alert_3.mp3"
+	chance = {
+		modifier = { factor = 0.1 }
+		modifier = { factor = 5 ruling_party_ideology = communist }
+	}
+}
+
+song = {
+	name = "Indashades/We_Expand.mp3"
+	chance = {
+		modifier = { factor = 0.1 }
+		modifier = { factor = 2 OR = { tag = JAP tag = RUS ruling_party_ideology = communist}  }
+	}
+}
+
+song = {
+	name = "Indashades/01. Main Theme.mp3"
+	chance = {
+		modifier = { factor = 0.1 }
+		modifier = { factor = 2 OR = { tag = JAP tag = RUS ruling_party_ideology = communist}  }
 	}
 }
