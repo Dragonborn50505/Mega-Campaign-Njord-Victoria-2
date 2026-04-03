@@ -43,7 +43,7 @@ political_decisions = {
 			BYZ = {
 				set_country_flag = player_country
 				any_pop = 2
-				any_pop = { literacy = 0.15 }
+				any_pop = { literacy = 0.25 }
 			}
 			YUA = {
 				set_country_flag = player_country

@@ -3655,6 +3655,13 @@ china_acquire_state = {
     always = yes
 
     can_use = {
+        OR = {
+            AND = {
+                NOT = { tag = MGL }
+                NOT = { tag = YUA }
+            }
+            year = 1946
+        }
         NOT = { is_our_vassal = THIS }
         neighbour = THIS
         OR = {
@@ -3663,10 +3670,17 @@ china_acquire_state = {
                 is_core = CHI
             }
             is_culture_group = east_asian
+            tag = MGL
+            tag = YUA
         }
         THIS = {
             NOT = { tag = LAN }
-            is_culture_group = east_asian
+            OR = {
+                is_culture_group = east_asian
+                tag = MGL
+                tag = YUA
+            }
+            
             NOT = {
                 has_country_modifier = neutrality_modifier
                 war_policy = pacifism
@@ -3678,6 +3692,11 @@ china_acquire_state = {
             THIS = { NOT = { has_country_modifier = no_more_war } }
         }
         OR = {
+            OR = {
+                is_culture_group = east_asian
+                tag = MGL
+                tag = YUA
+            }
             NOT = { has_global_flag = warlord_era_has_begun }
             owns = 1616
             NOT = { is_culture_group = east_asian }
@@ -3743,11 +3762,22 @@ china_acquire_state = {
             any_owned_province = {
                 NOT = {    is_core = THIS }
                 is_core = CHI
+                is_core = X00
             }
-            any_owned_province = {
-                owner = { is_culture_group = east_asian }
-                NOT = { is_core = CHI }
+            AND = {
+                THIS = { has_country_flag = SEA_YUA_CONQ }
+                any_owned_province = {
+                    OR = {
+                        region = DAI_1369
+                        region = DAI_1375
+                        region = DAI_1380
+                        region = SIA_1366
+                        region = LUA_1356
+                        region = SIA_1358
+                    }
+                }
             }
+           
         }
     }
 
