@@ -144,6 +144,13 @@ political_decisions = {
 					remove_claim = POL
 				}
 			}
+			africa = {
+				limit = {
+					empty = yes
+					life_rating = 31
+				}
+				life_rating = -21
+			}
 		}
 	}
 }

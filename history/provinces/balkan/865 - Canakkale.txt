@@ -1,6 +1,7 @@
 owner=X18
 controller=X18
 add_core=X18
-trade_goods = fish
+trade_goods = dye
 life_rating = 35
 fort = 1
+naval_base = 1

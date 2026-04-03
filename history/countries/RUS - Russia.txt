@@ -82,7 +82,6 @@ the_command_principle = 1
 prestige=1.2227
 oob = "RUS_OOB.txt"
 set_country_flag = religi
-decision = RUS_setup_1836
 set_country_flag = vic2_country_RUS
 set_country_flag = eu4_country_RUS
 
